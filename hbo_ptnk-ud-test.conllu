@@ -708,10 +708,10 @@
 7	נֹ֖חַ	נח	PROPN	nmpr	Gender=Masc|Number=Sing	2	xcomp	_	_
 8-9	לֵאמֹ֑ר	_	_	_	_	_	_	_	_
 8	_	ל	ADP	prep	_	9	case	_	_
-9	_	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	2	advcl	_	_
+9	_	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	11	mark	_	_
 10	זֶ֞֠ה	זה	PRON	prde	Gender=Masc|Number=Sing	11	nsubj	_	_
 11-12	יְנַחֲמֵ֤נוּ	_	_	_	_	_	_	_	_
-11	_	נחם	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	9	ccomp	_	_
+11	_	נחם	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	_
 12	_	אנחנו	PRON	prn	Number=Plur|Person=1	11	obj	_	_
 13-15	מִֽמַּעֲשֵׂ֨נוּ֙	_	_	_	_	_	_	_	_
 13	_	מן	ADP	prep	_	14	case	_	_
