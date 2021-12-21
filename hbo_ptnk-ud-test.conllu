@@ -581,7 +581,7 @@
 7	_	אלהים	NOUN	subs	Gender=Masc|Number=Plur	2	obl	_	_
 8-10	וְאֵינֶ֕נּוּ	_	_	_	_	_	_	_	_
 8	_	ו	CCONJ	conj	_	9	cc	_	_
-9	_	אין	AUX	subs	Gender=Masc|Number=Sing	2	conj	_	_
+9	_	אין	VERB	subs	_	2	conj	_	_
 10	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3	9	nsubj	_	_
 11	כִּֽי	כי	SCONJ	conj	_	13	mark	_	SpaceAfter=No
 12	־	־	PUNCT	punct	_	11	punct	_	SpaceAfter=No
