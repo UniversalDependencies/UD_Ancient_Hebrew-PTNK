@@ -1022,7 +1022,7 @@
 32	־	־	PUNCT	punct	_	31	punct	_	SpaceAfter=No
 33-34	בֹּ֥ו	_	_	_	_	_	_	_	_
 33	_	ב	ADP	prep	_	34	case	_	_
-34	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	30	acl	_	_
+34	_	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	27	acl	_	_
 35	פְרִי	פרי	NOUN	subs	Gender=Masc|Number=Sing	34	nsubj	_	SpaceAfter=No
 36	־	־	PUNCT	punct	_	37	punct	_	SpaceAfter=No
 37	עֵ֖ץ	עץ	NOUN	subs	Gender=Masc|Number=Sing	35	compound:smixut	_	_
@@ -1042,7 +1042,7 @@
 1-3	וּֽלְכָל	_	_	_	_	_	_	_	SpaceAfter=No
 1	_	ו	CCONJ	conj	_	32	cc	_	_
 2	_	ל	ADP	prep	_	3	case	_	_
-3	_	כל	NOUN	subs	Gender=Masc|Number=Sing	32	obl	_	_
+3	_	כל	NOUN	subs	Gender=Masc|Number=Sing	32	orphan	_	_
 4	־	־	PUNCT	punct	_	5	punct	_	SpaceAfter=No
 5	חַיַּ֣ת	חיה	NOUN	subs	Gender=Fem|Number=Sing	3	compound:smixut	_	_
 6-7	הָ֠אָרֶץ	_	_	_	_	_	_	_	_
