@@ -3510,7 +3510,7 @@
 20	תּֽוּבַל	תובל	PROPN	nmpr	Gender=Masc|Number=Sing	19	compound:smixut	_	SpaceAfter=No
 21	־	־	PUNCT	punct	_	22	punct	_	SpaceAfter=No
 22	קַ֖יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	20	flat:name	_	_
-23	נַֽעֲמָֽה	נעמה	PROPN	nmpr	Gender=Fem|Number=Sing	11	conj	_	SpaceAfter=No
+23	נַֽעֲמָֽה	נעמה	PROPN	nmpr	Gender=Fem|Number=Sing	6	conj	_	SpaceAfter=No
 24	׃	׃	PUNCT	punct	_	6	punct	_	_
 
 # sent_id = Masoretic-Genesis-4:23-hbo
@@ -4606,7 +4606,7 @@
 26	_	אדם	NOUN	subs	Gender=Masc|Number=Sing	24	compound:smixut	_	_
 27-28	וְיָלְד֖וּ	_	_	_	_	_	_	_	_
 27	_	ו	CCONJ	conj	_	28	cc	_	_
-28	_	ילד	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	18	conj	_	_
+28	_	ילד	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	6	conj	_	_
 29-30	לָהֶ֑ם	_	_	_	_	_	_	_	_
 29	_	ל	ADP	prep	_	30	case	_	_
 30	_	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	28	obl	_	_
