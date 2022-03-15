@@ -5563,7 +5563,7 @@
 1-2	בִּשְׁנַ֨ת	_	_	_	_	_	_	_	_
 1	_	ב	ADP	prep	_	2	case	_	_
 2	_	שׁנה	NOUN	subs	Gender=Fem|Number=Sing	29	obl	_	_
-3	שֵׁשׁ	שׁשׁ	NUM	subs	Number=Sing|NumType=Card	2	nummod	_	SpaceAfter=No
+3	שֵׁשׁ	שׁשׁ	NUM	subs	Number=Sing|NumType=Card	6	nummod	_	SpaceAfter=No
 4	־	־	PUNCT	punct	_	5	punct	_	SpaceAfter=No
 5	מֵאֹ֤ות	מאה	NUM	subs	Gender=Fem|Number=Plur|NumType=Card	3	flat	_	_
 6	שָׁנָה֙	שׁנה	NOUN	subs	Gender=Fem|Number=Sing	2	compound:smixut	_	_
