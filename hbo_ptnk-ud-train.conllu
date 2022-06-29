@@ -13044,7 +13044,7 @@
 3	אל	אל	ADP	prep	_	4	case	_	Ref=GEN_42.14
 4	הם	הם	PRON	prn	Gender=Masc|Number=Plur|Person=3|PronType=Prs	2	obl	_	Ref=GEN_42.14
 5	יֹוסֵ֑ף	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Ref=GEN_42.14
-6	ה֗וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Ref=GEN_42.14
+6	ה֗וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	8	nsubj:outer	_	Ref=GEN_42.14
 7	אֲשֶׁ֨ר	אשׁר	SCONJ	conj	_	8	mark	_	Ref=GEN_42.14
 8	דִּבַּ֧רְתִּי	דבר	VERB	verb	Aspect=Perf|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	ccomp	_	Ref=GEN_42.14
 9-10	אֲלֵכֶ֛ם	_	_	_	_	_	_	_	_

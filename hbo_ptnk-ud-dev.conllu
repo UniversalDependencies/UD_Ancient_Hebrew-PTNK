@@ -1482,7 +1482,7 @@
 2	ה	ה	DET	art	PronType=Art	3	det	_	Ref=GEN_2.11
 3	אחד	אחד	NUM	subs	Number=Sing|NumType=Card	1	nummod	_	Ref=GEN_2.11
 4	פִּישֹׁ֑ון	פישׁון	PROPN	nmpr	Number=Sing	0	root	_	Ref=GEN_2.11
-5	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj	_	Ref=GEN_2.11
+5	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	nsubj:outer	_	Ref=GEN_2.11
 6-7	הַסֹּבֵ֗ב	_	_	_	_	_	_	_	_
 6	ה	ה	SCONJ	art	_	7	mark	_	Ref=GEN_2.11
 7	סבב	סבב	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	4	parataxis	_	Ref=GEN_2.11
@@ -1538,7 +1538,7 @@
 6	ה	ה	DET	art	PronType=Art	7	det	_	Ref=GEN_2.13
 7	שׁני	שׁני	NUM	adjv	Gender=Masc|Number=Sing|NumType=Ord	5	nummod	_	Ref=GEN_2.13
 8	גִּיחֹ֑ון	גיחון	PROPN	nmpr	Number=Sing	0	root	_	Ref=GEN_2.13
-9	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj	_	Ref=GEN_2.13
+9	ה֣וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	nsubj:outer	_	Ref=GEN_2.13
 10-11	הַסֹּובֵ֔ב	_	_	_	_	_	_	_	_
 10	ה	ה	SCONJ	art	_	11	mark	_	Ref=GEN_2.13
 11	סבב	סבב	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	8	parataxis	_	Ref=GEN_2.13
@@ -1561,7 +1561,7 @@
 5	ה	ה	DET	art	PronType=Art	6	det	_	Ref=GEN_2.14
 6	שׁלישׁי	שׁלישׁי	NUM	adjv	Gender=Masc|Number=Sing|NumType=Ord	4	nummod	_	Ref=GEN_2.14
 7	חִדֶּ֔קֶל	חדקל	PROPN	nmpr	Number=Sing	0	root	_	Ref=GEN_2.14
-8	ה֥וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	Ref=GEN_2.14
+8	ה֥וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	nsubj:outer	_	Ref=GEN_2.14
 9-10	הַֽהֹלֵ֖ךְ	_	_	_	_	_	_	_	_
 9	ה	ה	SCONJ	art	_	10	mark	_	Ref=GEN_2.14
 10	הלך	הלך	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	7	parataxis	_	Ref=GEN_2.14
@@ -4933,7 +4933,7 @@
 # text = וְזֶ֕ה אֲשֶׁ֥ר תַּֽעֲשֶׂ֖ה אֹתָ֑הּ שְׁלֹ֧שׁ מֵאֹ֣ות אַמָּ֗ה אֹ֚רֶךְ הַתֵּבָ֔ה חֲמִשִּׁ֤ים אַמָּה֙ רָחְבָּ֔הּ וּשְׁלֹשִׁ֥ים אַמָּ֖ה קֹומָתָֽהּ׃
 1-2	וְזֶ֕ה	_	_	_	_	_	_	_	_
 1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_6.15
-2	זה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj	_	Ref=GEN_6.15
+2	זה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	4	nsubj:outer	_	Ref=GEN_6.15
 3	אֲשֶׁ֥ר	אשׁר	SCONJ	conj	_	4	mark	_	Ref=GEN_6.15
 4	תַּֽעֲשֶׂ֖ה	עשׂה	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_6.15
 5-6	אֹתָ֑הּ	_	_	_	_	_	_	_	_
@@ -11678,7 +11678,7 @@
 14	־	־	PUNCT	punct	_	13	punct	_	Ref=GEN_15.4|SpaceAfter=No
 15	אִם֙	אם	SCONJ	conj	_	22	mark	_	Ref=GEN_15.4
 16	אֲשֶׁ֣ר	אשׁר	SCONJ	conj	_	17	mark	_	Ref=GEN_15.4
-17	יֵצֵ֣א	יצא	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	22	csubj	_	Ref=GEN_15.4
+17	יֵצֵ֣א	יצא	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	22	dislocated	_	Ref=GEN_15.4
 18-20	מִמֵּעֶ֔יךָ	_	_	_	_	_	_	_	_
 18	מן	מן	ADP	prep	_	19	case	_	Ref=GEN_15.4
 19	מעים	מעים	NOUN	subs	Gender=Masc|Number=Plur	17	obl	_	Ref=GEN_15.4
