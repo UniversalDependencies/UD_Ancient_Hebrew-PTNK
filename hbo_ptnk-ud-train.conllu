@@ -2764,7 +2764,7 @@
 11-12	וַֽיַּעֲבֵ֖ר	_	_	_	_	_	_	_	_
 11	ו	ו	CCONJ	conj	_	12	cc	_	Ref=GEN_32.24
 12	עבר	עבר	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_32.24
-13	אֶת	את	ADP	prep	_	12	obl	_	Ref=GEN_32.24|SpaceAfter=No
+13	אֶת	את	ADP	prep	_	12	obj	_	Ref=GEN_32.24|SpaceAfter=No
 14	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_32.24|SpaceAfter=No
 15	אֲשֶׁר	אשׁר	SCONJ	conj	_	18	mark	_	Ref=GEN_32.24|SpaceAfter=No
 16	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_32.24|SpaceAfter=No
@@ -4247,7 +4247,7 @@
 15	אתם	אתם	PRON	prn	Gender=Masc|Number=Plur|Person=2|PronType=Prs	13	obl	_	Ref=GEN_34.15
 16	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	13	nsubj	_	Ref=GEN_34.15|SpaceAfter=No
 17	־	־	PUNCT	punct	_	18	punct	_	Ref=GEN_34.15|SpaceAfter=No
-18	זָכָֽר	זכר	ADJ	adjv	Gender=Masc|Number=Sing	16	compound:smixut	_	Ref=GEN_34.15|SpaceAfter=No
+18	זָכָֽר	זכר	NOUN	adjv	Gender=Masc|Number=Sing	16	compound:smixut	_	Ref=GEN_34.15|SpaceAfter=No
 19	׃	׃	PUNCT	punct	_	5	punct	_	Ref=GEN_34.15
 
 # sent_id = Masoretic-Genesis-34:16-hbo
@@ -4635,7 +4635,7 @@
 35	הרג	הרג	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_34.25
 36	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	35	obj	_	Ref=GEN_34.25|SpaceAfter=No
 37	־	־	PUNCT	punct	_	38	punct	_	Ref=GEN_34.25|SpaceAfter=No
-38	זָכָֽר	זכר	ADJ	adjv	Gender=Masc|Number=Sing	36	compound:smixut	_	Ref=GEN_34.25|SpaceAfter=No
+38	זָכָֽר	זכר	NOUN	adjv	Gender=Masc|Number=Sing	36	compound:smixut	_	Ref=GEN_34.25|SpaceAfter=No
 39	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_34.25
 
 # sent_id = Masoretic-Genesis-34:26-hbo
@@ -15229,7 +15229,7 @@
 1-2	וַיְצַ֞ו	_	_	_	_	_	_	_	_
 1	ו	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_44.1
 2	צוה	צוה	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_44.1
-3	אֶת	את	ADP	prep	_	2	obl	_	Ref=GEN_44.1|SpaceAfter=No
+3	אֶת	את	ADP	prep	_	2	obj	_	Ref=GEN_44.1|SpaceAfter=No
 4	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_44.1|SpaceAfter=No
 5	אֲשֶׁ֣ר	אשׁר	SCONJ	conj	_	8	mark	_	Ref=GEN_44.1
 6	עַל	על	ADP	prep	_	8	case	_	Ref=GEN_44.1|SpaceAfter=No

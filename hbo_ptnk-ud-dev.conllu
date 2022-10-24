@@ -2683,7 +2683,7 @@
 12	אֵ֥ם	אם	NOUN	subs	Gender=Fem|Number=Sing	2	advcl	_	Ref=GEN_3.20
 13	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	12	compound:smixut	_	Ref=GEN_3.20|SpaceAfter=No
 14	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_3.20|SpaceAfter=No
-15	חָֽי	חי	ADJ	adjv	Gender=Masc|Number=Sing	13	compound:smixut	_	Ref=GEN_3.20|SpaceAfter=No
+15	חָֽי	חי	NOUN	adjv	Gender=Masc|Number=Sing	13	compound:smixut	_	Ref=GEN_3.20|SpaceAfter=No
 16	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_3.20
 
 # sent_id = Masoretic-Genesis-3:21-hbo
@@ -4996,7 +4996,7 @@
 25	שְׁנִיִּ֥ם	שׁני	NUM	adjv	Gender=Masc|Number=Plur|NumType=Ord	24	conj	_	Ref=GEN_6.16
 26-27	וּשְׁלִשִׁ֖ים	_	_	_	_	_	_	_	_
 26	ו	ו	CCONJ	conj	_	27	cc	_	Ref=GEN_6.16
-27	שׁלישׁי	שׁלישׁי	NUM	adjv	Gender=Masc|Number=Plur|NumType=Ord	25	conj	_	Ref=GEN_6.16
+27	שׁלישׁי	שׁלישׁי	NUM	adjv	Gender=Masc|Number=Plur|NumType=Ord	24	conj	_	Ref=GEN_6.16
 28-29	תַּֽעֲשֶֽׂהָ	_	_	_	_	_	_	_	SpaceAfter=No
 28	עשׂה	עשׂה	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	3	parataxis	_	Ref=GEN_6.16
 29	היא	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	28	obj	_	Ref=GEN_6.16
@@ -6278,7 +6278,7 @@
 3-4	מִקֵּ֖ץ	_	_	_	_	_	_	_	_
 3	מן	מן	ADP	prep	_	4	case	_	Ref=GEN_8.6
 4	קץ	קץ	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_8.6
-5	אַרְבָּעִ֣ים	ארבע	NUM	subs	Gender=Masc|Number=Plur|NumType=Card	4	nummod	_	Ref=GEN_8.6
+5	אַרְבָּעִ֣ים	ארבע	NUM	subs	Gender=Masc|Number=Plur|NumType=Card	6	nummod	_	Ref=GEN_8.6
 6	יֹ֑ום	יום	NOUN	subs	Gender=Masc|Number=Sing	4	compound:smixut	_	Ref=GEN_8.6
 7-8	וַיִּפְתַּ֣ח	_	_	_	_	_	_	_	_
 7	ו	ו	CCONJ	conj	_	8	cc	_	Ref=GEN_8.6
@@ -12287,7 +12287,7 @@
 14-15	מִקֵּץ֙	_	_	_	_	_	_	_	_
 14	מן	מן	ADP	prep	_	15	case	_	Ref=GEN_16.3
 15	קץ	קץ	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_16.3
-16	עֶ֣שֶׂר	עשׂר	NUM	subs	Gender=Masc|Number=Sing|NumType=Card	15	nummod	_	Ref=GEN_16.3
+16	עֶ֣שֶׂר	עשׂר	NUM	subs	Gender=Masc|Number=Sing|NumType=Card	17	nummod	_	Ref=GEN_16.3
 17	שָׁנִ֔ים	שׁנה	NOUN	subs	Gender=Fem|Number=Plur	15	compound:smixut	_	Ref=GEN_16.3
 18-19	לְשֶׁ֥בֶת	_	_	_	_	_	_	_	_
 18	ל	ל	ADP	prep	_	19	case	_	Ref=GEN_16.3
@@ -13050,7 +13050,7 @@
 19	אתם	אתם	PRON	prn	Gender=Masc|Number=Plur|Person=2|PronType=Prs	17	obl	_	Ref=GEN_17.10
 20	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	17	nsubj	_	Ref=GEN_17.10|SpaceAfter=No
 21	־	־	PUNCT	punct	_	22	punct	_	Ref=GEN_17.10|SpaceAfter=No
-22	זָכָֽר	זכר	ADJ	adjv	Gender=Masc|Number=Sing	20	compound:smixut	_	Ref=GEN_17.10|SpaceAfter=No
+22	זָכָֽר	זכר	NOUN	adjv	Gender=Masc|Number=Sing	20	compound:smixut	_	Ref=GEN_17.10|SpaceAfter=No
 23	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_17.10
 
 # sent_id = Masoretic-Genesis-17:11-hbo
@@ -13281,8 +13281,8 @@
 15	ה	ה	PART	inrg	_	21	mark	_	Ref=GEN_17.17
 16	ל	ל	ADP	prep	_	17	case	_	Ref=GEN_17.17
 17	בן	בן	NOUN	subs	Gender=Masc|Number=Sing	21	obl	_	Ref=GEN_17.17
-18	מֵאָֽה	מאה	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	17	nummod	_	Ref=GEN_17.17|SpaceAfter=No
-19	־	־	PUNCT	punct	_	20	punct	_	Ref=GEN_17.17|SpaceAfter=No
+18	מֵאָֽה	מאה	NUM	subs	Gender=Fem|Number=Sing|NumType=Card	20	nummod	_	Ref=GEN_17.17|SpaceAfter=No
+19	־	־	PUNCT	punct	_	18	punct	_	Ref=GEN_17.17|SpaceAfter=No
 20	שָׁנָה֙	שׁנה	NOUN	subs	Gender=Fem|Number=Sing	17	compound:smixut	_	Ref=GEN_17.17
 21	יִוָּלֵ֔ד	ילד	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=NIFAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	11	ccomp	_	Ref=GEN_17.17
 22-23	וְאִ֨ם	_	_	_	_	_	_	_	SpaceAfter=No
