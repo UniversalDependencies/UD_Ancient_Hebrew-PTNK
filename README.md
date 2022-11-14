@@ -8,20 +8,47 @@ This treebank contains portions of the Hebrew Bible as digitized and annotated i
 
 The corpus can be found at [github.com/etcbc/bhsa](https://github.com/etcbc/bhsa). The dependency annotations were generated using VISL CG-3 and manually verified by Daniel Swanson. The code for generating them can be found at [https://github.com/mr-martian/hbo-UD](https://github.com/mr-martian/hbo-UD). Errors in the data should be reported to that repository.
 
+# Data Split
+
+The following texts are included in this treebank:
+
+| Book    | Chapters | Split | Added |
+|---------|----------|-------|-------|
+| Genesis | 1-18     | Dev   | 2.10  |
+|         | 19-30    | Test  | 2.10  |
+|         | 31-50    | Train | 2.10  |
+| Ruth    | 1-4      | Train | 2.10  |
+
 # Acknowledgments
 
 ...
 
 ## References
 
-* (citation)
-
+```
+@inproceedings{swanson-tyers-2022-universal,
+    title = "A {U}niversal {D}ependencies Treebank of {A}ncient {H}ebrew",
+    author = "Swanson, Daniel  and
+      Tyers, Francis",
+    booktitle = "Proceedings of the Thirteenth Language Resources and Evaluation Conference",
+    month = jun,
+    year = "2022",
+    address = "Marseille, France",
+    publisher = "European Language Resources Association",
+    url = "https://aclanthology.org/2022.lrec-1.252",
+    pages = "2353--2361",
+    abstract = "In this paper we present the initial construction of a Universal Dependencies treebank with morphological annotations of Ancient Hebrew containing portions of the Hebrew Scriptures (1579 sentences, 27K tokens) for use in comparative study with ancient translations and for analysis of the development of Hebrew syntax. We construct this treebank by applying a rule-based parser (300 rules) to an existing morphologically-annotated corpus with minimal constituency structure and manually verifying the output and present the results of this semi-automated annotation process and some of the annotation decisions made in the process of applying the UD guidelines to a new language.",
+}
+```
 
 # Changelog
 
 * 2022-05-15 v2.10
   * Initial release in Universal Dependencies.
-
+  * Add Genesis and Ruth
+* 2022-11-01 v2.11
+  * Add FEATs `VerbForm` and `PronType`
+  * Add MISC `Ref`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
