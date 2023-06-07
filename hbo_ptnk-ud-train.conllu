@@ -5169,7 +5169,7 @@
 9	תַּ֥חַת	תחת	NOUN	subs	Gender=Masc|Number=Sing	7	obl	_	Ref=GEN_35.8
 10-11	לְבֵֽית	_	_	_	_	_	_	_	SpaceAfter=No
 10	לְ	ל	ADP	prep	_	11	case	_	Ref=GEN_35.8
-11	בֵֽית־אֵ֖ל	בית	NOUN	nmpr	Gender=Masc|Number=Sing	9	nmod	_	Ref=GEN_35.8
+11	בֵֽית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	9	nmod	_	Ref=GEN_35.8
 12	־	־	PUNCT	punct	_	13	punct	_	Ref=GEN_35.8|SpaceAfter=No
 13	אֵ֖ל	אל	NOUN	nmpr	Gender=Masc|Number=Sing	11	compound:smixut	_	Ref=GEN_35.8
 14	תַּ֣חַת	תחת	NOUN	subs	Gender=Masc|Number=Sing	9	appos	_	Ref=GEN_35.8
@@ -5417,7 +5417,7 @@
 2	יִּסְעוּ֙	נסע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_35.16
 3-4	מִבֵּ֣ית	_	_	_	_	_	_	_	_
 3	מִ	מן	ADP	prep	_	4	case	_	Ref=GEN_35.16
-4	בֵּ֣ית אֵ֔ל	בית	NOUN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_35.16
+4	בֵּ֣ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Ref=GEN_35.16
 5	אֵ֔ל	אל	NOUN	nmpr	Gender=Masc|Number=Sing	4	compound:smixut	_	Ref=GEN_35.16
 6-7	וַֽיְהִי	_	_	_	_	_	_	_	SpaceAfter=No
 6	וַֽ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_35.16
@@ -5504,7 +5504,7 @@
 13	בֶּן	בן	NOUN	nmpr	Gender=Masc|Number=Sing	10	xcomp	_	Ref=GEN_35.18|SpaceAfter=No
 14	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_35.18|SpaceAfter=No
 15-16	אֹונִ֑י	_	_	_	_	_	_	_	_
-15	בֶּן־אֹונִ֑י	און	NOUN	nmpr	Gender=Masc|Number=Sing	13	compound:smixut	_	Ref=GEN_35.18
+15	אֹונִ֑י	און	NOUN	nmpr	Gender=Masc|Number=Sing	13	compound:smixut	_	Ref=GEN_35.18
 16	prn	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	15	nmod:poss	_	Ref=GEN_35.18
 17-19	וְאָבִ֖יו	_	_	_	_	_	_	_	_
 17	וְ	ו	CCONJ	conj	_	20	cc	_	Ref=GEN_35.18
@@ -5577,7 +5577,7 @@
 9	הָ֖לְאָה	הלאה	ADV	advb	_	11	advmod	_	Ref=GEN_35.21
 10-11	לְמִגְדַּל	_	_	_	_	_	_	_	SpaceAfter=No
 10	לְ	ל	ADP	prep	_	11	case	_	Ref=GEN_35.21
-11	מִגְדַּל־עֵֽדֶר	מגדל	PROPN	nmpr	Number=Sing	5	obl	_	Ref=GEN_35.21
+11	מִגְדַּל	מגדל	PROPN	nmpr	Number=Sing	5	obl	_	Ref=GEN_35.21
 12	־	־	PUNCT	punct	_	13	punct	_	Ref=GEN_35.21|SpaceAfter=No
 13	עֵֽדֶר	עדר	PROPN	nmpr	Number=Sing	11	flat:name	_	Ref=GEN_35.21|SpaceAfter=No
 14	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_35.21
@@ -22415,7 +22415,7 @@
 16	אִ֜ישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Sing	15	nsubj	_	Ref=RUTH_1.1
 17-18	מִבֵּ֧ית	_	_	_	_	_	_	_	_
 17	מִ	מן	ADP	prep	_	18	case	_	Ref=RUTH_1.1
-18	בֵּ֧ית לֶ֣חֶם	בית	NOUN	nmpr	Gender=Masc|Number=Sing	16	nmod	_	Ref=RUTH_1.1
+18	בֵּ֧ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	16	nmod	_	Ref=RUTH_1.1
 19	לֶ֣חֶם	לחם	NOUN	nmpr	Gender=Masc|Number=Sing	18	compound:smixut	_	Ref=RUTH_1.1
 20	יְהוּדָ֗ה	יהודה	PROPN	nmpr	Number=Sing	18	appos	_	Ref=RUTH_1.1
 21-22	לָגוּר֙	_	_	_	_	_	_	_	_
@@ -22470,7 +22470,7 @@
 21	אֶפְרָתִ֔ים	אפרתי	NOUN	adjv	Gender=Masc|Number=Plur	5	parataxis	_	Ref=RUTH_1.2
 22-23	מִבֵּ֥ית	_	_	_	_	_	_	_	_
 22	מִ	מן	ADP	prep	_	23	case	_	Ref=RUTH_1.2
-23	בֵּ֥ית לֶ֖חֶם	בית	NOUN	nmpr	Gender=Masc|Number=Sing	21	nmod	_	Ref=RUTH_1.2
+23	בֵּ֥ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	21	nmod	_	Ref=RUTH_1.2
 24	לֶ֖חֶם	לחם	NOUN	nmpr	Gender=Masc|Number=Sing	23	compound:smixut	_	Ref=RUTH_1.2
 25	יְהוּדָ֑ה	יהודה	PROPN	nmpr	Number=Sing	23	appos	_	Ref=RUTH_1.2
 26-27	וַיָּבֹ֥אוּ	_	_	_	_	_	_	_	_
@@ -23307,7 +23307,7 @@
 5	בָּ֚א	בוא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=RUTH_2.4
 6-7	מִבֵּ֣ית	_	_	_	_	_	_	_	_
 6	מִ	מן	ADP	prep	_	7	case	_	Ref=RUTH_2.4
-7	בֵּ֣ית לֶ֔חֶם	בית	NOUN	nmpr	Gender=Masc|Number=Sing	5	obl	_	Ref=RUTH_2.4
+7	בֵּ֣ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	5	obl	_	Ref=RUTH_2.4
 8	לֶ֔חֶם	לחם	NOUN	nmpr	Gender=Masc|Number=Sing	7	compound:smixut	_	Ref=RUTH_2.4
 9-10	וַיֹּ֥אמֶר	_	_	_	_	_	_	_	_
 9	וַ	ו	CCONJ	conj	_	10	cc	_	Ref=RUTH_2.4
@@ -25301,7 +25301,7 @@
 51	שֵׁ֖ם	שׁם	NOUN	subs	Gender=Masc|Number=Sing	49	obj	_	Ref=RUTH_4.11
 52-53	בְּבֵ֥ית	_	_	_	_	_	_	_	_
 52	בְּ	ב	ADP	prep	_	53	case	_	Ref=RUTH_4.11
-53	בֵ֥ית לָֽחֶם	בית	NOUN	nmpr	Gender=Masc|Number=Sing	49	obl	_	Ref=RUTH_4.11
+53	בֵ֥ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	49	obl	_	Ref=RUTH_4.11
 54	לָֽחֶם	לחם	NOUN	nmpr	Gender=Masc|Number=Sing	53	compound:smixut	_	Ref=RUTH_4.11|SpaceAfter=No
 55	׃	׃	PUNCT	punct	_	2	punct	_	Ref=RUTH_4.11
 

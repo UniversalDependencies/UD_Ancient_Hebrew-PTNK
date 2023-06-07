@@ -1452,7 +1452,7 @@
 13	בֶּן	בן	NOUN	nmpr	Gender=Masc|Number=Sing	10	xcomp	_	Ref=GEN_19.38|SpaceAfter=No
 14	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_19.38|SpaceAfter=No
 15-16	עַמִּ֑י	_	_	_	_	_	_	_	_
-15	בֶּן־עַמִּ֑י	עם	NOUN	nmpr	Gender=Masc|Number=Sing	13	compound:smixut	_	Ref=GEN_19.38
+15	עַמִּ֑י	עם	NOUN	nmpr	Gender=Masc|Number=Sing	13	compound:smixut	_	Ref=GEN_19.38
 16	prn	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	15	nmod:poss	_	Ref=GEN_19.38
 17	ה֛וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	18	nsubj	_	Ref=GEN_19.38
 18	אֲבִ֥י	אב	NOUN	subs	Gender=Masc|Number=Sing	7	parataxis	_	Ref=GEN_19.38
@@ -4154,7 +4154,7 @@
 3	שָׂרָ֗ה	שׂרה	PROPN	nmpr	Gender=Fem|Number=Sing	2	nsubj	_	Ref=GEN_23.2
 4-5	בְּקִרְיַ֥ת	_	_	_	_	_	_	_	_
 4	בְּ	ב	ADP	prep	_	5	case	_	Ref=GEN_23.2
-5	קִרְיַ֥ת אַרְבַּ֛ע	קרית	PROPN	nmpr	Number=Sing	2	obl	_	Ref=GEN_23.2
+5	קִרְיַ֥ת	קרית	PROPN	nmpr	Number=Sing	2	obl	_	Ref=GEN_23.2
 6	אַרְבַּ֛ע	ארבע	PROPN	nmpr	Number=Sing	5	flat:name	_	Ref=GEN_23.2
 7	הִ֥וא	היא	PRON	prps	Gender=Fem|Number=Sing|Person=3|PronType=Prs	8	nsubj	_	Ref=GEN_23.2
 8	חֶבְרֹ֖ון	חברון	PROPN	nmpr	Number=Sing	5	parataxis	_	Ref=GEN_23.2

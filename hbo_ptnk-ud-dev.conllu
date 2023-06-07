@@ -9771,7 +9771,7 @@
 8	קֶּ֛דֶם	קדם	NOUN	subs	Gender=Masc|Number=Sing	6	nmod	_	Ref=GEN_12.8
 9-10	לְבֵֽית	_	_	_	_	_	_	_	SpaceAfter=No
 9	לְ	ל	ADP	prep	_	10	case	_	Ref=GEN_12.8
-10	בֵֽית־אֵ֖ל	בית	NOUN	nmpr	Gender=Masc|Number=Sing	6	nmod	_	Ref=GEN_12.8
+10	בֵֽית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	6	nmod	_	Ref=GEN_12.8
 11	־	־	PUNCT	punct	_	12	punct	_	Ref=GEN_12.8|SpaceAfter=No
 12	אֵ֖ל	אל	NOUN	nmpr	Gender=Masc|Number=Sing	10	compound:smixut	_	Ref=GEN_12.8
 13-14	וַיֵּ֣ט	_	_	_	_	_	_	_	_
@@ -10918,7 +10918,7 @@
 18	רְפָאִים֙	רפאים	PROPN	nmpr	Gender=Masc|Number=Plur	15	obj	_	Ref=GEN_14.5
 19-20	בְּעַשְׁתְּרֹ֣ת	_	_	_	_	_	_	_	_
 19	בְּ	ב	ADP	prep	_	20	case	_	Ref=GEN_14.5
-20	עַשְׁתְּרֹ֣ת קַרְנַ֔יִם	עשׁתרת	PROPN	nmpr	Number=Sing	15	obl	_	Ref=GEN_14.5
+20	עַשְׁתְּרֹ֣ת	עשׁתרת	PROPN	nmpr	Number=Sing	15	obl	_	Ref=GEN_14.5
 21	קַרְנַ֔יִם	קרנים	PROPN	nmpr	Number=Sing	20	flat:name	_	Ref=GEN_14.5
 22-23	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No
 22	וְ	ו	CCONJ	conj	_	26	cc	_	Ref=GEN_14.5
@@ -11002,7 +11002,7 @@
 27	יֹּשֵׁ֖ב	ישׁב	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	25	acl	_	Ref=GEN_14.7
 28-29	בְּחַֽצְצֹ֥ן	_	_	_	_	_	_	_	_
 28	בְּ	ב	ADP	prep	_	29	case	_	Ref=GEN_14.7
-29	חַֽצְצֹ֥ן תָּמָֽר	חצצן	PROPN	nmpr	Number=Sing	27	obl	_	Ref=GEN_14.7
+29	חַֽצְצֹ֥ן	חצצן	PROPN	nmpr	Number=Sing	27	obl	_	Ref=GEN_14.7
 30	תָּמָֽר	תמר	PROPN	nmpr	Number=Sing	29	flat:name	_	Ref=GEN_14.7|SpaceAfter=No
 31	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_14.7
 
@@ -11372,7 +11372,7 @@
 # text = וּמַלְכִּי־צֶ֨דֶק֙ מֶ֣לֶךְ שָׁלֵ֔ם הֹוצִ֖יא לֶ֣חֶם וָיָ֑יִן וְה֥וּא כֹהֵ֖ן לְאֵ֥ל עֶלְיֹֽון׃
 1-2	וּמַלְכִּי	_	_	_	_	_	_	_	SpaceAfter=No
 1	וּ	ו	CCONJ	conj	_	7	cc	_	Ref=GEN_14.18
-2	מַלְכִּי־צֶ֨דֶק֙	מלך	NOUN	nmpr	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_14.18
+2	מַלְכִּי	מלך	NOUN	nmpr	Gender=Masc|Number=Sing	7	nsubj	_	Ref=GEN_14.18
 3	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_14.18|SpaceAfter=No
 4	צֶ֨דֶק֙	צדק	NOUN	nmpr	Gender=Masc|Number=Sing	2	compound:smixut	_	Ref=GEN_14.18
 5	מֶ֣לֶךְ	מלך	NOUN	subs	Gender=Masc|Number=Sing	2	appos	_	Ref=GEN_14.18
