@@ -14145,7 +14145,7 @@
 1-2	וַיֹּאמְר֡וּ	_	_	_	_	_	_	_	_
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_43.7
 2	יֹּאמְר֡וּ	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_43.7
-3	שָׁאֹ֣ול	שׁאל	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	4	advmod	_	Ref=GEN_43.7
+3	שָׁאֹ֣ול	שׁאל	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	4	obl:npmod	_	Ref=GEN_43.7
 4	שָֽׁאַל	שׁאל	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_43.7|SpaceAfter=No
 5	־	־	PUNCT	punct	_	7	punct	_	Ref=GEN_43.7|SpaceAfter=No
 6-7	הָ֠אִישׁ	_	_	_	_	_	_	_	_
@@ -14192,7 +14192,7 @@
 36	אֵ֑לֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	34	det	_	Ref=GEN_43.7
 37-38	הֲיָדֹ֣ועַ	_	_	_	_	_	_	_	_
 37	הֲ	ה	PART	inrg	_	39	mark	_	Ref=GEN_43.7
-38	יָדֹ֣ועַ	ידע	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	39	advmod	_	Ref=GEN_43.7
+38	יָדֹ֣ועַ	ידע	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	39	obl:npmod	_	Ref=GEN_43.7
 39	נֵדַ֔ע	ידע	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	26	ccomp	_	Ref=GEN_43.7
 40	כִּ֣י	כי	SCONJ	conj	_	41	mark	_	Ref=GEN_43.7
 41	יֹאמַ֔ר	אמר	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	39	ccomp	_	Ref=GEN_43.7
@@ -15399,7 +15399,7 @@
 10-11	וְה֕וּא	_	_	_	_	_	_	_	_
 10	וְ	ו	CCONJ	conj	_	13	cc	_	Ref=GEN_44.5
 11	ה֕וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Ref=GEN_44.5
-12	נַחֵ֥שׁ	נחשׁ	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	13	advmod	_	Ref=GEN_44.5
+12	נַחֵ֥שׁ	נחשׁ	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	13	obl:npmod	_	Ref=GEN_44.5
 13	יְנַחֵ֖שׁ	נחשׁ	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	5	conj	_	Ref=GEN_44.5
 14-15	בֹּ֑ו	_	_	_	_	_	_	_	_
 14	בֹּ֑	ב	ADP	prep	_	15	case	_	Ref=GEN_44.5
