@@ -491,7 +491,7 @@
 11	יֹּ֥אכַל	אכל	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	4	conj	_	Ref=GEN_31.15
 12	גַּם	גם	ADV	advb	_	11	advmod	_	Ref=GEN_31.15|SpaceAfter=No
 13	־	־	PUNCT	punct	_	14	punct	_	Ref=GEN_31.15|SpaceAfter=No
-14	אָכֹ֖ול	אכל	ADV	verb	_	11	advmod	_	Ref=GEN_31.15
+14	אָכֹ֖ול	אכל	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	11	obl:npmod	_	Ref=GEN_31.15
 15	אֶת	את	ADP	prep	_	17	case	_	Ref=GEN_31.15|SpaceAfter=No
 16	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_31.15|SpaceAfter=No
 17-18	כַּסְפֵּֽנוּ	_	_	_	_	_	_	_	SpaceAfter=No
@@ -994,11 +994,11 @@
 1-2	וְעַתָּה֙	_	_	_	_	_	_	_	_
 1	וְ	ו	CCONJ	conj	_	4	cc	_	Ref=GEN_31.30
 2	עַתָּה֙	עתה	ADV	advb	_	4	advmod	_	Ref=GEN_31.30
-3	הָלֹ֣ךְ	הלך	ADV	verb	_	4	advmod	_	Ref=GEN_31.30
+3	הָלֹ֣ךְ	הלך	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	4	obl:npmod	_	Ref=GEN_31.30
 4	הָלַ֔כְתָּ	הלך	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_31.30
 5	כִּֽי	כי	SCONJ	conj	_	8	mark	_	Ref=GEN_31.30|SpaceAfter=No
 6	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_31.30|SpaceAfter=No
-7	נִכְסֹ֥ף	כסף	ADV	verb	_	8	advmod	_	Ref=GEN_31.30
+7	נִכְסֹ֥ף	כסף	VERB	verb	HebBinyan=NIFAL|VerbForm=Inf	8	obl:npmod	_	Ref=GEN_31.30
 8	נִכְסַ֖פְתָּה	כסף	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=NIFAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	14	advcl	_	Ref=GEN_31.30
 9-10	לְבֵ֣ית	_	_	_	_	_	_	_	_
 9	לְ	ל	ADP	prep	_	10	case	_	Ref=GEN_31.30
@@ -2359,7 +2359,7 @@
 1	וְ	ו	CCONJ	conj	_	3	cc	_	Ref=GEN_32.13
 2	אַתָּ֣ה	אתה	PRON	prps	Gender=Masc|Number=Sing|Person=2|PronType=Prs	3	nsubj	_	Ref=GEN_32.13
 3	אָמַ֔רְתָּ	אמר	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Ref=GEN_32.13
-4	הֵיטֵ֥ב	יטב	ADV	verb	_	5	advmod	_	Ref=GEN_32.13
+4	הֵיטֵ֥ב	יטב	VERB	verb	HebBinyan=HIFIL|VerbForm=Inf	5	obl:npmod	_	Ref=GEN_32.13
 5	אֵיטִ֖יב	יטב	VERB	verb	Aspect=Imp|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	3	ccomp	_	Ref=GEN_32.13
 6-7	עִמָּ֑ךְ	_	_	_	_	_	_	_	_
 6	עִמָּ֑	עם	ADP	prep	_	7	case	_	Ref=GEN_32.13
@@ -7062,14 +7062,14 @@
 6	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	5	nmod:poss	_	Ref=GEN_37.8
 7-8	הֲמָלֹ֤ךְ	_	_	_	_	_	_	_	_
 7	הֲ	ה	PART	inrg	_	9	mark	_	Ref=GEN_37.8
-8	מָלֹ֤ךְ	מלך	ADV	verb	_	9	advmod	_	Ref=GEN_37.8
+8	מָלֹ֤ךְ	מלך	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	9	obl:npmod	_	Ref=GEN_37.8
 9	תִּמְלֹךְ֙	מלך	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	2	ccomp	_	Ref=GEN_37.8
 10-11	עָלֵ֔ינוּ	_	_	_	_	_	_	_	_
 10	עָלֵ֔י	על	ADP	prep	_	11	case	_	Ref=GEN_37.8
 11	נוּ	אנחנו	PRON	prn	Number=Plur|Person=1|PronType=Prs	9	obl	_	Ref=GEN_37.8
 12	אִם	אם	SCONJ	conj	_	15	mark	_	Ref=GEN_37.8|SpaceAfter=No
 13	־	־	PUNCT	punct	_	12	punct	_	Ref=GEN_37.8|SpaceAfter=No
-14	מָשֹׁ֥ול	משׁל	ADV	verb	_	15	advmod	_	Ref=GEN_37.8
+14	מָשֹׁ֥ול	משׁל	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	15	obl:npmod	_	Ref=GEN_37.8
 15	תִּמְשֹׁ֖ל	משׁל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	9	advcl	_	Ref=GEN_37.8
 16-17	בָּ֑נוּ	_	_	_	_	_	_	_	_
 16	בָּ֑	ב	ADP	prep	_	17	case	_	Ref=GEN_37.8
@@ -7186,7 +7186,7 @@
 29	חָלָ֑מְתָּ	חלם	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	25	acl	_	Ref=GEN_37.10
 30-31	הֲבֹ֣וא	_	_	_	_	_	_	_	_
 30	הֲ	ה	PART	inrg	_	32	mark	_	Ref=GEN_37.10
-31	בֹ֣וא	בוא	ADV	verb	_	32	advmod	_	Ref=GEN_37.10
+31	בֹ֣וא	בוא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	32	obl:npmod	_	Ref=GEN_37.10
 32	נָבֹ֗וא	בוא	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	23	parataxis	_	Ref=GEN_37.10
 33	אֲנִי֙	אני	PRON	prps	Number=Sing|Person=1|PronType=Prs	32	nsubj	_	Ref=GEN_37.10
 34-36	וְאִמְּךָ֣	_	_	_	_	_	_	_	_
@@ -7971,7 +7971,7 @@
 11-12	אֲכָלָ֑תְהוּ	_	_	_	_	_	_	_	_
 11	אֲכָלָ֑תְ	אכל	VERB	verb	Aspect=Perf|Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	6	parataxis	_	Ref=GEN_37.33
 12	הוּ	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	11	obj	_	Ref=GEN_37.33
-13	טָרֹ֥ף	טרף	ADV	verb	_	14	advmod	_	Ref=GEN_37.33
+13	טָרֹ֥ף	טרף	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	14	obl:npmod	_	Ref=GEN_37.33
 14	טֹרַ֖ף	טרף	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	11	parataxis	_	Ref=GEN_37.33
 15	יֹוסֵֽף	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	14	nsubj	_	Ref=GEN_37.33|SpaceAfter=No
 16	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_37.33
@@ -10511,7 +10511,7 @@
 # text = כִּֽי־גֻנֹּ֣ב גֻּנַּ֔בְתִּי מֵאֶ֖רֶץ הָעִבְרִ֑ים וְגַם־פֹּה֙ לֹא־עָשִׂ֣יתִֽי מְא֔וּמָה כִּֽי־שָׂמ֥וּ אֹתִ֖י בַּבֹּֽור׃
 1	כִּֽי	כי	SCONJ	conj	_	4	mark	_	Ref=GEN_40.15|SpaceAfter=No
 2	־	־	PUNCT	punct	_	1	punct	_	Ref=GEN_40.15|SpaceAfter=No
-3	גֻנֹּ֣ב	גנב	ADV	verb	_	4	advmod	_	Ref=GEN_40.15
+3	גֻנֹּ֣ב	גנב	VERB	verb	HebBinyan=PUAL|VerbForm=Inf	4	obl:npmod	_	Ref=GEN_40.15
 4	גֻּנַּ֔בְתִּי	גנב	VERB	verb	Aspect=Perf|HebBinyan=PUAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	15	advcl	_	Ref=GEN_40.15
 5-6	מֵאֶ֖רֶץ	_	_	_	_	_	_	_	_
 5	מֵ	מן	ADP	prep	_	6	case	_	Ref=GEN_40.15
@@ -14027,7 +14027,7 @@
 4	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Ref=GEN_43.3
 5	יְהוּדָ֖ה	יהודה	PROPN	nmpr	Number=Sing	2	nsubj	_	Ref=GEN_43.3
 6	לֵאמֹ֑ר	לאמר	SCONJ	verb	_	8	mark	_	Ref=GEN_43.3
-7	הָעֵ֣ד	עוד	ADV	verb	_	8	advmod	_	Ref=GEN_43.3
+7	הָעֵ֣ד	עוד	VERB	verb	HebBinyan=HIFIL|VerbForm=Inf	8	obl:npmod	_	Ref=GEN_43.3
 8	הֵעִד֩	עוד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_43.3
 9-10	בָּ֨נוּ	_	_	_	_	_	_	_	_
 9	בָּ֨	ב	ADP	prep	_	10	case	_	Ref=GEN_43.3
@@ -14145,7 +14145,7 @@
 1-2	וַיֹּאמְר֡וּ	_	_	_	_	_	_	_	_
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_43.7
 2	יֹּאמְר֡וּ	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_43.7
-3	שָׁאֹ֣ול	שׁאל	ADV	verb	_	4	advmod	_	Ref=GEN_43.7
+3	שָׁאֹ֣ול	שׁאל	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	4	advmod	_	Ref=GEN_43.7
 4	שָֽׁאַל	שׁאל	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_43.7|SpaceAfter=No
 5	־	־	PUNCT	punct	_	7	punct	_	Ref=GEN_43.7|SpaceAfter=No
 6-7	הָ֠אִישׁ	_	_	_	_	_	_	_	_
@@ -14192,7 +14192,7 @@
 36	אֵ֑לֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	34	det	_	Ref=GEN_43.7
 37-38	הֲיָדֹ֣ועַ	_	_	_	_	_	_	_	_
 37	הֲ	ה	PART	inrg	_	39	mark	_	Ref=GEN_43.7
-38	יָדֹ֣ועַ	ידע	ADV	verb	_	39	advmod	_	Ref=GEN_43.7
+38	יָדֹ֣ועַ	ידע	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	39	advmod	_	Ref=GEN_43.7
 39	נֵדַ֔ע	ידע	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	26	ccomp	_	Ref=GEN_43.7
 40	כִּ֣י	כי	SCONJ	conj	_	41	mark	_	Ref=GEN_43.7
 41	יֹאמַ֔ר	אמר	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	39	ccomp	_	Ref=GEN_43.7
@@ -14691,7 +14691,7 @@
 4-5	אֲדֹנִ֑י	_	_	_	_	_	_	_	_
 4	אֲדֹנִ֑	אדון	NOUN	subs	Gender=Masc|Number=Sing	7	vocative	_	Ref=GEN_43.20
 5	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	_	Ref=GEN_43.20
-6	יָרֹ֥ד	ירד	ADV	verb	_	7	advmod	_	Ref=GEN_43.20
+6	יָרֹ֥ד	ירד	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	7	obl:npmod	_	Ref=GEN_43.20
 7	יָרַ֛דְנוּ	ירד	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	ccomp	_	Ref=GEN_43.20
 8-10	בַּתְּחִלָּ֖ה	_	_	_	_	_	_	_	_
 8	בַּ	ב	ADP	prep	_	10	case	_	Ref=GEN_43.20
@@ -15399,7 +15399,7 @@
 10-11	וְה֕וּא	_	_	_	_	_	_	_	_
 10	וְ	ו	CCONJ	conj	_	13	cc	_	Ref=GEN_44.5
 11	ה֕וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	Ref=GEN_44.5
-12	נַחֵ֥שׁ	נחשׁ	ADV	verb	_	13	advmod	_	Ref=GEN_44.5
+12	נַחֵ֥שׁ	נחשׁ	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	13	advmod	_	Ref=GEN_44.5
 13	יְנַחֵ֖שׁ	נחשׁ	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	5	conj	_	Ref=GEN_44.5
 14-15	בֹּ֑ו	_	_	_	_	_	_	_	_
 14	בֹּ֑	ב	ADP	prep	_	15	case	_	Ref=GEN_44.5
@@ -15696,7 +15696,7 @@
 16	יְדַעְתֶּ֔ם	ידע	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	6	parataxis	_	Ref=GEN_44.15
 17	כִּֽי	כי	SCONJ	conj	_	20	mark	_	Ref=GEN_44.15|SpaceAfter=No
 18	־	־	PUNCT	punct	_	17	punct	_	Ref=GEN_44.15|SpaceAfter=No
-19	נַחֵ֧שׁ	נחשׁ	ADV	verb	_	20	advmod	_	Ref=GEN_44.15
+19	נַחֵ֧שׁ	נחשׁ	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	20	obl:npmod	_	Ref=GEN_44.15
 20	יְנַחֵ֛שׁ	נחשׁ	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	16	ccomp	_	Ref=GEN_44.15
 21	אִ֖ישׁ	אישׁ	NOUN	subs	Gender=Masc|Number=Sing	20	nsubj	_	Ref=GEN_44.15
 22	אֲשֶׁ֥ר	אשׁר	SCONJ	conj	_	24	mark	_	Ref=GEN_44.15
@@ -16170,7 +16170,7 @@
 8	וָ	ו	CCONJ	conj	_	9	cc	_	Ref=GEN_44.28
 9	אֹמַ֕ר	אמר	VERB	verb	HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_44.28
 10	אַ֖ךְ	אך	ADV	advb	_	12	advmod	_	Ref=GEN_44.28
-11	טָרֹ֣ף	טרף	ADV	verb	_	12	advmod	_	Ref=GEN_44.28
+11	טָרֹ֣ף	טרף	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	12	obl:npmod	_	Ref=GEN_44.28
 12	טֹרָ֑ף	טרף	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PUAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	9	ccomp	_	Ref=GEN_44.28
 13-14	וְלֹ֥א	_	_	_	_	_	_	_	_
 13	וְ	ו	CCONJ	conj	_	15	cc	_	Ref=GEN_44.28
@@ -17510,7 +17510,7 @@
 9	ךָ֣	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obj	_	Ref=GEN_46.4
 10	גַם	גם	ADV	advb	_	8	advmod	_	Ref=GEN_46.4|SpaceAfter=No
 11	־	־	PUNCT	punct	_	12	punct	_	Ref=GEN_46.4|SpaceAfter=No
-12	עָלֹ֑ה	עלה	ADV	verb	_	8	advmod	_	Ref=GEN_46.4
+12	עָלֹ֑ה	עלה	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	8	obl:npmod	_	Ref=GEN_46.4
 13-14	וְיֹוסֵ֕ף	_	_	_	_	_	_	_	_
 13	וְ	ו	CCONJ	conj	_	15	cc	_	Ref=GEN_46.4
 14	יֹוסֵ֕ף	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	15	nsubj	_	Ref=GEN_46.4
@@ -22010,7 +22010,7 @@
 16	יֹוסֵ֑ף	יוסף	PROPN	nmpr	Gender=Masc|Number=Sing	14	nsubj	_	Ref=GEN_50.15
 17-18	וְהָשֵׁ֤ב	_	_	_	_	_	_	_	_
 17	וְ	ו	CCONJ	conj	_	19	cc	_	Ref=GEN_50.15
-18	הָשֵׁ֤ב	שׁוב	ADV	verb	_	19	advmod	_	Ref=GEN_50.15
+18	הָשֵׁ֤ב	שׁוב	VERB	verb	HebBinyan=HIFIL|VerbForm=Inf	19	obl:npmod	_	Ref=GEN_50.15
 19	יָשִׁיב֙	שׁוב	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	14	conj	_	Ref=GEN_50.15
 20-21	לָ֔נוּ	_	_	_	_	_	_	_	_
 20	לָ֔	ל	ADP	prep	_	21	case	_	Ref=GEN_50.15
@@ -22289,7 +22289,7 @@
 10-11	וֵֽאלֹהִ֞ים	_	_	_	_	_	_	_	_
 10	וֵֽ	ו	CCONJ	conj	_	13	cc	_	Ref=GEN_50.24
 11	אלֹהִ֞ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	13	nsubj	_	Ref=GEN_50.24
-12	פָּקֹ֧ד	פקד	ADV	verb	_	13	advmod	_	Ref=GEN_50.24
+12	פָּקֹ֧ד	פקד	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	13	obl:npmod	_	Ref=GEN_50.24
 13	יִפְקֹ֣ד	פקד	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	9	conj	_	Ref=GEN_50.24
 14-15	אֶתְכֶ֗ם	_	_	_	_	_	_	_	_
 14	אֶתְ	את	ADP	prep	_	15	case	_	Ref=GEN_50.24
@@ -22338,7 +22338,7 @@
 6	בְּנֵ֥י	בן	NOUN	subs	Gender=Masc|Number=Plur	2	obj	_	Ref=GEN_50.25
 7	יִשְׂרָאֵ֖ל	ישׂראל	PROPN	nmpr	Number=Sing	6	compound:smixut	_	Ref=GEN_50.25
 8	לֵאמֹ֑ר	לאמר	SCONJ	verb	_	10	mark	_	Ref=GEN_50.25
-9	פָּקֹ֨ד	פקד	ADV	verb	_	10	advmod	_	Ref=GEN_50.25
+9	פָּקֹ֨ד	פקד	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	10	obl:npmod	_	Ref=GEN_50.25
 10	יִפְקֹ֤ד	פקד	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_50.25
 11	אֱלֹהִים֙	אלהים	NOUN	subs	Gender=Masc|Number=Plur	10	nsubj	_	Ref=GEN_50.25
 12-13	אֶתְכֶ֔ם	_	_	_	_	_	_	_	_
@@ -23591,7 +23591,7 @@
 6-7	לָ֔הּ	_	_	_	_	_	_	_	_
 6	לָ֔	ל	ADP	prep	_	7	case	_	Ref=RUTH_2.11
 7	הּ	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	obl	_	Ref=RUTH_2.11
-8	הֻגֵּ֨ד	נגד	ADV	verb	_	9	advmod	_	Ref=RUTH_2.11
+8	הֻגֵּ֨ד	נגד	VERB	verb	VerbForm=Inf	9	obl:npmod	_	Ref=RUTH_2.11
 9	הֻגַּ֜ד	נגד	VERB	verb	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	5	ccomp	_	Ref=RUTH_2.11
 10-11	לִ֗י	_	_	_	_	_	_	_	_
 10	לִ֗	ל	ADP	prep	_	11	case	_	Ref=RUTH_2.11
@@ -23815,7 +23815,7 @@
 1-2	וְגַ֛ם	_	_	_	_	_	_	_	_
 1	וְ	ו	CCONJ	conj	_	5	cc	_	Ref=RUTH_2.16
 2	גַ֛ם	גם	ADV	advb	_	5	advmod	_	Ref=RUTH_2.16
-3	שֹׁל	שׁלל	ADV	verb	_	5	advmod	_	Ref=RUTH_2.16|SpaceAfter=No
+3	שֹׁל	שׁלל	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	5	obl:npmod	_	Ref=RUTH_2.16|SpaceAfter=No
 4	־	־	PUNCT	punct	_	3	punct	_	Ref=RUTH_2.16|SpaceAfter=No
 5	תָּשֹׁ֥לּוּ	שׁלל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	0	root	_	Ref=RUTH_2.16
 6-7	לָ֖הּ	_	_	_	_	_	_	_	_

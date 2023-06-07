@@ -331,7 +331,7 @@
 15-16	וַיִּשְׁפֹּ֣ט	_	_	_	_	_	_	_	_
 15	וַ	ו	CCONJ	conj	_	16	cc	_	Ref=GEN_19.9
 16	יִּשְׁפֹּ֣ט	שׁפט	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	11	conj	_	Ref=GEN_19.9
-17	שָׁפֹ֔וט	שׁפט	ADV	verb	_	16	advmod	_	Ref=GEN_19.9
+17	שָׁפֹ֔וט	שׁפט	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	16	obl:npmod	_	Ref=GEN_19.9
 18	עַתָּ֕ה	עתה	ADV	advb	_	19	advmod	_	Ref=GEN_19.9
 19	נָרַ֥ע	רעע	VERB	verb	Aspect=Imp|HebBinyan=HIFIL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	11	parataxis	_	Ref=GEN_19.9
 20-21	לְךָ֖	_	_	_	_	_	_	_	_
@@ -1731,7 +1731,7 @@
 24	דַּ֚ע	ידע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	3	conj	_	Ref=GEN_20.7
 25	כִּי	כי	SCONJ	conj	_	28	mark	_	Ref=GEN_20.7|SpaceAfter=No
 26	־	־	PUNCT	punct	_	25	punct	_	Ref=GEN_20.7|SpaceAfter=No
-27	מֹ֣ות	מות	ADV	verb	_	28	advmod	_	Ref=GEN_20.7
+27	מֹ֣ות	מות	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	28	obl:npmod	_	Ref=GEN_20.7
 28	תָּמ֔וּת	מות	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	24	ccomp	_	Ref=GEN_20.7
 29	אַתָּ֖ה	אתה	PRON	prps	Gender=Masc|Number=Sing|Person=2|PronType=Prs	28	nsubj	_	Ref=GEN_20.7
 30-31	וְכָל	_	_	_	_	_	_	_	SpaceAfter=No
@@ -2127,7 +2127,7 @@
 # text = כִּֽי־עָצֹ֤ר עָצַר֙ יְהוָ֔ה בְּעַ֥ד כָּל־רֶ֖חֶם לְבֵ֣ית אֲבִימֶ֑לֶךְ עַל־דְּבַ֥ר שָׂרָ֖ה אֵ֥שֶׁת אַבְרָהָֽם׃ ס
 1	כִּֽי	כי	SCONJ	conj	_	4	mark	_	Ref=GEN_20.18|SpaceAfter=No
 2	־	־	PUNCT	punct	_	1	punct	_	Ref=GEN_20.18|SpaceAfter=No
-3	עָצֹ֤ר	עצר	ADV	verb	_	4	advmod	_	Ref=GEN_20.18
+3	עָצֹ֤ר	עצר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	4	obl:npmod	_	Ref=GEN_20.18
 4	עָצַר֙	עצר	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Ref=GEN_20.18
 5	יְהוָ֔ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	4	nsubj	_	Ref=GEN_20.18
 6	בְּעַ֥ד	בעד	ADP	subs	_	7	case	_	Ref=GEN_20.18
@@ -3884,13 +3884,13 @@
 30	׃	׃	PUNCT	punct	_	31	punct	_	Ref=GEN_22.16
 31	כִּֽי	כי	SCONJ	conj	_	34	mark	_	Ref=GEN_22.17|SpaceAfter=No
 32	־	־	PUNCT	punct	_	31	punct	_	Ref=GEN_22.17|SpaceAfter=No
-33	בָרֵ֣ךְ	ברך	ADV	verb	_	34	advmod	_	Ref=GEN_22.17
+33	בָרֵ֣ךְ	ברך	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	34	advmod	_	Ref=GEN_22.17
 34-35	אֲבָרֶכְךָ֗	_	_	_	_	_	_	_	_
 34	אֲבָרֶכְ	ברך	VERB	verb	Aspect=Imp|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	5	ccomp	_	Ref=GEN_22.17
 35	ךָ֗	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	34	obj	_	Ref=GEN_22.17
 36-37	וְהַרְבָּ֨ה	_	_	_	_	_	_	_	_
 36	וְ	ו	CCONJ	conj	_	38	cc	_	Ref=GEN_22.17
-37	הַרְבָּ֨ה	רבה	ADV	verb	_	38	advmod	_	Ref=GEN_22.17
+37	הַרְבָּ֨ה	רבה	VERB	verb	HebBinyan=HIFIL|VerbForm=Inf	38	advmod	_	Ref=GEN_22.17
 38	אַרְבֶּ֤ה	רבה	VERB	verb	Aspect=Imp|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	34	conj	_	Ref=GEN_22.17
 39	אֶֽת	את	ADP	prep	_	41	case	_	Ref=GEN_22.17|SpaceAfter=No
 40	־	־	PUNCT	punct	_	39	punct	_	Ref=GEN_22.17|SpaceAfter=No
@@ -4978,7 +4978,7 @@
 22	זֹּ֑את	זאת	PRON	prde	Gender=Fem|Number=Sing|PronType=Dem	20	det	_	Ref=GEN_24.5
 23-24	הֶֽהָשֵׁ֤ב	_	_	_	_	_	_	_	_
 23	הֶֽ	ה	PART	inrg	_	25	mark	_	Ref=GEN_24.5
-24	הָשֵׁ֤ב	שׁוב	ADV	verb	_	25	advmod	_	Ref=GEN_24.5
+24	הָשֵׁ֤ב	שׁוב	VERB	verb	HebBinyan=HIFIL|VerbForm=Inf	25	obl:npmod	_	Ref=GEN_24.5
 25	אָשִׁיב֙	שׁוב	VERB	verb	Aspect=Imp|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	10	parataxis	_	Ref=GEN_24.5
 26	אֶת	את	ADP	prep	_	28	case	_	Ref=GEN_24.5|SpaceAfter=No
 27	־	־	PUNCT	punct	_	26	punct	_	Ref=GEN_24.5|SpaceAfter=No
@@ -8587,7 +8587,7 @@
 19	בְ	ב	ADP	prep	_	20	case	_	Ref=GEN_26.11
 20	אִשְׁתֹּ֖	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	15	conj	_	Ref=GEN_26.11
 21	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nmod:poss	_	Ref=GEN_26.11
-22	מֹ֥ות	מות	ADV	verb	_	23	advmod	_	Ref=GEN_26.11
+22	מֹ֥ות	מות	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	23	obl:npmod	_	Ref=GEN_26.11
 23	יוּמָֽת	מות	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Ref=GEN_26.11|SpaceAfter=No
 24	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_26.11
 
@@ -9100,7 +9100,7 @@
 1-2	וַיֹּאמְר֗וּ	_	_	_	_	_	_	_	_
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Ref=GEN_26.28
 2	יֹּאמְר֗וּ	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Ref=GEN_26.28
-3	רָאֹ֣ו	ראה	ADV	verb	_	4	advmod	_	Ref=GEN_26.28
+3	רָאֹ֣ו	ראה	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	4	obl:npmod	_	Ref=GEN_26.28
 4	רָאִינוּ֮	ראה	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	2	ccomp	_	Ref=GEN_26.28
 5	כִּֽי	כי	SCONJ	conj	_	11	mark	_	Ref=GEN_26.28|SpaceAfter=No
 6	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_26.28|SpaceAfter=No
@@ -10328,7 +10328,7 @@
 12	וַ	ו	CCONJ	conj	_	13	cc	_	Ref=GEN_27.30
 13	יְהִ֗י	היה	AUX	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Ref=GEN_27.30
 14	אַ֣ךְ	אך	ADV	advb	_	16	advmod	_	Ref=GEN_27.30
-15	יָצֹ֤א	יצא	ADV	verb	_	16	advmod	_	Ref=GEN_27.30
+15	יָצֹ֤א	יצא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	16	obl:npmod	_	Ref=GEN_27.30
 16	יָצָא֙	יצא	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	parataxis	_	Ref=GEN_27.30
 17	יַעֲקֹ֔ב	יעקב	PROPN	nmpr	Gender=Masc|Number=Sing	16	nsubj	_	Ref=GEN_27.30
 18-19	מֵאֵ֥ת	_	_	_	_	_	_	_	_
@@ -11781,7 +11781,7 @@
 18-19	לִ֔י	_	_	_	_	_	_	_	_
 18	לִ֔	ל	ADP	prep	_	19	case	_	Ref=GEN_28.22
 19	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	16	obl	_	Ref=GEN_28.22
-20	עַשֵּׂ֖ר	עשׂר	ADV	verb	_	21	advmod	_	Ref=GEN_28.22
+20	עַשֵּׂ֖ר	עשׂר	VERB	verb	HebBinyan=PIEL|VerbForm=Inf	21	obl:npmod	_	Ref=GEN_28.22
 21-22	אֲעַשְּׂרֶ֥נּוּ	_	_	_	_	_	_	_	_
 21	אֲעַשְּׂרֶ֥	עשׂר	VERB	verb	Aspect=Imp|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	11	conj	_	Ref=GEN_28.22
 22	נּוּ	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	Ref=GEN_28.22
@@ -13427,7 +13427,7 @@
 20	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	21	obl	_	Ref=GEN_30.16
 21	תָּבֹ֔וא	בוא	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	18	ccomp	_	Ref=GEN_30.16
 22	כִּ֚י	כי	SCONJ	conj	_	24	mark	_	Ref=GEN_30.16
-23	שָׂכֹ֣ר	שׂכר	ADV	verb	_	24	advmod	_	Ref=GEN_30.16
+23	שָׂכֹ֣ר	שׂכר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	24	obl:npmod	_	Ref=GEN_30.16
 24-25	שְׂכַרְתִּ֔יךָ	_	_	_	_	_	_	_	_
 24	שְׂכַרְתִּ֔י	שׂכר	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	21	advcl	_	Ref=GEN_30.16
 25	ךָ	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	24	obj	_	Ref=GEN_30.16
