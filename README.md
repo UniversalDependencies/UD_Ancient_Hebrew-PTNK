@@ -49,6 +49,8 @@ The following texts are included in this treebank:
 * 2022-11-01 v2.11
   * Add FEATs `VerbForm` and `PronType`
   * Add MISC `Ref`
+* 2023-11-15 v2.13
+  * Add MISC `Gloss`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
