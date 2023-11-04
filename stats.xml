@@ -11,13 +11,13 @@
     <test><sentences>410</sentences><tokens>6976</tokens><words>10227</words><fused>2917</fused></test>
   </size>
   <lemmas unique="1591" /><!-- ו, ־, ה, ׃, ל, הוא, את, ב, אני, אתה, אל, אמר, מן, אשׁר, היא -->
-  <forms unique="5884" /><!-- ו, ־, ה, ׃, ל, הוא, ב, אני, אֶת, את, אתה, אמר, מן, הם, היא -->
+  <forms unique="10095" /><!-- ־, וַ, ׃, וְ, הַ, ו, אֶת, לְ, י, הָ, וּ, בְּ, ה, אֶל, מִ -->
   <fusions unique="6643" /><!-- וְאֶת, וַיֹּ֣אמֶר, וַיֹּ֤אמֶר, וַיֹּ֥אמֶר, הָאָֽרֶץ, וְכָל, וַיֹּ֨אמֶר֙, וַיֹּ֨אמֶר, וַיֹּ֕אמֶר, וַיֹּ֖אמֶר, וַֽיְהִי, שְׁמֹ֖ו, הָאָ֑רֶץ, בְּאֶ֣רֶץ, וַיֹּ֗אמֶר -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
   <tags unique="15">
     <tag name="ADJ">382</tag><!-- טוב, גדול, חי, רע, קטן, אחר, רב, זכר, צדיק, חתי -->
     <tag name="ADP">5207</tag><!-- ל, את, ב, אל, מן, על, כ, עם, אחר, בין -->
-    <tag name="ADV">830</tag><!-- לא, שׁם, גם, עוד, כן, אל, עתה, מאד, אך, כה -->
+    <tag name="ADV">789</tag><!-- לא, שׁם, גם, כן, עוד, אל, עתה, מאד, אך, כה -->
     <tag name="AUX">338</tag><!-- היה -->
     <tag name="CCONJ">4392</tag><!-- ו, או -->
     <tag name="DET">1868</tag><!-- ה -->
@@ -29,46 +29,46 @@
     <tag name="PROPN">2597</tag><!-- יהוה, יעקב, יוסף, אברהם, מצרים, יצחק, עשׂו, אברם, לבן, ישׂראל -->
     <tag name="PUNCT">4938</tag><!-- ־, ׃, ׀, ס, פ -->
     <tag name="SCONJ">1039</tag><!-- אשׁר, כי, אם, לאמר, ה, פן, עד, לו, בלת, לולא -->
-    <tag name="VERB">4941</tag><!-- אמר, בוא, ילד, עשׂה, נתן, לקח, ראה, הלך, קרא, יצא -->
+    <tag name="VERB">4982</tag><!-- אמר, בוא, ילד, עשׂה, נתן, לקח, ראה, הלך, קרא, שׁוב -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
   <feats unique="30">
-    <feat name="Aspect" value="Imp" upos="AUX,VERB">760</feat><!-- נתן, ברך, היה, יִהְיֶ֣ה, הלך, חיה, אכל, ירשׁ, עשׂה, קבר -->
-    <feat name="Aspect" value="Perf" upos="AUX,VERB">1205</feat><!-- היה, נתן, אמר, ברך, לקח, אכל, בוא, שׁוב, נָתַ֥ן, אָמַ֣ר -->
-    <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">3939</feat><!-- היא, ארץ, אשׁה, יד, בת, את, עין, אמר, שָׁנָ֑ה, עיר -->
-    <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">13191</feat><!-- הוא, אתה, אמר, הם, אב, היה, כָּל, אתם, בן, אח -->
-    <feat name="HebBinyan" value="HIFIL" upos="NOUN,VERB">527</feat><!-- ילד, בוא, נגד, שׁקה, שׁוב, יצא, ירד, נכה, קום, נכר -->
-    <feat name="HebBinyan" value="HITPAEL" upos="VERB">44</feat><!-- אפק, ברך, הלך, עצב, פלל, אֶתְנָהֲלָ֣ה, אבל, גלה, גלל, הִֽתְהַלֶּךְ -->
-    <feat name="HebBinyan" value="NIFAL" upos="NOUN,VERB">221</feat><!-- ראה, אסף, ילד, מול, שׁאר, שׁבע, יִמָּצְא֥וּן, ברך, יתר, מצא -->
-    <feat name="HebBinyan" value="PAAL" upos="AUX,NOUN,VERB">4094</feat><!-- אמר, היה, בוא, קרא, לקח, נתן, ראה, הלך, עשׂה, ילד -->
-    <feat name="HebBinyan" value="PIEL" upos="NOUN,VERB">387</feat><!-- ברך, דבר, שׁלח, צוה, מהר, כלה, לקט, ספר, שׁחת, דִּבֶּ֥ר -->
-    <feat name="HebBinyan" value="PUAL" upos="NOUN,VERB">28</feat><!-- יֻלַּד, יֻלַּ֖ד, כסה, גֻּנַּ֔בְתִּי, טֹרַ֖ף, טֹרָ֑ף, יֻלְּד֖וּ, יֻלְּד֥וּ, יֻלְּדָה֙, יֻלְּדוּ -->
-    <feat name="Mood" value="Imp" upos="AUX,VERB">323</feat><!-- הלך, עשׂה, שׁמע, רבה, לקח, בוא, שׁלח, הָֽבָה, יצא, לְכ֣וּ -->
-    <feat name="Mood" value="Ind" upos="AUX,VERB">4270</feat><!-- אמר, היה, בוא, קרא, לקח, נתן, ראה, ילד, הלך, ברך -->
-    <feat name="Number" value="Dual" upos="NOUN,NUM">208</feat><!-- עין, שׁנים, יד, רגל, אזן, שְׁתֵּ֣י, אף, שְׁנֵ֤י, מאה, שְׁנֵ֣י -->
-    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">3849</feat><!-- הם, אתם, אנחנו, פנה, בן, אח, אמר, בת, אלה, אלהים -->
-    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">15845</feat><!-- הוא, אני, אתה, אמר, היא, ארץ, היה, אב, כָּל, כל -->
-    <feat name="NumType" value="Card" upos="NUM">477</feat><!-- שׁנים, מֵאֹ֖ות, אחד, שׁבע, שֶׁ֣בַע, מאה, שׁלשׁ, ארבע, שׁשׁ, שׁמנה -->
-    <feat name="NumType" value="Ord" upos="NUM">47</feat><!-- ראשׁון, שׁלישׁי, שׁני, שׁביעי, חֲמִישִֽׁי, עשׂירי, שֵׁנִ֖י, רְבִיעִ֖י, רְבִיעִֽי, רִֽאשֹׁנָ֑ה -->
-    <feat name="Person" value="1" upos="AUX,PRON,VERB">1516</feat><!-- אני, אנחנו, נתן, אמר, אָנֹכִ֖י, ברך, אנכי, היה, ראה, שׂים -->
-    <feat name="Person" value="2" upos="AUX,PRON,VERB">1563</feat><!-- אתה, אתם, את, הלך, לקח, עשׂה, בוא, אַתָּ֥ה, אמר, היה -->
-    <feat name="Person" value="3" upos="AUX,PRON,VERB">5447</feat><!-- הוא, אמר, הם, היא, היה, בוא, קרא, ילד, לקח, ראה -->
-    <feat name="Polarity" value="Neg" upos="ADV">277</feat><!-- לא, אַל, לֹ֣א, לֹ֥א, לֹֽא, לֹא, לֹ֤א, לֹ֨א, אל, לֹ֕א -->
-    <feat name="PronType" value="Art" upos="DET">1868</feat><!-- ה -->
-    <feat name="PronType" value="Dem" upos="PRON">243</feat><!-- זה, אלה, זאת, אֵ֣לֶּה, אֵ֖לֶּה, אֵ֚לֶּה, זֹ֑את, זֹ֣את, זֶ֖ה, אל -->
-    <feat name="PronType" value="Int" upos="PRON">63</feat><!-- מַה, מִי, מִ֥י, מָ֣ה, מה, מי, מִֽי, מִ֣י, מֶ֣ה, מָ֥ה -->
-    <feat name="PronType" value="Prs" upos="PRON">3994</feat><!-- הוא, אני, אתה, הם, היא, אתם, אנחנו, את, הן, ה֖וּא -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">2244</feat><!-- אמר, היה, בוא, קרא, ילד, לקח, ראה, הלך, נתן, חיה -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4593</feat><!-- אמר, היה, בוא, לקח, קרא, נתן, ראה, ילד, הלך, ברך -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">406</feat><!-- ילד, בוא, ראה, דבר, עשׂה, קרא, אכל, נתן, היה, לקח -->
-    <feat name="VerbForm" value="Part" upos="NOUN,VERB">409</feat><!-- מות, בוא, שׁקה, גאל, טלא, קצר, רמשׂ, הלך, יֹשֵׁ֥ב, ילד -->
-    <feat name="Voice" value="Pass" upos="NOUN,VERB">49</feat><!-- טלא, אָר֣וּר, אָר֤וּר, בָּר֤וּךְ, בָּר֥וּךְ, קשׁר, שְׂנוּאָ֣ה, אֲסוּרִ֑ים, אֲסוּרִ֖ים, אֲרוּרָ֤ה -->
+    <feat name="Aspect" value="Imp" upos="AUX,VERB">760</feat><!-- יִהְיֶ֣ה, אֶמְצָא, אוּכַל֙, יְהִ֥י, יִמָּצְא֥וּן, אֶקְבְּרָ֥ה, אַשְׁחִ֔ית, יִהְיֶ֖ה, יִהְיֶה, יִקָּרֵ֥א -->
+    <feat name="Aspect" value="Perf" upos="AUX,VERB">1205</feat><!-- הָיָ֥ה, הָיָ֤ה, נָתַ֥ן, אָמַ֣ר, הָיָ֖ה, הֹולִ֥יד, בָּ֣א, יָצָ֣א, עָשִׂ֣יתָ, דִּבֶּ֥ר -->
+    <feat name="Gender" value="Fem" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">3939</feat><!-- הּ, הָ, ךְ, שָׁנָ֑ה, אֶ֣רֶץ, אָֽרֶץ, אֶ֥רֶץ, אָ֑רֶץ, אָ֔רֶץ, אָ֖רֶץ -->
+    <feat name="Gender" value="Masc" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">13191</feat><!-- ו, ךָ, כָּל, ם, ו֙, כָל, יֹּ֣אמֶר, ךָ֖, הוּ, יֹּ֤אמֶר -->
+    <feat name="HebBinyan" value="HIFIL" upos="NOUN,VERB">534</feat><!-- יֹּ֥ולֶד, הֹולִידֹ֣, יֹּ֖ולֶד, הֹולִ֥יד, יָּבֵ֥א, הֹולִ֣יד, יַּשְׁכֵּ֨ם, אַשְׁחִ֔ית, הִגַּ֣דְתָּ, הָשֵׁ֤ב -->
+    <feat name="HebBinyan" value="HITPAEL" upos="VERB">44</feat><!-- הִתְבָּרֲכ֣וּ, אֶתְנָהֲלָ֣ה, הִֽטַּהֲר֔וּ, הִֽתְהַלֶּךְ, הִֽתְחַתְּנ֖וּ, הִֽתְעַשְּׂק֖וּ, הִתְאַפֵּ֗ק, הִתְגֹּלֵ֤ל, הִתְהַלְּכ֨וּ, הִתְהַלֵּ֣ךְ -->
+    <feat name="HebBinyan" value="NIFAL" upos="NOUN,VERB">223</feat><!-- יִמָּצְא֥וּן, הִמָּלֵ֣ט, יִקָּרֵ֥א, יֵּרָ֤א, יֵּרָ֨א, הִמֹּ֥ול, הִשָּׁ֧מֶר, יִּנָּ֣חֶם, יִּשָּׁבַ֖ע, יִכָּרֵ֧ת -->
+    <feat name="HebBinyan" value="PAAL" upos="AUX,NOUN,VERB">4120</feat><!-- יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יְהִי, יֹּ֨אמֶר, יֹּ֕אמֶר, יֹּ֖אמֶר, יֹּ֗אמֶר, יְהִ֗י -->
+    <feat name="HebBinyan" value="PIEL" upos="NOUN,VERB">391</feat><!-- יְבָ֣רֶךְ, יְדַבֵּ֥ר, דִּבֶּ֥ר, דַבֵּ֣ר, יְבָ֥רֶךְ, יְדַבֵּ֣ר, צִוָּ֥ה, דִּבַּ֖רְתִּי, יְבָ֧רֶךְ, יְצַ֣ו -->
+    <feat name="HebBinyan" value="PUAL" upos="NOUN,VERB">29</feat><!-- יֻלַּד, יֻלַּ֖ד, גֻּנַּ֔בְתִּי, גֻנֹּ֣ב, טֹרַ֖ף, טֹרָ֑ף, יְכֻלּ֛וּ, יְכֻסּ֖וּ, יְכֻסּ֗וּ, יֻלְּד֖וּ -->
+    <feat name="Mood" value="Imp" upos="AUX,VERB">323</feat><!-- עֲשֵׂה, קַֽח, לֶךְ, קַח, הָֽבָה, לְכ֣וּ, ק֥וּם, רְאֵה֙, שְׁמַ֣ע, שְׁתֵ֔ה -->
+    <feat name="Mood" value="Ind" upos="AUX,VERB">4270</feat><!-- יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יְהִי, יֹּ֨אמֶר, יֹּ֕אמֶר, יֹּ֖אמֶר, יֹּ֗אמֶר, יְהִ֗י -->
+    <feat name="Number" value="Dual" upos="NOUN,NUM">208</feat><!-- שְׁנֵי, עֵינֵ֣י, עֵינֵ֥י, שְׁתֵּ֣י, עֵינֵ֖י, עֵינֶ֔י, עֵינָ֗י, שְׁנֵ֤י, שְׁנֵ֥י, שְׁנֵֽי -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">3849</feat><!-- ם, נוּ, אֱלֹהִ֖ים, כֶ֔ם, הֶ֖ם, ם֙, אֱלֹהִים֙, אֱלֹהִ֔ים, הֶם֙, כֶ֖ם -->
+    <feat name="Number" value="Sing" upos="ADJ,AUX,NOUN,NUM,PRON,PROPN,VERB">15845</feat><!-- ו, י, ךָ, כָּל, הּ, ךְ, ו֙, כָל, הָ, יֹּ֣אמֶר -->
+    <feat name="NumType" value="Card" upos="NUM">477</feat><!-- מֵאֹ֖ות, שֶׁ֣בַע, שְׁנֵי, אֶחָ֖ד, אַרְבָּעִ֣ים, חָמֵ֥שׁ, מְאַ֣ת, שְׁמֹנֶ֥ה, שְׁתֵּ֣י, אַרְבַּ֥ע -->
+    <feat name="NumType" value="Ord" upos="NUM">47</feat><!-- שְּׁבִיעִ֔י, חֲמִישִֽׁי, רְבִיעִ֖י, רִאשֹׁ֔ון, רִאשֹׁון֙, רִאשֹׁנָֽה, שְּׁלִישִׁ֔י, שְּׁלִישִׁ֗י, שֵּׁנִ֔י, שֵּׁנִ֖י -->
+    <feat name="Person" value="1" upos="AUX,PRON,VERB">1516</feat><!-- י, נוּ, נִי, י֙, אָנֹכִ֖י, נוּ֙, אֲנִ֣י, אָנֹכִי֙, נִּי, נִי֙ -->
+    <feat name="Person" value="2" upos="AUX,PRON,VERB">1563</feat><!-- ךָ, ךְ, ךָ֖, ךָ֙, כֶ֔ם, כֶ֖ם, ךָ֔, ךָ֥, ךָ֣, כֶ֑ם -->
+    <feat name="Person" value="3" upos="AUX,PRON,VERB">5447</feat><!-- ו, הּ, ם, ו֙, הָ, יֹּ֣אמֶר, הוּ, יֹּ֤אמֶר, נּוּ, יֹּ֥אמֶר -->
+    <feat name="Polarity" value="Neg" upos="ADV">277</feat><!-- לֹ֥א, לֹֽא, לֹ֣א, אַל, לֹא, לֹ֤א, לֹ֨א, לֹ֖א, לֹ֤וא, אַֽל -->
+    <feat name="PronType" value="Art" upos="DET">1868</feat><!-- הַ, הָ, ה, הָֽ, הַֽ, הָ֣, הַ֨, הֶֽ, הָ֠, הֶ -->
+    <feat name="PronType" value="Dem" upos="PRON">243</feat><!-- אֵ֣לֶּה, זֶּ֔ה, אֵ֖לֶּה, אֵ֨לֶּה֙, זֶ֖ה, זֶּ֑ה, זֶּֽה, זֹּ֔את, אֵ֔לֶּה, אֵ֗לֶּה -->
+    <feat name="PronType" value="Int" upos="PRON">63</feat><!-- מַה, מִי, מִ֥י, מָ֣ה, מִֽי, מִ֖י, מִ֣י, מֶ֣ה, מֶֽה, מָ֥ה -->
+    <feat name="PronType" value="Prs" upos="PRON">3994</feat><!-- ו, י, ךָ, הּ, ם, נוּ, ךְ, ו֙, הָ, ךָ֖ -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">2244</feat><!-- יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יֹּ֨אמֶר, יְהִי, יֹּ֕אמֶר, יֹּ֖אמֶר, יֹּ֗אמֶר, יְהִ֗י -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">4593</feat><!-- יֹּ֣אמֶר, יֹּ֤אמֶר, יֹּ֥אמֶר, יֹּ֨אמֶר֙, יְהִי, יֹּ֨אמֶר, יֹּ֕אמֶר, יֹּ֖אמֶר, יֹּ֗אמֶר, יְהִ֗י -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">447</feat><!-- הֹולִידֹ֣, בֹּאֲ, דַבֵּ֣ר, בֹ֣וא, שְׁבָּר, תֵ֥ת, עֲשֹׂ֣ות, עֲשֹׂ֥ות, קְרָאתֹ, שֶׁ֣בֶת -->
+    <feat name="VerbForm" value="Part" upos="NOUN,VERB">409</feat><!-- יֹשֵׁ֥ב, יֹשֵׁ֖ב, עֹשֶֽׂה, עֹשֶׂ֖ה, רֹמֵ֥שׂ, רֹעֵ֣י, אָר֣וּר, אָר֤וּר, בָּאֵ֥י, בָּאָ֖ה -->
+    <feat name="Voice" value="Pass" upos="NOUN,VERB">49</feat><!-- אָר֣וּר, אָר֤וּר, בָּר֤וּךְ, בָּר֥וּךְ, שְׂנוּאָ֣ה, אֲסוּרִ֑ים, אֲסוּרִ֖ים, אֲרוּרָ֤ה, אָס֥וּר, אָר֔וּר -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="32">
+  <deps unique="33">
     <dep name="acl">537</dep>
     <dep name="advcl">564</dep>
-    <dep name="advmod">817</dep>
+    <dep name="advmod">776</dep>
     <dep name="amod">168</dep>
     <dep name="appos">595</dep>
     <dep name="case">5120</dep>
@@ -92,6 +92,7 @@
     <dep name="nummod">357</dep>
     <dep name="obj">1826</dep>
     <dep name="obl">3197</dep>
+    <dep name="obl:npmod">41</dep>
     <dep name="orphan">62</dep>
     <dep name="parataxis">513</dep>
     <dep name="punct">4938</dep>
