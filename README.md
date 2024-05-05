@@ -51,6 +51,8 @@ The following texts are included in this treebank:
   * Add MISC `Ref`
 * 2023-11-15 v2.13
   * Add MISC `Gloss`
+* v2.14
+  * Add MISC `Gloss` more consistently
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
