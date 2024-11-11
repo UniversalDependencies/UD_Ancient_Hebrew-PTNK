@@ -65,6 +65,7 @@ UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: manual native
+Parallel: Bible (Ref)
 Contributors: Swanson, Daniel
 Contributing: elsewhere
 Contact: awesomeevildudes@gmail.com
