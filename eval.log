@@ -1,10 +1,10 @@
 Running the following version of UD tools:
-commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
+commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 09:21:16 2024 +0200
+Date:   Sun Nov 10 10:33:45 2024 +0100
 Evaluating the following revision of UD_Ancient_Hebrew-PTNK:
-commit 0901bda973de3d86f2cb744d38720c847ae54b7a
-Merge: 5a6f6e7 04ca369
+commit 51bd14f373b1fe327c509add167fdea0189b11ea
+Merge: dd22938 68fa36c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 Size: counted 39036 of 39036 words (nodes).
 Size: min(0, log((N/1000)**2)) = 7.32896859455843.
