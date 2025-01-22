@@ -53,6 +53,9 @@ The following texts are included in this treebank:
   * Add MISC `Gloss`
 * v2.14
   * Add MISC `Gloss` more consistently
+* v2.16
+  * Add FEAT `ExtPos`
+  * Add relation `acl:relcl`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
