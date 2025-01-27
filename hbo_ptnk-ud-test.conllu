@@ -186,7 +186,7 @@
 8-9	לֹ֔ו	_	_	_	_	_	_	_	Translit=lo
 8	לֹ֔	ל	ADP	prep	_	9	case	_	Gloss=to|Ref=GEN_19.5|Translit=lo
 9	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	7	obl	_	Ref=GEN_19.5|Translit=ṿ
-10	אַיֵּ֧ה	איה	PART	inrg	_	7	ccomp	_	Gloss=where|Ref=GEN_19.5|Translit=ʼayeh
+10	אַיֵּ֧ה	איה	ADV	inrg	_	7	ccomp	_	Gloss=where|Ref=GEN_19.5|Translit=ʼayeh
 11-12	הָאֲנָשִׁ֛ים	_	_	_	_	_	_	_	Translit=haʼanashim
 11	הָ	ה	DET	art	PronType=Art	12	det	_	Gloss=the|Ref=GEN_19.5|Translit=ha
 12	אֲנָשִׁ֛ים	אישׁ	NOUN	subs	Gender=Masc|Number=Plur	10	nsubj	_	Gloss=man|Ref=GEN_19.5|Translit=ʼanashim
@@ -3623,7 +3623,7 @@
 26	עֵצִ֔ים	עץ	NOUN	subs	Gender=Masc|Number=Plur	23	conj	_	Gloss=tree|Ref=GEN_22.7|Translit=ʻetsim
 27-28	וְאַיֵּ֥ה	_	_	_	_	_	_	_	Translit=ṿeʼayeh
 27	וְ	ו	CCONJ	conj	_	28	cc	_	Gloss=and|Ref=GEN_22.7|Translit=ṿe
-28	אַיֵּ֥ה	איה	PART	inrg	_	23	conj	_	Gloss=where|Ref=GEN_22.7|Translit=ʼayeh
+28	אַיֵּ֥ה	איה	ADV	inrg	_	23	conj	_	Gloss=where|Ref=GEN_22.7|Translit=ʼayeh
 29-30	הַשֶּׂ֖ה	_	_	_	_	_	_	_	Translit=haśeh
 29	הַ	ה	DET	art	PronType=Art	30	det	_	Gloss=the|Ref=GEN_22.7|Translit=ha
 30	שֶּׂ֖ה	שׂה	NOUN	subs	Number=Sing	28	nsubj	_	Gloss=lamb|Ref=GEN_22.7|Translit=śeh
@@ -6077,7 +6077,7 @@
 3	בֹּ֖וא	בוא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=come|Ref=GEN_24.31|Translit=boʼ
 4	בְּר֣וּךְ	ברך	NOUN	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part|Voice=Pass	3	vocative	_	Gloss=bless|Ref=GEN_24.31|Translit=berukh
 5	יְהוָ֑ה	יהוה	PROPN	nmpr	Gender=Masc|Number=Sing	4	compound:smixut	_	Gloss=YHWH|Ref=GEN_24.31|Translit=yehṿah
-6	לָ֤מָּה	למה	PART	inrg	_	7	advmod	_	Gloss=why|Ref=GEN_24.31|Translit=lamah
+6	לָ֤מָּה	למה	ADV	inrg	_	7	advmod	_	Gloss=why|Ref=GEN_24.31|Translit=lamah
 7	תַעֲמֹד֙	עמד	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	3	parataxis	_	Gloss=stand|Ref=GEN_24.31|Translit=taʻamod
 8-10	בַּח֔וּץ	_	_	_	_	_	_	_	Translit=baḥuts
 8	בַּ	ב	ADP	prep	_	10	case	_	Gloss=in|Ref=GEN_24.31|Translit=ba
@@ -8032,7 +8032,7 @@
 10	אִם	אם	SCONJ	conj	_	12	mark	_	Gloss=if|Ref=GEN_25.22|SpaceAfter=No|Translit=ʼim
 11	־	־	PUNCT	punct	_	10	punct	_	Ref=GEN_25.22|SpaceAfter=No
 12	כֵּ֔ן	כן	ADV	advb	_	14	advcl	_	Gloss=thus|Ref=GEN_25.22|Translit=ken
-13	לָ֥מָּה	למה	PART	inrg	_	14	advmod	_	Gloss=why|Ref=GEN_25.22|Translit=lamah
+13	לָ֥מָּה	למה	ADV	inrg	_	14	advmod	_	Gloss=why|Ref=GEN_25.22|Translit=lamah
 14	זֶּ֖ה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	9	ccomp	_	Gloss=this|Ref=GEN_25.22|Translit=zeh
 15	אָנֹ֑כִי	אנכי	PRON	prps	Number=Sing|Person=1|PronType=Prs	14	nsubj	_	Gloss=i|Ref=GEN_25.22|Translit=ʼanokhi
 16-17	וַתֵּ֖לֶךְ	_	_	_	_	_	_	_	Translit=ṿatelekh
@@ -8328,7 +8328,7 @@
 8	מ֑וּת	מות	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	6	advcl	_	Gloss=die|Ref=GEN_25.32|Translit=mut
 9-10	וְלָמָּה	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿelamah
 9	וְ	ו	CCONJ	conj	_	14	cc	_	Gloss=and|Ref=GEN_25.32|Translit=ṿe
-10	לָמָּה	למה	PART	inrg	_	14	advmod	_	Gloss=why|Ref=GEN_25.32|Translit=lamah
+10	לָמָּה	למה	ADV	inrg	_	14	advmod	_	Gloss=why|Ref=GEN_25.32|Translit=lamah
 11	־	־	PUNCT	punct	_	10	punct	_	Ref=GEN_25.32|SpaceAfter=No
 12	זֶּ֥ה	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	14	expl	_	Gloss=this|Ref=GEN_25.32|Translit=zeh
 13-14	לִ֖י	_	_	_	_	_	_	_	Translit=li
@@ -11251,7 +11251,7 @@
 37-38	מִשָּׁ֑ם	_	_	_	_	_	_	_	Translit=misham
 37	מִ	מן	ADP	prep	_	38	case	_	Gloss=from|Ref=GEN_27.45|Translit=mi
 38	שָּׁ֑ם	שׁם	ADV	advb	_	35	advmod	_	Gloss=there|Ref=GEN_27.45|Translit=sham
-39	לָמָ֥ה	למה	PART	inrg	_	40	advmod	_	Gloss=why|Ref=GEN_27.45|Translit=lamah
+39	לָמָ֥ה	למה	ADV	inrg	_	40	advmod	_	Gloss=why|Ref=GEN_27.45|Translit=lamah
 40	אֶשְׁכַּ֛ל	שׁכל	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	parataxis	_	Gloss=be bereaved of children|Ref=GEN_27.45|Translit=ʼeshkal
 41	גַּם	גם	ADV	advb	_	44	advmod	_	Gloss=even|Ref=GEN_27.45|SpaceAfter=No|Translit=gam
 42	־	־	PUNCT	punct	_	41	punct	_	Ref=GEN_27.45|SpaceAfter=No
@@ -11301,7 +11301,7 @@
 28-29	הָאָ֔רֶץ	_	_	_	_	_	_	_	Translit=haʼarets
 28	הָ	ה	DET	art	PronType=Art	29	det	_	Gloss=the|Ref=GEN_27.46|Translit=ha
 29	אָ֔רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	27	compound:smixut	_	Gloss=earth|Ref=GEN_27.46|Translit=ʼarets
-30	לָ֥מָּה	למה	PART	inrg	_	32	advmod	_	Gloss=why|Ref=GEN_27.46|Translit=lamah
+30	לָ֥מָּה	למה	ADV	inrg	_	32	advmod	_	Gloss=why|Ref=GEN_27.46|Translit=lamah
 31-32	לִּ֖י	_	_	_	_	_	_	_	Translit=li
 31	לִּ֖	ל	ADP	prep	_	32	case	_	Gloss=to|Ref=GEN_27.46|Translit=li
 32	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	7	parataxis	_	Ref=GEN_27.46|Translit=
@@ -12266,7 +12266,7 @@
 7	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	6	nmod:poss	_	Ref=GEN_29.4|Translit=
 8-9	מֵאַ֣יִן	_	_	_	_	_	_	_	Translit=meʼayin
 8	מֵ	מן	ADP	prep	_	9	case	_	Gloss=from|Ref=GEN_29.4|Translit=me
-9	אַ֣יִן	אין	PART	inrg	_	2	ccomp	_	Gloss=whence|Ref=GEN_29.4|Translit=ʼayin
+9	אַ֣יִן	אין	ADV	inrg	_	2	ccomp	_	Gloss=whence|Ref=GEN_29.4|Translit=ʼayin
 10	אַתֶּ֑ם	אתם	PRON	prps	Gender=Masc|Number=Plur|Person=2|PronType=Prs	9	nsubj	_	Gloss=you|Ref=GEN_29.4|Translit=ʼatem
 11-12	וַיֹּ֣אמְר֔וּ	_	_	_	_	_	_	_	Translit=ṿayoʼmru
 11	וַ	ו	CCONJ	conj	_	12	cc	_	Gloss=and|Ref=GEN_29.4|Translit=ṿa
@@ -12975,7 +12975,7 @@
 28	ךְ	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	26	obl	_	Ref=GEN_29.25|Translit=ke
 29-30	וְלָ֖מָּה	_	_	_	_	_	_	_	Translit=ṿelamah
 29	וְ	ו	CCONJ	conj	_	31	cc	_	Gloss=and|Ref=GEN_29.25|Translit=ṿe
-30	לָ֖מָּה	למה	PART	inrg	_	31	advmod	_	Gloss=why|Ref=GEN_29.25|Translit=lamah
+30	לָ֖מָּה	למה	ADV	inrg	_	31	advmod	_	Gloss=why|Ref=GEN_29.25|Translit=lamah
 31-32	רִמִּיתָֽנִי	_	_	_	_	_	_	_	SpaceAfter=No|Translit=rimitani
 31	רִמִּיתָֽ	רמה	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	16	conj	_	Gloss=deceive|Ref=GEN_29.25|Translit=rimita
 32	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	31	obj	_	Ref=GEN_29.25|Translit=ni

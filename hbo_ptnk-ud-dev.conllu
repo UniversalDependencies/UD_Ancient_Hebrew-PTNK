@@ -2350,7 +2350,7 @@
 11	לֹ֖	ל	ADP	prep	_	12	case	_	Gloss=to|Ref=GEN_3.9|Translit=lo
 12	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	10	obl	_	Ref=GEN_3.9|Translit=ṿ
 13-14	אַיֶּֽכָּה	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ʼayekah
-13	אַיֶּֽ	אי	PART	inrg	_	10	ccomp	_	Gloss=where|Ref=GEN_3.9|Translit=ʼaye
+13	אַיֶּֽ	אי	ADV	inrg	_	10	ccomp	_	Gloss=where|Ref=GEN_3.9|Translit=ʼaye
 14	כָּה	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nsubj	_	Ref=GEN_3.9|Translit=kah
 15	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_3.9
 
@@ -3097,14 +3097,14 @@
 4	אֶל	אל	ADP	prep	_	6	case	_	Gloss=to|Ref=GEN_4.6|SpaceAfter=No|Translit=ʼel
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_4.6|SpaceAfter=No
 6	קָ֑יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=Kain|Ref=GEN_4.6|Translit=ḳayin
-7	לָ֚מָּה	למה	PART	inrg	_	8	advmod	_	Gloss=why|Ref=GEN_4.6|Translit=lamah
+7	לָ֚מָּה	למה	ADV	inrg	_	8	advmod	_	Gloss=why|Ref=GEN_4.6|Translit=lamah
 8	חָ֣רָה	חרה	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=be hot|Ref=GEN_4.6|Translit=ḥarah
 9-10	לָ֔ךְ	_	_	_	_	_	_	_	Translit=lakh
 9	לָ֔	ל	ADP	prep	_	10	case	_	Gloss=to|Ref=GEN_4.6|Translit=la
 10	ךְ	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	8	obl	_	Ref=GEN_4.6|Translit=ke
 11-12	וְלָ֖מָּה	_	_	_	_	_	_	_	Translit=ṿelamah
 11	וְ	ו	CCONJ	conj	_	13	cc	_	Gloss=and|Ref=GEN_4.6|Translit=ṿe
-12	לָ֖מָּה	למה	PART	inrg	_	13	advmod	_	Gloss=why|Ref=GEN_4.6|Translit=lamah
+12	לָ֖מָּה	למה	ADV	inrg	_	13	advmod	_	Gloss=why|Ref=GEN_4.6|Translit=lamah
 13	נָפְל֥וּ	נפל	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	8	conj	_	Gloss=fall|Ref=GEN_4.6|Translit=naflu
 14-15	פָנֶֽיךָ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=panekha
 14	פָנֶֽי	פנה	NOUN	subs	Gender=Masc|Number=Plur	13	nsubj	_	Gloss=face|Ref=GEN_4.6|Translit=pane
@@ -3199,7 +3199,7 @@
 4	אֶל	אל	ADP	prep	_	6	case	_	Gloss=to|Ref=GEN_4.9|SpaceAfter=No|Translit=ʼel
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_4.9|SpaceAfter=No
 6	קַ֔יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=Kain|Ref=GEN_4.9|Translit=ḳayin
-7	אֵ֖י	אי	PART	inrg	_	2	ccomp	_	Gloss=where|Ref=GEN_4.9|Translit=ʼe
+7	אֵ֖י	אי	ADV	inrg	_	2	ccomp	_	Gloss=where|Ref=GEN_4.9|Translit=ʼe
 8	הֶ֣בֶל	הבל	PROPN	nmpr	Gender=Masc|Number=Sing	7	nsubj	_	Gloss=Abel|Ref=GEN_4.9|Translit=hevel
 9-10	אָחִ֑יךָ	_	_	_	_	_	_	_	Translit=ʼaḥikha
 9	אָחִ֑י	אח	NOUN	subs	Gender=Masc|Number=Sing	8	appos	_	Gloss=brother|Ref=GEN_4.9|Translit=ʼaḥi
@@ -10404,7 +10404,7 @@
 12-13	לִּ֑י	_	_	_	_	_	_	_	Translit=li
 12	לִּ֑	ל	ADP	prep	_	13	case	_	Gloss=to|Ref=GEN_12.18|Translit=li
 13	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	11	obl	_	Ref=GEN_12.18|Translit=
-14	לָ֚מָּה	למה	PART	inrg	_	17	advmod	_	Gloss=why|Ref=GEN_12.18|Translit=lamah
+14	לָ֚מָּה	למה	ADV	inrg	_	17	advmod	_	Gloss=why|Ref=GEN_12.18|Translit=lamah
 15	לֹא	לא	ADV	nega	Polarity=Neg	17	advmod	_	Gloss=not|Ref=GEN_12.18|SpaceAfter=No|Translit=loʼ
 16	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_12.18|SpaceAfter=No
 17	הִגַּ֣דְתָּ	נגד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	8	parataxis	_	Gloss=report|Ref=GEN_12.18|Translit=higadta
@@ -10421,7 +10421,7 @@
 # sent_id = Masoretic-Genesis-12:19-hbo
 # text = לָמָ֤ה אָמַ֨רְתָּ֙ אֲחֹ֣תִי הִ֔וא וָאֶקַּ֥ח אֹתָ֛הּ לִ֖י לְאִשָּׁ֑ה וְעַתָּ֕ה הִנֵּ֥ה אִשְׁתְּךָ֖ קַ֥ח וָלֵֽךְ׃
 # translit = lamah ʼamarta ʼaḥoti hiṿʼ ṿaʼeḳaḥ ʼotah li leʼishah ṿeʻatah hineh ʼishtekha ḳaḥ ṿalekh
-1	לָמָ֤ה	למה	PART	inrg	_	2	advmod	_	Gloss=why|Ref=GEN_12.19|Translit=lamah
+1	לָמָ֤ה	למה	ADV	inrg	_	2	advmod	_	Gloss=why|Ref=GEN_12.19|Translit=lamah
 2	אָמַ֨רְתָּ֙	אמר	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_12.19|Translit=ʼamarta
 3-4	אֲחֹ֣תִי	_	_	_	_	_	_	_	Translit=ʼaḥoti
 3	אֲחֹ֣תִ	אחות	NOUN	subs	Gender=Fem|Number=Sing	2	ccomp	_	Gloss=sister|Ref=GEN_12.19|Translit=ʼaḥoti
@@ -12859,7 +12859,7 @@
 3	הָגָ֞ר	הגר	PROPN	nmpr	Gender=Fem|Number=Sing	10	vocative	_	Gloss=Hagar|Ref=GEN_16.8|Translit=hagar
 4	שִׁפְחַ֥ת	שׁפחה	NOUN	subs	Gender=Fem|Number=Sing	3	appos	_	Gloss=maidservant|Ref=GEN_16.8|Translit=shifḥat
 5	שָׂרַ֛י	שׂרי	PROPN	nmpr	Gender=Fem|Number=Sing	4	compound:smixut	_	Gloss=Sarai|Ref=GEN_16.8|Translit=śarai
-6	אֵֽי	אי	PART	inrg	_	10	obl	_	Gloss=where|Ref=GEN_16.8|SpaceAfter=No|Translit=ʼe
+6	אֵֽי	אי	ADV	inrg	_	10	advmod	_	Gloss=where|Ref=GEN_16.8|SpaceAfter=No|Translit=ʼe
 7	־	־	PUNCT	punct	_	6	punct	_	Ref=GEN_16.8|SpaceAfter=No
 8-9	מִזֶּ֥ה	_	_	_	_	_	_	_	Translit=mizeh
 8	מִ	מן	ADP	prep	_	9	case	_	Gloss=from|Ref=GEN_16.8|Translit=mi
@@ -14343,7 +14343,7 @@
 3-4	אֵׄלָ֔ׄיׄוׄ	_	_	_	_	_	_	_	Translit=ʼelaṿ
 3	אֵׄלָ֔ׄיׄ	אל	ADP	prep	_	4	case	_	Gloss=to|Ref=GEN_18.9|Translit=ʼela
 4	וׄ	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	obl	_	Ref=GEN_18.9|Translit=ṿ
-5	אַיֵּ֖ה	איה	PART	inrg	_	2	ccomp	_	Gloss=where|Ref=GEN_18.9|Translit=ʼayeh
+5	אַיֵּ֖ה	איה	ADV	inrg	_	2	ccomp	_	Gloss=where|Ref=GEN_18.9|Translit=ʼayeh
 6	שָׂרָ֣ה	שׂרה	PROPN	nmpr	Gender=Fem|Number=Sing	5	nsubj	_	Gloss=Sarah|Ref=GEN_18.9|Translit=śarah
 7-8	אִשְׁתֶּ֑ךָ	_	_	_	_	_	_	_	Translit=ʼishtekha
 7	אִשְׁתֶּ֑	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	6	appos	_	Gloss=woman|Ref=GEN_18.9|Translit=ʼishte
@@ -14469,7 +14469,7 @@
 4	אֶל	אל	ADP	prep	_	6	case	_	Gloss=to|Ref=GEN_18.13|SpaceAfter=No|Translit=ʼel
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_18.13|SpaceAfter=No
 6	אַבְרָהָ֑ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=Abraham|Ref=GEN_18.13|Translit=ʼavraham
-7	לָ֣מָּה	למה	PART	inrg	_	9	advmod	_	Gloss=why|Ref=GEN_18.13|Translit=lamah
+7	לָ֣מָּה	למה	ADV	inrg	_	9	advmod	_	Gloss=why|Ref=GEN_18.13|Translit=lamah
 8	זֶּה֩	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	9	expl	_	Gloss=this|Ref=GEN_18.13|Translit=zeh
 9	צָחֲקָ֨ה	צחק	VERB	verb	Aspect=Perf|Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=laugh|Ref=GEN_18.13|Translit=tsaḥaḳah
 10	שָׂרָ֜ה	שׂרה	PROPN	nmpr	Gender=Fem|Number=Sing	9	nsubj	_	Gloss=Sarah|Ref=GEN_18.13|Translit=śarah
