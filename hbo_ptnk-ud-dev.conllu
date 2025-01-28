@@ -14595,7 +14595,7 @@
 1-2	וְאַ֨בְרָהָ֔ם	_	_	_	_	_	_	_	Translit=ṿeʼavraham
 1	וְ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|Ref=GEN_18.18|Translit=ṿe
 2	אַ֨בְרָהָ֔ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	6	nsubj	_	Gloss=Abraham|Ref=GEN_18.18|Translit=ʼavraham
-3	הָיֹ֧ו	היה	AUX	verb	HebBinyan=PAAL|VerbForm=Inf	6	cop	_	Gloss=be|Ref=GEN_18.18|Translit=hayo
+3	הָיֹ֧ו	היה	AUX	verb	HebBinyan=PAAL|VerbForm=Inf	6	obl:npmod	_	Gloss=be|Ref=GEN_18.18|Translit=hayo
 4	יִֽהְיֶ֛ה	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	6	cop	_	Gloss=be|Ref=GEN_18.18|Translit=yihyeh
 5-6	לְגֹ֥וי	_	_	_	_	_	_	_	Translit=lego
 5	לְ	ל	ADP	prep	_	6	case	_	Gloss=to|Ref=GEN_18.18|Translit=le
