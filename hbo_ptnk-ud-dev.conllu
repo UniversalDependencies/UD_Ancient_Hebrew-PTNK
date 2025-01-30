@@ -667,7 +667,7 @@
 13	־	־	PUNCT	punct	_	14	punct	_	Ref=GEN_1.21|SpaceAfter=No
 14	נֶ֣פֶשׁ	נפשׁ	NOUN	subs	Gender=Fem|Number=Sing	12	compound:smixut	_	Gloss=soul|Ref=GEN_1.21|Translit=nefesh
 15-16	הַֽחַיָּ֣ה	_	_	_	_	_	_	_	SpaceAfter=No|Translit=haḥayah
-15	הַֽ	ה	SCONJ	art	_	16	mark	_	Gloss=the|Ref=GEN_1.21|Translit=ha
+15	הַֽ	ה	DET	art	PronType=Art	16	det	_	Gloss=the|Ref=GEN_1.21|Translit=ha
 16	חַיָּ֣ה	חי	ADJ	adjv	Gender=Fem|Number=Sing	14	amod	_	Gloss=alive|Ref=GEN_1.21|Translit=ḥayah
 17	׀	׀	PUNCT	punct	_	19	punct	_	Ref=GEN_1.21
 18-19	הָֽרֹמֶ֡שֶׂת	_	_	_	_	_	_	_	Translit=haromeśet
@@ -12818,7 +12818,7 @@
 15	לָ֖	ל	ADP	prep	_	16	case	_	Gloss=to|Ref=GEN_16.6|Translit=la
 16	הּ	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	13	obl	_	Ref=GEN_16.6|Translit=h
 17-18	הַטֹּ֣וב	_	_	_	_	_	_	_	Translit=haṭov
-17	הַ	ה	SCONJ	art	_	18	mark	_	Gloss=the|Ref=GEN_16.6|Translit=ha
+17	הַ	ה	DET	art	PronType=Art	18	det	_	Gloss=the|Ref=GEN_16.6|Translit=ha
 18	טֹּ֣וב	טוב	ADJ	adjv	Gender=Masc|Number=Sing	13	obj	_	Gloss=good|Ref=GEN_16.6|Translit=ṭov
 19-21	בְּעֵינָ֑יִךְ	_	_	_	_	_	_	_	Translit=beʻenayikh
 19	בְּ	ב	ADP	prep	_	20	case	_	Gloss=in|Ref=GEN_16.6|Translit=be

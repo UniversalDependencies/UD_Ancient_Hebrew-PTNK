@@ -21674,7 +21674,7 @@
 8	־	־	PUNCT	punct	_	7	punct	_	Ref=GEN_49.15|SpaceAfter=No
 9-10	הָאָ֖רֶץ	_	_	_	_	_	_	_	Translit=haʼarets
 9	הָ	ה	DET	art	PronType=Art	10	det	_	Gloss=the|Ref=GEN_49.15|Translit=ha
-10	אָ֖רֶץ	ארץ	NOUN	subs	Number=Sing	2	conj	_	Gloss=earth|Ref=GEN_49.15|Translit=ʼarets
+10	אָ֖רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	2	conj	_	Gloss=earth|Ref=GEN_49.15|Translit=ʼarets
 11	כִּ֣י	כי	SCONJ	conj	_	12	mark	_	Gloss=that|Ref=GEN_49.15|Translit=ki
 12	נָעֵ֑מָה	נעם	VERB	verb	Aspect=Perf|Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	10	orphan	_	Gloss=be pleasant|Ref=GEN_49.15|Translit=naʻemah
 13-14	וַיֵּ֤ט	_	_	_	_	_	_	_	Translit=ṿayeṭ
