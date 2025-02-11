@@ -715,7 +715,7 @@
 6-7	לֵאמֹ֑ר	_	_	_	_	_	_	_	Translit=leʼmor
 6	לֵ	ל	ADP	prep	ExtPos=SCONJ	8	mark	_	Gloss=to|Ref=GEN_1.22|Ref[BHSA]=418|Translit=le
 7	אמֹ֑ר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	6	fixed	_	Gloss=say|Ref=GEN_1.22|Ref[BHSA]=419|Translit=ʼmor
-8	פְּר֣וּ	פרה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=be fertile|Ref=GEN_1.22|Ref[BHSA]=420|Translit=peru
+8	פְּר֣וּ	פרה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	2	advcl	_	Gloss=be fertile|Ref=GEN_1.22|Ref[BHSA]=420|Translit=peru
 9-10	וּרְב֗וּ	_	_	_	_	_	_	_	Translit=urbu
 9	וּ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|Ref=GEN_1.22|Ref[BHSA]=421|Translit=u
 10	רְב֗וּ	רבה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	8	conj	_	Gloss=be many|Ref=GEN_1.22|Ref[BHSA]=422|Translit=revu
@@ -2661,7 +2661,7 @@
 21	לֵ	ל	ADP	prep	ExtPos=SCONJ	24	mark	_	Gloss=to|Ref=GEN_3.17|Ref[BHSA]=1514|Translit=le
 22	אמֹ֔ר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	21	fixed	_	Gloss=say|Ref=GEN_3.17|Ref[BHSA]=1515|Translit=ʼmor
 23	לֹ֥א	לא	ADV	nega	Polarity=Neg	24	advmod	_	Gloss=not|Ref=GEN_3.17|Ref[BHSA]=1516|Translit=loʼ
-24	תֹאכַ֖ל	אכל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	19	ccomp	_	Gloss=eat|Ref=GEN_3.17|Ref[BHSA]=1517|Translit=toʼkhal
+24	תֹאכַ֖ל	אכל	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	19	advcl	_	Gloss=eat|Ref=GEN_3.17|Ref[BHSA]=1517|Translit=toʼkhal
 25-26	מִמֶּ֑נּוּ	_	_	_	_	_	_	_	Translit=mimenu
 25	מִמֶּ֑	מן	ADP	prep	_	26	case	_	Gloss=from|Ref=GEN_3.17|Ref[BHSA]=1518|Translit=mime
 26	נּוּ	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	24	obl	_	Ref=GEN_3.17|Translit=nu
@@ -12498,7 +12498,7 @@
 14	לְ	ל	ADP	prep	_	15	case	_	Gloss=to|Ref=GEN_15.18|Ref[BHSA]=6975|Translit=le
 15	זַרְעֲ	זרע	NOUN	subs	Gender=Masc|Number=Sing	17	obl	_	Gloss=seed|Ref=GEN_15.18|Ref[BHSA]=6976|Translit=zarʻa
 16	ךָ֗	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	15	nmod:poss	_	Ref=GEN_15.18|Translit=ka
-17	נָתַ֨תִּי֙	נתן	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	6	ccomp	_	Gloss=give|Ref=GEN_15.18|Ref[BHSA]=6977|Translit=natati
+17	נָתַ֨תִּי֙	נתן	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	6	advcl	_	Gloss=give|Ref=GEN_15.18|Ref[BHSA]=6977|Translit=natati
 18	אֶת	את	ADP	prep	_	21	case	_	Gloss=<object marker>|Ref=GEN_15.18|Ref[BHSA]=6978|SpaceAfter=No|Translit=ʼet
 19	־	־	PUNCT	punct	_	18	punct	_	Ref=GEN_15.18|SpaceAfter=No
 20-21	הָאָ֣רֶץ	_	_	_	_	_	_	_	Translit=haʼarets

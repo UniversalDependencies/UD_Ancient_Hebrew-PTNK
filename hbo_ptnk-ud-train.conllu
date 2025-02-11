@@ -14,7 +14,7 @@
 9-10	לֵאמֹ֔ר	_	_	_	_	_	_	_	Translit=leʼmor
 9	לֵ	ל	ADP	prep	ExtPos=SCONJ	11	mark	_	Gloss=to|Ref=GEN_31.1|Ref[BHSA]=16387|Translit=le
 10	אמֹ֔ר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	9	fixed	_	Gloss=say|Ref=GEN_31.1|Ref[BHSA]=16388|Translit=ʼmor
-11	לָקַ֣ח	לקח	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=take|Ref=GEN_31.1|Ref[BHSA]=16389|Translit=laḳaḥ
+11	לָקַ֣ח	לקח	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Gloss=take|Ref=GEN_31.1|Ref[BHSA]=16389|Translit=laḳaḥ
 12	יַעֲקֹ֔ב	יעקב	PROPN	nmpr	Gender=Masc|Number=Sing	11	nsubj	_	Gloss=Jacob|Ref=GEN_31.1|Ref[BHSA]=16390|Translit=yaʻaḳov
 13	אֵ֖ת	את	ADP	prep	_	14	case	_	Gloss=<object marker>|Ref=GEN_31.1|Ref[BHSA]=16391|Translit=ʼet
 14	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	11	obj	_	Gloss=whole|Ref=GEN_31.1|Ref[BHSA]=16392|SpaceAfter=No|Translit=kal
@@ -2098,7 +2098,7 @@
 5	לֵ	ל	ADP	prep	ExtPos=SCONJ	8	mark	_	Gloss=to|Ref=GEN_32.5|Ref[BHSA]=17498|Translit=le
 6	אמֹ֔ר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	5	fixed	_	Gloss=say|Ref=GEN_32.5|Ref[BHSA]=17499|Translit=ʼmor
 7	כֹּ֣ה	כה	ADV	advb	_	8	advmod	_	Gloss=thus|Ref=GEN_32.5|Ref[BHSA]=17500|Translit=koh
-8	תֹאמְר֔וּן	אמר	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=say|Ref=GEN_32.5|Ref[BHSA]=17501|Translit=toʼmrun
+8	תֹאמְר֔וּן	אמר	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	advcl	_	Gloss=say|Ref=GEN_32.5|Ref[BHSA]=17501|Translit=toʼmrun
 9-11	לַֽאדֹנִ֖י	_	_	_	_	_	_	_	Translit=laʼdoni
 9	לַֽ	ל	ADP	prep	_	10	case	_	Gloss=to|Ref=GEN_32.5|Ref[BHSA]=17502|Translit=la
 10	אדֹנִ֖	אדון	NOUN	subs	Gender=Masc|Number=Sing	8	obl	_	Gloss=lord|Ref=GEN_32.5|Ref[BHSA]=17503|Translit=ʼdoni
@@ -2589,7 +2589,7 @@
 8	אמֹ֑ר	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	7	fixed	_	Gloss=say|Ref=GEN_32.18|Ref[BHSA]=17774|Translit=ʼmor
 9	כִּ֣י	כי	SCONJ	conj	_	10	mark	_	Gloss=that|Ref=GEN_32.18|Ref[BHSA]=17775|Translit=ki
 10-11	יִֽפְגָּשְׁךָ֞	_	_	_	_	_	_	_	Translit=yifgashka
-10	יִֽפְגָּשְׁ	פגשׁ	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=meet|Ref=GEN_32.18|Ref[BHSA]=17776|Translit=yifgash
+10	יִֽפְגָּשְׁ	פגשׁ	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Gloss=meet|Ref=GEN_32.18|Ref[BHSA]=17776|Translit=yifgash
 11	ךָ֞	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	obj	_	Ref=GEN_32.18|Translit=ka
 12	עֵשָׂ֣ו	עשׂו	PROPN	nmpr	Gender=Masc|Number=Sing	10	nsubj	_	Gloss=Esau|Ref=GEN_32.18|Ref[BHSA]=17777|Translit=ʻeśaṿ
 13-14	אָחִ֗י	_	_	_	_	_	_	_	Translit=ʼaḥi
@@ -2696,7 +2696,7 @@
 28-29	הַזֶּה֙	_	_	_	_	_	_	_	Translit=hazeh
 28	הַ	ה	DET	art	PronType=Art	29	det	_	Gloss=the|Ref=GEN_32.20|Ref[BHSA]=17836|Translit=ha
 29	זֶּה֙	זה	PRON	prde	Gender=Masc|Number=Sing|PronType=Dem	27	det	_	Gloss=this|Ref=GEN_32.20|Ref[BHSA]=17837|Translit=zeh
-30	תְּדַבְּר֣וּן	דבר	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=speak|Ref=GEN_32.20|Ref[BHSA]=17838|Translit=tedabrun
+30	תְּדַבְּר֣וּן	דבר	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Plur|Person=2|VerbForm=Fin	2	advcl	_	Gloss=speak|Ref=GEN_32.20|Ref[BHSA]=17838|Translit=tedabrun
 31	אֶל	אל	ADP	prep	_	33	case	_	Gloss=to|Ref=GEN_32.20|Ref[BHSA]=17839|SpaceAfter=No|Translit=ʼel
 32	־	־	PUNCT	punct	_	31	punct	_	Ref=GEN_32.20|SpaceAfter=No
 33	עֵשָׂ֔ו	עשׂו	PROPN	nmpr	Gender=Masc|Number=Sing	30	obl	_	Gloss=Esau|Ref=GEN_32.20|Ref[BHSA]=17840|Translit=ʻeśaṿ
@@ -11701,7 +11701,7 @@
 9	בִּלְעָדָ֑	בלעדי	ADP	prep	_	10	case	_	Gloss=without|Ref=GEN_41.16|Ref[BHSA]=22648|Translit=bilʻada
 10	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	12	obl	_	Ref=GEN_41.16|Translit=
 11	אֱלֹהִ֕ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	12	nsubj	_	Gloss=god(s)|Ref=GEN_41.16|Ref[BHSA]=22649|Translit=ʼelohim
-12	יַעֲנֶ֖ה	ענה	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=answer|Ref=GEN_41.16|Ref[BHSA]=22650|Translit=yaʻaneh
+12	יַעֲנֶ֖ה	ענה	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Gloss=answer|Ref=GEN_41.16|Ref[BHSA]=22650|Translit=yaʻaneh
 13	אֶת	את	ADP	prep	_	15	case	_	Gloss=<object marker>|Ref=GEN_41.16|Ref[BHSA]=22651|SpaceAfter=No|Translit=ʼet
 14	־	־	PUNCT	punct	_	13	punct	_	Ref=GEN_41.16|SpaceAfter=No
 15	שְׁלֹ֥ום	שׁלום	NOUN	subs	Gender=Masc|Number=Sing	12	obj	_	Gloss=peace|Ref=GEN_41.16|Ref[BHSA]=22652|Translit=shelom
@@ -13754,7 +13754,7 @@
 8-9	הֲלֹוא֩	_	_	_	_	_	_	_	Translit=haloʼ
 8	הֲ	ה	PART	inrg	_	10	mark	_	Gloss=<interrogative>|Ref=GEN_42.22|Ref[BHSA]=23795|Translit=ha
 9	לֹוא֩	לא	ADV	nega	Polarity=Neg	10	advmod	_	Gloss=not|Ref=GEN_42.22|Ref[BHSA]=23796|Translit=loʼ
-10	אָמַ֨רְתִּי	אמר	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	ccomp	_	Gloss=say|Ref=GEN_42.22|Ref[BHSA]=23797|Translit=ʼamarti
+10	אָמַ֨רְתִּי	אמר	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	advcl	_	Gloss=say|Ref=GEN_42.22|Ref[BHSA]=23797|Translit=ʼamarti
 11-12	אֲלֵיכֶ֧ם	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ʼalekhem
 11	אֲלֵי	אל	ADP	prep	_	12	case	_	Gloss=to|Ref=GEN_42.22|Ref[BHSA]=23798|Translit=ʼale
 12	כֶ֧ם	אתם	PRON	prn	Gender=Masc|Number=Plur|Person=2|PronType=Prs	10	obl	_	Ref=GEN_42.22|Translit=kem
@@ -15762,7 +15762,7 @@
 10-11	לֵאמֹר֒	_	_	_	_	_	_	_	Translit=leʼmor
 10	לֵ	ל	ADP	prep	ExtPos=SCONJ	12	mark	_	Gloss=to|Ref=GEN_44.1|Ref[BHSA]=24841|Translit=le
 11	אמֹר֒	אמר	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	10	fixed	_	Gloss=say|Ref=GEN_44.1|Ref[BHSA]=24842|Translit=ʼmor
-12	מַלֵּ֞א	מלא	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=be full|Ref=GEN_44.1|Ref[BHSA]=24843|Translit=maleʼ
+12	מַלֵּ֞א	מלא	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	2	advcl	_	Gloss=be full|Ref=GEN_44.1|Ref[BHSA]=24843|Translit=maleʼ
 13	אֶת	את	ADP	prep	_	15	case	_	Gloss=<object marker>|Ref=GEN_44.1|Ref[BHSA]=24844|SpaceAfter=No|Translit=ʼet
 14	־	־	PUNCT	punct	_	13	punct	_	Ref=GEN_44.1|SpaceAfter=No
 15	אַמְתְּחֹ֤ת	אמתחת	NOUN	subs	Gender=Fem|Number=Plur	12	obj	_	Gloss=sack|Ref=GEN_44.1|Ref[BHSA]=24845|Translit=ʼamteḥot
@@ -21186,7 +21186,7 @@
 11-12	בְּךָ֗	_	_	_	_	_	_	_	Translit=bekha
 11	בְּ	ב	ADP	prep	_	12	case	_	Gloss=in|Ref=GEN_48.20|Ref[BHSA]=27722|Translit=be
 12	ךָ֗	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	obl	_	Ref=GEN_48.20|Translit=ka
-13	יְבָרֵ֤ךְ	ברך	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=bless|Ref=GEN_48.20|Ref[BHSA]=27723|Translit=yevarekh
+13	יְבָרֵ֤ךְ	ברך	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Gloss=bless|Ref=GEN_48.20|Ref[BHSA]=27723|Translit=yevarekh
 14	יִשְׂרָאֵל֙	ישׂראל	PROPN	nmpr	Number=Sing	13	nsubj	_	Gloss=Israel|Ref=GEN_48.20|Ref[BHSA]=27724|Translit=yiśraʼel
 15-16	לֵאמֹ֔ר	_	_	_	_	_	_	_	Translit=leʼmor
 15	לֵ	ל	ADP	prep	ExtPos=SCONJ	17	mark	_	Gloss=to|Ref=GEN_48.20|Ref[BHSA]=27725|Translit=le
@@ -24581,7 +24581,7 @@
 16-17	הָֽעֳמָרִ֛ים	_	_	_	_	_	_	_	Translit=haʻomarim
 16	הָֽ	ה	DET	art	PronType=Art	17	det	_	Gloss=the|Ref=RUT_2.15|Ref[BHSA]=356584|Translit=ha
 17	עֳמָרִ֛ים	עמר	NOUN	subs	Gender=Masc|Number=Plur	18	obl	_	Gloss=cut grain|Ref=RUT_2.15|Ref[BHSA]=356585|Translit=ʻomarim
-18	תְּלַקֵּ֖ט	לקט	VERB	verb	Aspect=Imp|Gender=Fem|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	6	ccomp	_	Gloss=gather|Ref=RUT_2.15|Ref[BHSA]=356586|Translit=telaḳeṭ
+18	תְּלַקֵּ֖ט	לקט	VERB	verb	Aspect=Imp|Gender=Fem|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	6	advcl	_	Gloss=gather|Ref=RUT_2.15|Ref[BHSA]=356586|Translit=telaḳeṭ
 19-20	וְלֹ֥א	_	_	_	_	_	_	_	Translit=ṿeloʼ
 19	וְ	ו	CCONJ	conj	_	21	cc	_	Gloss=and|Ref=RUT_2.15|Ref[BHSA]=356587|Translit=ṿe
 20	לֹ֥א	לא	ADV	nega	Polarity=Neg	21	advmod	_	Gloss=not|Ref=RUT_2.15|Ref[BHSA]=356588|Translit=loʼ
