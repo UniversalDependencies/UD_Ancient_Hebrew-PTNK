@@ -56,6 +56,7 @@ The following texts are included in this treebank:
 * v2.16
   * Add FEAT `ExtPos`
   * Add relation `acl:relcl`
+  * Add MISC `Ref[BHSA]` and `Translit`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
