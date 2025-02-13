@@ -3398,7 +3398,7 @@
 9	הֹרֵ֣ג	הרג	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part	7	acl:relcl	_	Gloss=kill|Ref=GEN_4.15|Ref[BHSA]=1913|Translit=horeg
 10	קַ֔יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	9	obj	_	Gloss=Kain|Ref=GEN_4.15|Ref[BHSA]=1914|Translit=ḳayin
 11	שִׁבְעָתַ֖יִם	שׁבע	NUM	subs	Gender=Fem|Number=Dual|NumType=Card	12	obl	_	Gloss=seven|Ref=GEN_4.15|Ref[BHSA]=1915|Translit=shivʻatayim
-12	יֻקָּ֑ם	נקם	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=avenge|Ref=GEN_4.15|Ref[BHSA]=1916|Translit=yuḳam
+12	יֻקָּ֑ם	נקם	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=avenge|Ref=GEN_4.15|Ref[BHSA]=1916|Translit=yuḳam
 13-14	וַיָּ֨שֶׂם	_	_	_	_	_	_	_	Translit=ṿayaśem
 13	וַ	ו	CCONJ	conj	_	14	cc	_	Gloss=and|Ref=GEN_4.15|Ref[BHSA]=1917|Translit=ṿa
 14	יָּ֨שֶׂם	שׂים	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=put|Ref=GEN_4.15|Ref[BHSA]=1918|Translit=yaśem
@@ -3670,7 +3670,7 @@
 # translit = ki shivʻatayim yuḳam ḳayin ṿelemekh shivʻim ṿeshivʻah
 1	כִּ֥י	כי	SCONJ	conj	_	3	mark	_	Gloss=that|Ref=GEN_4.24|Ref[BHSA]=2067|Translit=ki
 2	שִׁבְעָתַ֖יִם	שׁבע	NUM	subs	Gender=Fem|Number=Dual|NumType=Card	3	obl	_	Gloss=seven|Ref=GEN_4.24|Ref[BHSA]=2068|Translit=shivʻatayim
-3	יֻקַּם	נקם	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=avenge|Ref=GEN_4.24|Ref[BHSA]=2069|SpaceAfter=No|Translit=yuḳam
+3	יֻקַּם	נקם	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=avenge|Ref=GEN_4.24|Ref[BHSA]=2069|SpaceAfter=No|Translit=yuḳam
 4	־	־	PUNCT	punct	_	5	punct	_	Ref=GEN_4.24|SpaceAfter=No
 5	קָ֑יִן	קין	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Kain|Ref=GEN_4.24|Ref[BHSA]=2070|Translit=ḳayin
 6-7	וְלֶ֖מֶךְ	_	_	_	_	_	_	_	Translit=ṿelemekh
@@ -3749,7 +3749,7 @@
 15	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	14	nmod:poss	_	Ref=GEN_4.26|Translit=ṿ
 16	אֱנֹ֑ושׁ	אנושׁ	PROPN	nmpr	Gender=Masc|Number=Sing	11	xcomp	_	Gloss=Enosh|Ref=GEN_4.26|Ref[BHSA]=2112|Translit=ʼenosh
 17	אָ֣ז	אז	ADV	advb	_	18	advmod	_	Gloss=then|Ref=GEN_4.26|Ref[BHSA]=2113|Translit=ʼaz
-18	הוּחַ֔ל	חלל	VERB	verb	Aspect=Perf|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	7	parataxis	_	Gloss=defile|Ref=GEN_4.26|Ref[BHSA]=2114|Translit=huḥal
+18	הוּחַ֔ל	חלל	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	7	parataxis	_	Gloss=defile|Ref=GEN_4.26|Ref[BHSA]=2114|Translit=huḥal
 19-20	לִקְרֹ֖א	_	_	_	_	_	_	_	Translit=liḳroʼ
 19	לִ	ל	ADP	prep	_	20	case	_	Gloss=to|Ref=GEN_4.26|Ref[BHSA]=2115|Translit=li
 20	קְרֹ֖א	קרא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	18	xcomp	_	Gloss=call|Ref=GEN_4.26|Ref[BHSA]=2116|Translit=ḳeroʼ
@@ -10319,7 +10319,7 @@
 13	פַּרְעֹ֑ה	פרעה	NOUN	subs	Gender=Masc|Number=Sing	8	obl	_	Gloss=pharaoh|Ref=GEN_12.15|Ref[BHSA]=5771|Translit=parʻoh
 14-15	וַתֻּקַּ֥ח	_	_	_	_	_	_	_	Translit=ṿatuḳaḥ
 14	וַ	ו	CCONJ	conj	_	15	cc	_	Gloss=and|Ref=GEN_12.15|Ref[BHSA]=5772|Translit=ṿa
-15	תֻּקַּ֥ח	לקח	VERB	verb	Gender=Fem|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=take|Ref=GEN_12.15|Ref[BHSA]=5773|Translit=tuḳaḥ
+15	תֻּקַּ֥ח	לקח	VERB	verb	Gender=Fem|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=take|Ref=GEN_12.15|Ref[BHSA]=5773|Translit=tuḳaḥ
 16-17	הָאִשָּׁ֖ה	_	_	_	_	_	_	_	Translit=haʼishah
 16	הָ	ה	DET	art	PronType=Art	17	det	_	Gloss=the|Ref=GEN_12.15|Ref[BHSA]=5774|Translit=ha
 17	אִשָּׁ֖ה	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	15	nsubj	_	Gloss=woman|Ref=GEN_12.15|Ref[BHSA]=5775|Translit=ʼishah
@@ -14182,7 +14182,7 @@
 # sent_id = Masoretic-Genesis-18:4-hbo
 # text = יֻקַּֽח־נָ֣א מְעַט־מַ֔יִם וְרַחֲצ֖וּ רַגְלֵיכֶ֑ם וְהִֽשָּׁעֲנ֖וּ תַּ֥חַת הָעֵֽץ׃
 # translit = yuḳaḥ naʼ meʻaṭ mayim ṿeraḥatsu raglekhem ṿehishaʻanu taḥat haʻets
-1	יֻקַּֽח	לקח	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=take|Ref=GEN_18.4|Ref[BHSA]=7857|SpaceAfter=No|Translit=yuḳaḥ
+1	יֻקַּֽח	לקח	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=take|Ref=GEN_18.4|Ref[BHSA]=7857|SpaceAfter=No|Translit=yuḳaḥ
 2	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_18.4|SpaceAfter=No
 3	נָ֣א	נא	INTJ	intj	_	1	discourse	_	Gloss=yeah|Ref=GEN_18.4|Ref[BHSA]=7858|Translit=naʼ
 4	מְעַט	מעט	NOUN	subs	Gender=Masc|Number=Sing	1	nsubj	_	Gloss=little|Ref=GEN_18.4|Ref[BHSA]=7859|SpaceAfter=No|Translit=meʻaṭ

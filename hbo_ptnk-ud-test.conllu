@@ -4111,7 +4111,7 @@
 7	אֵ֔לֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	5	det	_	Gloss=these|Ref=GEN_22.20|Ref[BHSA]=10659|Translit=ʼeleh
 8-9	וַיֻּגַּ֥ד	_	_	_	_	_	_	_	Translit=ṿayugad
 8	וַ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|Ref=GEN_22.20|Ref[BHSA]=10660|Translit=ṿa
-9	יֻּגַּ֥ד	נגד	VERB	verb	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=report|Ref=GEN_22.20|Ref[BHSA]=10661|Translit=yugad
+9	יֻּגַּ֥ד	נגד	VERB	verb	Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=report|Ref=GEN_22.20|Ref[BHSA]=10661|Translit=yugad
 10-11	לְאַבְרָהָ֖ם	_	_	_	_	_	_	_	Translit=leʼavraham
 10	לְ	ל	ADP	prep	_	11	case	_	Gloss=to|Ref=GEN_22.20|Ref[BHSA]=10662|Translit=le
 11	אַבְרָהָ֖ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	9	obl	_	Gloss=Abraham|Ref=GEN_22.20|Ref[BHSA]=10663|Translit=ʼavraham
@@ -6176,7 +6176,7 @@
 # translit = ṿaiuśam lefanaṿ leʼekhol ṿayoʼmer loʼ ʼokhal ʻad ʼim dibarti devara ṿayoʼmer daber
 1-2	וַיּוּשַׂ֤ם	_	_	_	_	_	_	_	Translit=ṿaiuśam
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_24.33|Ref[BHSA]=11762|Translit=ṿa
-2	יּוּשַׂ֤ם	שׂים	VERB	verb	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=put|Ref=GEN_24.33|Ref[BHSA]=11763|Translit=uśam
+2	יּוּשַׂ֤ם	שׂים	VERB	verb	Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=put|Ref=GEN_24.33|Ref[BHSA]=11763|Translit=uśam
 3-5	לְפָנָיו֙	_	_	_	_	_	_	_	Translit=lefanaṿ
 3	לְ	ל	ADP	prep	_	4	case	_	Gloss=to|Ref=GEN_24.33|Ref[BHSA]=11764|Translit=le
 4	פָנָי	פנה	NOUN	subs	Gender=Masc|Number=Plur	2	obl	_	Gloss=face|Ref=GEN_24.33|Ref[BHSA]=11765|Translit=pana
@@ -8855,7 +8855,7 @@
 21	אִשְׁתֹּ֖	אשׁה	NOUN	subs	Gender=Fem|Number=Sing	16	conj	_	Gloss=woman|Ref=GEN_26.11|Ref[BHSA]=13211|Translit=ʼishto
 22	ו	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	nmod:poss	_	Ref=GEN_26.11|Translit=ṿ
 23	מֹ֥ות	מות	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	24	obl:npmod	_	Gloss=die|Ref=GEN_26.11|Ref[BHSA]=13212|Translit=mot
-24	יוּמָֽת	מות	VERB	verb	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Gloss=die|Ref=GEN_26.11|Ref[BHSA]=13213|SpaceAfter=No|Translit=umat
+24	יוּמָֽת	מות	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	advcl	_	Gloss=die|Ref=GEN_26.11|Ref[BHSA]=13213|SpaceAfter=No|Translit=umat
 25	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_26.11
 
 # sent_id = Masoretic-Genesis-26:12-hbo
@@ -11151,7 +11151,7 @@
 # translit = ṿayugad lerivḳah ʼet divre ʻeśaṿ benah hagadol ṿatishlaḥ ṿatiḳraʼ leyaʻaḳov benah haḳaṭan ṿatoʼmer ʼelaṿ hineh ʻeśaṿ ʼaḥikha mitnaḥem lekha lehargekha
 1-2	וַיֻּגַּ֣ד	_	_	_	_	_	_	_	Translit=ṿayugad
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_27.42|Ref[BHSA]=14396|Translit=ṿa
-2	יֻּגַּ֣ד	נגד	VERB	verb	Gender=Masc|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=report|Ref=GEN_27.42|Ref[BHSA]=14397|Translit=yugad
+2	יֻּגַּ֣ד	נגד	VERB	verb	Gender=Masc|HebBinyan=HUFAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=report|Ref=GEN_27.42|Ref[BHSA]=14397|Translit=yugad
 3-4	לְרִבְקָ֔ה	_	_	_	_	_	_	_	Translit=lerivḳah
 3	לְ	ל	ADP	prep	_	4	case	_	Gloss=to|Ref=GEN_27.42|Ref[BHSA]=14398|Translit=le
 4	רִבְקָ֔ה	רבקה	PROPN	nmpr	Gender=Fem|Number=Sing	2	obl	_	Gloss=Rebekah|Ref=GEN_27.42|Ref[BHSA]=14399|Translit=rivḳah
@@ -11734,7 +11734,7 @@
 3	וְ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|Ref=GEN_28.12|Ref[BHSA]=14709|Translit=ṿe
 4	הִנֵּ֤ה	הנה	INTJ	intj	_	6	discourse	_	Gloss=behold|Ref=GEN_28.12|Ref[BHSA]=14710|Translit=hineh
 5	סֻלָּם֙	סלם	NOUN	subs	Gender=Masc|Number=Sing	6	nsubj	_	Gloss=stair|Ref=GEN_28.12|Ref[BHSA]=14711|Translit=sulam
-6	מֻצָּ֣ב	נצב	VERB	verb	Gender=Masc|Number=Sing|VerbForm=Part|Voice=Pass	2	conj	_	Gloss=stand|Ref=GEN_28.12|Ref[BHSA]=14712|Translit=mutsav
+6	מֻצָּ֣ב	נצב	VERB	verb	Gender=Masc|HebBinyan=HUFAL|Number=Sing|VerbForm=Part|Voice=Pass	2	conj	_	Gloss=stand|Ref=GEN_28.12|Ref[BHSA]=14712|Translit=mutsav
 7	אַ֔רְצָה	ארץ	NOUN	subs	Gender=Fem|Number=Sing	6	obl	_	Gloss=earth|Ref=GEN_28.12|Ref[BHSA]=14713|Translit=ʼartsah
 8-10	וְרֹאשֹׁ֖ו	_	_	_	_	_	_	_	Translit=ṿeroʼsho
 8	וְ	ו	CCONJ	conj	_	11	cc	_	Gloss=and|Ref=GEN_28.12|Ref[BHSA]=14714|Translit=ṿe
