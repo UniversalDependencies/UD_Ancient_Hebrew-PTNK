@@ -7794,7 +7794,7 @@
 18	חָ֕ם	חם	PROPN	nmpr	Number=Sing	20	dislocated	_	Gloss=Ham|Ref=GEN_9.18|Ref[BHSA]=4385|Translit=ḥam
 19	ה֖וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	20	nsubj	_	Gloss=he|Ref=GEN_9.18|Ref[BHSA]=4386|Translit=huʼ
 20	אֲבִ֥י	אב	NOUN	subs	Gender=Masc|Number=Sing	12	conj	_	Gloss=father|Ref=GEN_9.18|Ref[BHSA]=4387|Translit=ʼavi
-21	כְנָֽעַן	כנען	PROPN	nmpr	Number=Sing	20	compound:smixut	_	Gloss=Canaan|Ref=GEN_9.18|Ref[BHSA]=4388|SpaceAfter=No|Translit=kenaʻan
+21	כְנָֽעַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	20	compound:smixut	_	Gloss=Canaan|Ref=GEN_9.18|Ref[BHSA]=4388|SpaceAfter=No|Translit=kenaʻan
 22	׃	׃	PUNCT	punct	_	12	punct	_	Ref=GEN_9.18
 
 # sent_id = Masoretic-Genesis-9:19-hbo
@@ -7867,7 +7867,7 @@
 2	יַּ֗רְא	ראה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=see|Ref=GEN_9.22|Ref[BHSA]=4422|Translit=yarʼ
 3	חָ֚ם	חם	PROPN	nmpr	Number=Sing	2	nsubj	_	Gloss=Ham|Ref=GEN_9.22|Ref[BHSA]=4423|Translit=ḥam
 4	אֲבִ֣י	אב	NOUN	subs	Gender=Masc|Number=Sing	3	appos	_	Gloss=father|Ref=GEN_9.22|Ref[BHSA]=4424|Translit=ʼavi
-5	כְנַ֔עַן	כנען	PROPN	nmpr	Number=Sing	4	compound:smixut	_	Gloss=Canaan|Ref=GEN_9.22|Ref[BHSA]=4425|Translit=kenaʻan
+5	כְנַ֔עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	4	compound:smixut	_	Gloss=Canaan|Ref=GEN_9.22|Ref[BHSA]=4425|Translit=kenaʻan
 6	אֵ֖ת	את	ADP	prep	_	7	case	_	Gloss=<object marker>|Ref=GEN_9.22|Ref[BHSA]=4426|Translit=ʼet
 7	עֶרְוַ֣ת	ערוה	NOUN	subs	Gender=Fem|Number=Sing	2	obj	_	Gloss=nakedness|Ref=GEN_9.22|Ref[BHSA]=4427|Translit=ʻerṿat
 8-9	אָבִ֑יו	_	_	_	_	_	_	_	Translit=ʼaviṿ
@@ -7977,7 +7977,7 @@
 1	וַ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|Ref=GEN_9.25|Ref[BHSA]=4480|Translit=ṿa
 2	יֹּ֖אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|Ref=GEN_9.25|Ref[BHSA]=4481|Translit=yoʼmer
 3	אָר֣וּר	ארר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Number=Sing|VerbForm=Part|Voice=Pass	2	ccomp	_	Gloss=curse|Ref=GEN_9.25|Ref[BHSA]=4482|Translit=ʼarur
-4	כְּנָ֑עַן	כנען	PROPN	nmpr	Number=Sing	3	nsubj	_	Gloss=Canaan|Ref=GEN_9.25|Ref[BHSA]=4483|Translit=kenaʻan
+4	כְּנָ֑עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Canaan|Ref=GEN_9.25|Ref[BHSA]=4483|Translit=kenaʻan
 5	עֶ֥בֶד	עבד	NOUN	subs	Gender=Masc|Number=Sing	3	parataxis	_	Gloss=servant|Ref=GEN_9.25|Ref[BHSA]=4484|Translit=ʻeved
 6	עֲבָדִ֖ים	עבד	NOUN	subs	Gender=Masc|Number=Plur	5	compound:smixut	_	Gloss=servant|Ref=GEN_9.25|Ref[BHSA]=4485|Translit=ʻavadim
 7	יִֽהְיֶ֥ה	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	5	cop	_	Gloss=be|Ref=GEN_9.25|Ref[BHSA]=4486|Translit=yihyeh
@@ -8000,7 +8000,7 @@
 7-8	וִיהִ֥י	_	_	_	_	_	_	_	Translit=ṿihi
 7	וִ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|Ref=GEN_9.26|Ref[BHSA]=4495|Translit=ṿi
 8	יהִ֥י	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	10	cop	_	Gloss=be|Ref=GEN_9.26|Ref[BHSA]=4496|Translit=hi
-9	כְנַ֖עַן	כנען	PROPN	nmpr	Number=Sing	10	nsubj	_	Gloss=Canaan|Ref=GEN_9.26|Ref[BHSA]=4497|Translit=kenaʻan
+9	כְנַ֖עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	10	nsubj	_	Gloss=Canaan|Ref=GEN_9.26|Ref[BHSA]=4497|Translit=kenaʻan
 10	עֶ֥בֶד	עבד	NOUN	subs	Gender=Masc|Number=Sing	3	conj	_	Gloss=servant|Ref=GEN_9.26|Ref[BHSA]=4498|Translit=ʻeved
 11-12	לָֽמֹו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=lamo
 11	לָֽ	ל	ADP	prep	_	12	case	_	Gloss=to|Ref=GEN_9.26|Ref[BHSA]=4499|Translit=la
@@ -8026,7 +8026,7 @@
 11-12	וִיהִ֥י	_	_	_	_	_	_	_	Translit=ṿihi
 11	וִ	ו	CCONJ	conj	_	14	cc	_	Gloss=and|Ref=GEN_9.27|Ref[BHSA]=4509|Translit=ṿi
 12	יהִ֥י	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	14	cop	_	Gloss=be|Ref=GEN_9.27|Ref[BHSA]=4510|Translit=hi
-13	כְנַ֖עַן	כנען	PROPN	nmpr	Number=Sing	14	nsubj	_	Gloss=Canaan|Ref=GEN_9.27|Ref[BHSA]=4511|Translit=kenaʻan
+13	כְנַ֖עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	14	nsubj	_	Gloss=Canaan|Ref=GEN_9.27|Ref[BHSA]=4511|Translit=kenaʻan
 14	עֶ֥בֶד	עבד	NOUN	subs	Gender=Masc|Number=Sing	1	conj	_	Gloss=servant|Ref=GEN_9.27|Ref[BHSA]=4512|Translit=ʻeved
 15-16	לָֽמֹו	_	_	_	_	_	_	_	SpaceAfter=No|Translit=lamo
 15	לָֽ	ל	ADP	prep	_	16	case	_	Gloss=to|Ref=GEN_9.27|Ref[BHSA]=4513|Translit=la
@@ -8206,13 +8206,13 @@
 4	כּ֥וּשׁ	כושׁ	PROPN	nmpr	Number=Sing	0	root	_	Gloss=Cush|Ref=GEN_10.6|Ref[BHSA]=4605|Translit=kush
 5-6	וּמִצְרַ֖יִם	_	_	_	_	_	_	_	Translit=umitsrayim
 5	וּ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|Ref=GEN_10.6|Ref[BHSA]=4606|Translit=u
-6	מִצְרַ֖יִם	מצרים	PROPN	nmpr	Number=Sing	4	conj	_	Gloss=Egypt|Ref=GEN_10.6|Ref[BHSA]=4607|Translit=mitsrayim
+6	מִצְרַ֖יִם	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	4	conj	_	Gloss=Egypt|Ref=GEN_10.6|Ref[BHSA]=4607|Translit=mitsrayim
 7-8	וּפ֥וּט	_	_	_	_	_	_	_	Translit=ufuṭ
 7	וּ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_10.6|Ref[BHSA]=4608|Translit=u
 8	פ֥וּט	פוט	PROPN	nmpr	Number=Sing	4	conj	_	Gloss=Put|Ref=GEN_10.6|Ref[BHSA]=4609|Translit=puṭ
 9-10	וּכְנָֽעַן	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ukhnaʻan
 9	וּ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|Ref=GEN_10.6|Ref[BHSA]=4610|Translit=u
-10	כְנָֽעַן	כנען	PROPN	nmpr	Number=Sing	4	conj	_	Gloss=Canaan|Ref=GEN_10.6|Ref[BHSA]=4611|Translit=kenaʻan
+10	כְנָֽעַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	4	conj	_	Gloss=Canaan|Ref=GEN_10.6|Ref[BHSA]=4611|Translit=kenaʻan
 11	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_10.6
 
 # sent_id = Masoretic-Genesis-10:7-hbo
@@ -8377,7 +8377,7 @@
 # translit = umitsrayim yalad ʼet ludim ṿeʼet ʻanamim ṿeʼet lehavim ṿeʼet naftuḥim  ṿeʼet patrusim ṿeʼet kasluḥim ʼasher yatsʼu misham pelishtim ṿeʼet kaftorim  s
 1-2	וּמִצְרַ֡יִם	_	_	_	_	_	_	_	Translit=umitsrayim
 1	וּ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|Ref=GEN_10.13|Ref[BHSA]=4704|Translit=u
-2	מִצְרַ֡יִם	מצרים	PROPN	nmpr	Number=Sing	3	nsubj	_	Gloss=Egypt|Ref=GEN_10.13|Ref[BHSA]=4705|Translit=mitsrayim
+2	מִצְרַ֡יִם	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Egypt|Ref=GEN_10.13|Ref[BHSA]=4705|Translit=mitsrayim
 3	יָלַ֞ד	ילד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=bear|Ref=GEN_10.13|Ref[BHSA]=4706|Translit=yalad
 4	אֶת	את	ADP	prep	_	6	case	_	Gloss=<object marker>|Ref=GEN_10.13|Ref[BHSA]=4707|SpaceAfter=No|Translit=ʼet
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_10.13|SpaceAfter=No
@@ -8427,7 +8427,7 @@
 # translit = ukhnaʻan yalad ʼet tsidon bekhoro ṿeʼet ḥet  ṿeʼet haybusi ṿeʼet haʼemori ṿeʼet hagirgashi  ṿeʼet haḥiu ṿeʼet haʻarḳi ṿeʼet hasini  ṿeʼet haʼarṿadi ṿeʼet hatsmari ṿeʼet haḥamati ṿeʼaḥar nafotsu mishpeḥot haknaʻani
 1-2	וּכְנַ֗עַן	_	_	_	_	_	_	_	Translit=ukhnaʻan
 1	וּ	ו	CCONJ	conj	_	3	cc	_	Gloss=and|Ref=GEN_10.15|Ref[BHSA]=4732|Translit=u
-2	כְנַ֗עַן	כנען	PROPN	nmpr	Number=Sing	3	nsubj	_	Gloss=Canaan|Ref=GEN_10.15|Ref[BHSA]=4733|Translit=kenaʻan
+2	כְנַ֗עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	3	nsubj	_	Gloss=Canaan|Ref=GEN_10.15|Ref[BHSA]=4733|Translit=kenaʻan
 3	יָלַ֛ד	ילד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	0	root	_	Gloss=bear|Ref=GEN_10.15|Ref[BHSA]=4734|Translit=yalad
 4	אֶת	את	ADP	prep	_	6	case	_	Gloss=<object marker>|Ref=GEN_10.15|Ref[BHSA]=4735|SpaceAfter=No|Translit=ʼet
 5	־	־	PUNCT	punct	_	4	punct	_	Ref=GEN_10.15|SpaceAfter=No
@@ -9751,7 +9751,7 @@
 36	לָ	ל	ADP	prep	_	37	case	_	Gloss=to|Ref=GEN_11.31|Ref[BHSA]=5459|Translit=la
 37	לֶ֨כֶת֙	הלך	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	30	advcl	_	Gloss=walk|Ref=GEN_11.31|Ref[BHSA]=5460|Translit=lekhet
 38	אַ֣רְצָה	ארץ	NOUN	subs	Gender=Fem|Number=Sing	37	obl	_	Gloss=earth|Ref=GEN_11.31|Ref[BHSA]=5461|Translit=ʼartsah
-39	כְּנַ֔עַן	כנען	PROPN	nmpr	Number=Sing	38	compound:smixut	_	Gloss=Canaan|Ref=GEN_11.31|Ref[BHSA]=5462|Translit=kenaʻan
+39	כְּנַ֔עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	38	compound:smixut	_	Gloss=Canaan|Ref=GEN_11.31|Ref[BHSA]=5462|Translit=kenaʻan
 40-41	וַיָּבֹ֥אוּ	_	_	_	_	_	_	_	Translit=ṿayavoʼu
 40	וַ	ו	CCONJ	conj	_	41	cc	_	Gloss=and|Ref=GEN_11.31|Ref[BHSA]=5463|Translit=ṿa
 41	יָּבֹ֥אוּ	בוא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=come|Ref=GEN_11.31|Ref[BHSA]=5464|Translit=yavoʼu
@@ -9982,12 +9982,12 @@
 38	לָ	ל	ADP	prep	_	39	case	_	Gloss=to|Ref=GEN_12.5|Ref[BHSA]=5582|Translit=la
 39	לֶ֨כֶת֙	הלך	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	37	advcl	_	Gloss=walk|Ref=GEN_12.5|Ref[BHSA]=5583|Translit=lekhet
 40	אַ֣רְצָה	ארץ	NOUN	subs	Gender=Fem|Number=Sing	39	obl	_	Gloss=earth|Ref=GEN_12.5|Ref[BHSA]=5584|Translit=ʼartsah
-41	כְּנַ֔עַן	כנען	PROPN	nmpr	Number=Sing	40	compound:smixut	_	Gloss=Canaan|Ref=GEN_12.5|Ref[BHSA]=5585|Translit=kenaʻan
+41	כְּנַ֔עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	40	compound:smixut	_	Gloss=Canaan|Ref=GEN_12.5|Ref[BHSA]=5585|Translit=kenaʻan
 42-43	וַיָּבֹ֖אוּ	_	_	_	_	_	_	_	Translit=ṿayavoʼu
 42	וַ	ו	CCONJ	conj	_	43	cc	_	Gloss=and|Ref=GEN_12.5|Ref[BHSA]=5586|Translit=ṿa
 43	יָּבֹ֖אוּ	בוא	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=come|Ref=GEN_12.5|Ref[BHSA]=5587|Translit=yavoʼu
 44	אַ֥רְצָה	ארץ	NOUN	subs	Gender=Fem|Number=Sing	43	obl	_	Gloss=earth|Ref=GEN_12.5|Ref[BHSA]=5588|Translit=ʼartsah
-45	כְּנָֽעַן	כנען	PROPN	nmpr	Number=Sing	44	compound:smixut	_	Gloss=Canaan|Ref=GEN_12.5|Ref[BHSA]=5589|SpaceAfter=No|Translit=kenaʻan
+45	כְּנָֽעַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	44	compound:smixut	_	Gloss=Canaan|Ref=GEN_12.5|Ref[BHSA]=5589|SpaceAfter=No|Translit=kenaʻan
 46	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_12.5
 
 # sent_id = Masoretic-Genesis-12:6-hbo
@@ -10149,7 +10149,7 @@
 7	וַ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_12.10|Ref[BHSA]=5679|Translit=ṿa
 8	יֵּ֨רֶד	ירד	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	6	conj	_	Gloss=descend|Ref=GEN_12.10|Ref[BHSA]=5680|Translit=yered
 9	אַבְרָ֤ם	אברם	PROPN	nmpr	Gender=Masc|Number=Sing	8	nsubj	_	Gloss=Abram|Ref=GEN_12.10|Ref[BHSA]=5681|Translit=ʼavram
-10	מִצְרַ֨יְמָה֙	מצרים	PROPN	nmpr	Number=Sing	8	obl	_	Gloss=Egypt|Ref=GEN_12.10|Ref[BHSA]=5682|Translit=mitsraymah
+10	מִצְרַ֨יְמָה֙	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	8	obl	_	Gloss=Egypt|Ref=GEN_12.10|Ref[BHSA]=5682|Translit=mitsraymah
 11-12	לָג֣וּר	_	_	_	_	_	_	_	Translit=lagur
 11	לָ	ל	ADP	prep	_	12	case	_	Gloss=to|Ref=GEN_12.10|Ref[BHSA]=5683|Translit=la
 12	ג֣וּר	גור	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	8	advcl	_	Gloss=dwell|Ref=GEN_12.10|Ref[BHSA]=5684|Translit=gur
@@ -10179,7 +10179,7 @@
 6-7	לָבֹ֣וא	_	_	_	_	_	_	_	Translit=lavoʼ
 6	לָ	ל	ADP	prep	_	7	case	_	Gloss=to|Ref=GEN_12.11|Ref[BHSA]=5698|Translit=la
 7	בֹ֣וא	בוא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	5	xcomp	_	Gloss=come|Ref=GEN_12.11|Ref[BHSA]=5699|Translit=boʼ
-8	מִצְרָ֑יְמָה	מצרים	PROPN	nmpr	Number=Sing	7	obl	_	Gloss=Egypt|Ref=GEN_12.11|Ref[BHSA]=5700|Translit=mitsraymah
+8	מִצְרָ֑יְמָה	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	7	obl	_	Gloss=Egypt|Ref=GEN_12.11|Ref[BHSA]=5700|Translit=mitsraymah
 9-10	וַיֹּ֨אמֶר֙	_	_	_	_	_	_	_	Translit=ṿayoʼmer
 9	וַ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|Ref=GEN_12.11|Ref[BHSA]=5701|Translit=ṿa
 10	יֹּ֨אמֶר֙	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=say|Ref=GEN_12.11|Ref[BHSA]=5702|Translit=yoʼmer
@@ -10278,7 +10278,7 @@
 3	כְּ	כ	ADP	prep	_	4	case	_	Gloss=as|Ref=GEN_12.14|Ref[BHSA]=5747|Translit=ke
 4	בֹ֥וא	בוא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	2	advcl	_	Gloss=come|Ref=GEN_12.14|Ref[BHSA]=5748|Translit=boʼ
 5	אַבְרָ֖ם	אברם	PROPN	nmpr	Gender=Masc|Number=Sing	4	nsubj	_	Gloss=Abram|Ref=GEN_12.14|Ref[BHSA]=5749|Translit=ʼavram
-6	מִצְרָ֑יְמָה	מצרים	PROPN	nmpr	Number=Sing	4	obl	_	Gloss=Egypt|Ref=GEN_12.14|Ref[BHSA]=5750|Translit=mitsraymah
+6	מִצְרָ֑יְמָה	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	4	obl	_	Gloss=Egypt|Ref=GEN_12.14|Ref[BHSA]=5750|Translit=mitsraymah
 7-8	וַיִּרְא֤וּ	_	_	_	_	_	_	_	Translit=ṿayirʼu
 7	וַ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_12.14|Ref[BHSA]=5751|Translit=ṿa
 8	יִּרְא֤וּ	ראה	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=see|Ref=GEN_12.14|Ref[BHSA]=5752|Translit=yirʼu
@@ -10511,7 +10511,7 @@
 3	אַבְרָ֨ם	אברם	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Abram|Ref=GEN_13.1|Ref[BHSA]=5868|Translit=ʼavram
 4-5	מִמִּצְרַ֜יִם	_	_	_	_	_	_	_	Translit=mimitsrayim
 4	מִ	מן	ADP	prep	_	5	case	_	Gloss=from|Ref=GEN_13.1|Ref[BHSA]=5869|Translit=mi
-5	מִּצְרַ֜יִם	מצרים	PROPN	nmpr	Number=Sing	2	obl	_	Gloss=Egypt|Ref=GEN_13.1|Ref[BHSA]=5870|Translit=mitsrayim
+5	מִּצְרַ֜יִם	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=Egypt|Ref=GEN_13.1|Ref[BHSA]=5870|Translit=mitsrayim
 6	ה֠וּא	הוא	PRON	prps	Gender=Masc|Number=Sing|Person=3|PronType=Prs	2	dislocated	_	Gloss=he|Ref=GEN_13.1|Ref[BHSA]=5871|Translit=huʼ
 7-9	וְאִשְׁתֹּ֧ו	_	_	_	_	_	_	_	Translit=ṿeʼishto
 7	וְ	ו	CCONJ	conj	_	8	cc	_	Gloss=and|Ref=GEN_13.1|Ref[BHSA]=5872|Translit=ṿe
@@ -10863,7 +10863,7 @@
 38-39	כְּאֶ֣רֶץ	_	_	_	_	_	_	_	Translit=keʼerets
 38	כְּ	כ	ADP	prep	_	39	case	_	Gloss=as|Ref=GEN_13.10|Ref[BHSA]=6066|Translit=ke
 39	אֶ֣רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	35	conj	_	Gloss=earth|Ref=GEN_13.10|Ref[BHSA]=6067|Translit=ʼerets
-40	מִצְרַ֔יִם	מצרים	PROPN	nmpr	Number=Sing	39	compound:smixut	_	Gloss=Egypt|Ref=GEN_13.10|Ref[BHSA]=6068|Translit=mitsrayim
+40	מִצְרַ֔יִם	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	39	compound:smixut	_	Gloss=Egypt|Ref=GEN_13.10|Ref[BHSA]=6068|Translit=mitsrayim
 41-42	בֹּאֲכָ֖ה	_	_	_	_	_	_	_	Translit=boʼakhah
 41	בֹּאֲ	בוא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	21	advcl	_	Gloss=come|Ref=GEN_13.10|Ref[BHSA]=6069|Translit=boʼa
 42	כָ֖ה	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	41	nsubj	_	Ref=GEN_13.10|Translit=kah
@@ -10916,7 +10916,7 @@
 3	בְּ	ב	ADP	prep	_	4	case	_	Gloss=in|Ref=GEN_13.12|Ref[BHSA]=6093|Translit=be
 4	אֶֽרֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	2	obl	_	Gloss=earth|Ref=GEN_13.12|Ref[BHSA]=6094|Translit=ʼerets
 5	־	־	PUNCT	punct	_	6	punct	_	Ref=GEN_13.12|SpaceAfter=No
-6	כְּנָ֑עַן	כנען	PROPN	nmpr	Number=Sing	4	compound:smixut	_	Gloss=Canaan|Ref=GEN_13.12|Ref[BHSA]=6095|Translit=kenaʻan
+6	כְּנָ֑עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	4	compound:smixut	_	Gloss=Canaan|Ref=GEN_13.12|Ref[BHSA]=6095|Translit=kenaʻan
 7-8	וְלֹ֗וט	_	_	_	_	_	_	_	Translit=ṿeloṭ
 7	וְ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|Ref=GEN_13.12|Ref[BHSA]=6096|Translit=ṿe
 8	לֹ֗וט	לוט	PROPN	nmpr	Gender=Masc|Number=Sing	9	nsubj	_	Gloss=Lot|Ref=GEN_13.12|Ref[BHSA]=6097|Translit=loṭ
@@ -12510,7 +12510,7 @@
 24-25	מִנְּהַ֣ר	_	_	_	_	_	_	_	Translit=minhar
 24	מִ	מן	ADP	prep	_	25	case	_	Gloss=from|Ref=GEN_15.18|Ref[BHSA]=6983|Translit=mi
 25	נְּהַ֣ר	נהר	NOUN	subs	Gender=Masc|Number=Sing	21	nmod	_	Gloss=stream|Ref=GEN_15.18|Ref[BHSA]=6984|Translit=nehar
-26	מִצְרַ֔יִם	מצרים	PROPN	nmpr	Number=Sing	25	compound:smixut	_	Gloss=Egypt|Ref=GEN_15.18|Ref[BHSA]=6985|Translit=mitsrayim
+26	מִצְרַ֔יִם	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	25	compound:smixut	_	Gloss=Egypt|Ref=GEN_15.18|Ref[BHSA]=6985|Translit=mitsrayim
 27	עַד	עד	ADP	prep	_	30	case	_	Gloss=unto|Ref=GEN_15.18|Ref[BHSA]=6986|SpaceAfter=No|Translit=ʻad
 28	־	־	PUNCT	punct	_	27	punct	_	Ref=GEN_15.18|SpaceAfter=No
 29-30	הַנָּהָ֥ר	_	_	_	_	_	_	_	Translit=hanahar
@@ -12696,7 +12696,7 @@
 21-22	בְּאֶ֣רֶץ	_	_	_	_	_	_	_	Translit=beʼerets
 21	בְּ	ב	ADP	prep	_	22	case	_	Gloss=in|Ref=GEN_16.3|Ref[BHSA]=7087|Translit=be
 22	אֶ֣רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	19	obl	_	Gloss=earth|Ref=GEN_16.3|Ref[BHSA]=7088|Translit=ʼerets
-23	כְּנָ֑עַן	כנען	PROPN	nmpr	Number=Sing	22	compound:smixut	_	Gloss=Canaan|Ref=GEN_16.3|Ref[BHSA]=7089|Translit=kenaʻan
+23	כְּנָ֑עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	22	compound:smixut	_	Gloss=Canaan|Ref=GEN_16.3|Ref[BHSA]=7089|Translit=kenaʻan
 24-25	וַתִּתֵּ֥ן	_	_	_	_	_	_	_	Translit=ṿatiten
 24	וַ	ו	CCONJ	conj	_	25	cc	_	Gloss=and|Ref=GEN_16.3|Ref[BHSA]=7090|Translit=ṿa
 25	תִּתֵּ֥ן	נתן	VERB	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=give|Ref=GEN_16.3|Ref[BHSA]=7091|Translit=titen
@@ -13396,7 +13396,7 @@
 17	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	13	appos	_	Gloss=whole|Ref=GEN_17.8|Ref[BHSA]=7449|SpaceAfter=No|Translit=kal
 18	־	־	PUNCT	punct	_	19	punct	_	Ref=GEN_17.8|SpaceAfter=No
 19	אֶ֣רֶץ	ארץ	NOUN	subs	Gender=Fem|Number=Sing	17	compound:smixut	_	Gloss=earth|Ref=GEN_17.8|Ref[BHSA]=7450|Translit=ʼerets
-20	כְּנַ֔עַן	כנען	PROPN	nmpr	Number=Sing	19	compound:smixut	_	Gloss=Canaan|Ref=GEN_17.8|Ref[BHSA]=7451|Translit=kenaʻan
+20	כְּנַ֔עַן	כנען	PROPN	nmpr	Gender=Masc|Number=Sing	19	compound:smixut	_	Gloss=Canaan|Ref=GEN_17.8|Ref[BHSA]=7451|Translit=kenaʻan
 21-22	לַאֲחֻזַּ֖ת	_	_	_	_	_	_	_	Translit=laʼaḥuzat
 21	לַ	ל	ADP	prep	_	22	case	_	Gloss=to|Ref=GEN_17.8|Ref[BHSA]=7452|Translit=la
 22	אֲחֻזַּ֖ת	אחזה	NOUN	subs	Gender=Fem|Number=Sing	2	xcomp	_	Gloss=land property|Ref=GEN_17.8|Ref[BHSA]=7453|Translit=ʼaḥuzat
