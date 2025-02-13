@@ -13277,13 +13277,13 @@
 14	ךָ֙	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	13	nmod:poss	_	Ref=GEN_17.5|Translit=ka
 15	אַבְרָהָ֔ם	אברהם	PROPN	nmpr	Gender=Masc|Number=Sing	4	conj	_	Gloss=Abraham|Ref=GEN_17.5|Ref[BHSA]=7393|Translit=ʼavraham
 16	כִּ֛י	כי	SCONJ	conj	_	21	mark	_	Gloss=that|Ref=GEN_17.5|Ref[BHSA]=7394|Translit=ki
-17	אַב	אב	NOUN	subs	Gender=Masc|Number=Sing	21	xcomp	_	Gloss=father|Ref=GEN_17.5|Ref[BHSA]=7395|SpaceAfter=No|Translit=ʼav
+17	אַב	אב	NOUN	subs	Gender=Masc|Number=Sing	21	obj	_	Gloss=father|Ref=GEN_17.5|Ref[BHSA]=7395|SpaceAfter=No|Translit=ʼav
 18	־	־	PUNCT	punct	_	19	punct	_	Ref=GEN_17.5|SpaceAfter=No
 19	הֲמֹ֥ון	המון	NOUN	subs	Gender=Masc|Number=Sing	17	compound:smixut	_	Gloss=commotion|Ref=GEN_17.5|Ref[BHSA]=7396|Translit=hamon
 20	גֹּויִ֖ם	גוי	NOUN	subs	Gender=Masc|Number=Plur	19	compound:smixut	_	Gloss=people|Ref=GEN_17.5|Ref[BHSA]=7397|Translit=goyim
 21-22	נְתַתִּֽיךָ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=netatikha
 21	נְתַתִּֽי	נתן	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	15	advcl	_	Gloss=give|Ref=GEN_17.5|Ref[BHSA]=7398|Translit=netati
-22	ךָ	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	21	obj	_	Ref=GEN_17.5|Translit=ka
+22	ךָ	אתה	PRON	prn	Gender=Masc|Number=Sing|Person=2|PronType=Prs	21	obl	_	Ref=GEN_17.5|Translit=ka
 23	׃	׃	PUNCT	punct	_	4	punct	_	Ref=GEN_17.5
 
 # sent_id = Masoretic-Genesis-17:6-hbo

@@ -17,6 +17,7 @@ The following texts are included in this treebank:
 | Genesis | 1-18     | Dev   | 2.10  |
 |         | 19-30    | Test  | 2.10  |
 |         | 31-50    | Train | 2.10  |
+| Exodus  | 1-40     | Train | 2.16  |
 | Ruth    | 1-4      | Train | 2.10  |
 
 # Acknowledgments
@@ -54,6 +55,7 @@ The following texts are included in this treebank:
 * v2.14
   * Add MISC `Gloss` more consistently
 * v2.16
+  * Add Exodus
   * Add FEAT `ExtPos`
   * Add relation `acl:relcl`
   * Add MISC `Ref[BHSA]` and `Translit`
