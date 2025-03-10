@@ -58,7 +58,7 @@ The following texts are included in this treebank:
   * Add Exodus
   * Add FEAT `ExtPos`
   * Add relation `acl:relcl`
-  * Add MISC `Ref[BHSA]` and `Translit`
+  * Add MISC `LId[SDBH]`, `LId[Strongs]`, `Ref[BHSA]`, `Ref[MACULA]`, and `Translit`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
