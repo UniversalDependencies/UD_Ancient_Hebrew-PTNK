@@ -12697,19 +12697,19 @@
 4	לְ	ל	ADP	prep	_	5	case	_	Gloss=to|LId[Strongs]=l|Ref=GEN_29.15|Ref[BHSA]=15243|Ref[MACULA]=o010290150031|Translit=le
 5	יַעֲקֹ֔ב	יעקב	PROPN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Gloss=Jacob|LId[SDBH]=003009001001000|LId[Strongs]=3290|Ref=GEN_29.15|Ref[BHSA]=15244|Ref[MACULA]=o010290150032|Translit=yaʻaḳov
 6-7	הֲכִי	_	_	_	_	_	_	_	SpaceAfter=No|Translit=hakhi
-6	הֲ	ה	PART	inrg	_	9	mark	_	Gloss=<interrogative>|LId[SDBH]=001736001001000|LId[Strongs]=i|Ref=GEN_29.15|Ref[BHSA]=15245|Ref[MACULA]=o010290150041|Translit=ha
+6	הֲ	ה	PART	inrg	_	13	mark	_	Gloss=<interrogative>|LId[SDBH]=001736001001000|LId[Strongs]=i|Ref=GEN_29.15|Ref[BHSA]=15245|Ref[MACULA]=o010290150041|Translit=ha
 7	כִי	כי	SCONJ	conj	_	9	mark	_	Gloss=that|LId[Strongs]=3588a|Ref=GEN_29.15|Ref[BHSA]=15246|Ref[MACULA]=o010290150042|Translit=ki
 8	־	־	PUNCT	punct	_	7	punct	_	Ref=GEN_29.15|SpaceAfter=No
 9-10	אָחִ֣י	_	_	_	_	_	_	_	Translit=ʼaḥi
-9	אָחִ֣	אח	NOUN	subs	Gender=Masc|Number=Sing	2	ccomp	_	Gloss=brother|LId[SDBH]=000238001002000|LId[Strongs]=251|Ref=GEN_29.15|Ref[BHSA]=15247|Ref[MACULA]=o010290150051|Translit=ʼaḥi
+9	אָחִ֣	אח	NOUN	subs	Gender=Masc|Number=Sing	13	advcl	_	Gloss=brother|LId[SDBH]=000238001002000|LId[Strongs]=251|Ref=GEN_29.15|Ref[BHSA]=15247|Ref[MACULA]=o010290150051|Translit=ʼaḥi
 10	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	9	nmod:poss	_	LId[SDBH]=000238001002000|Ref=GEN_29.15|Ref[MACULA]=o010290150052|Translit=
 11	אַ֔תָּה	אתה	PRON	prps	Gender=Masc|Number=Sing|Person=2|PronType=Prs	9	nsubj	_	Gloss=you|LId[Strongs]=859a|Ref=GEN_29.15|Ref[BHSA]=15248|Ref[MACULA]=o010290150061|Translit=ʼatah
 12-14	וַעֲבַדְתַּ֖נִי	_	_	_	_	_	_	_	Translit=ṿaʻavadtani
 12	וַ	ו	CCONJ	conj	_	13	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_29.15|Ref[BHSA]=15249|Ref[MACULA]=o010290150071|Translit=ṿa
-13	עֲבַדְתַּ֖	עבד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	9	conj	_	Gloss=work, serve|LId[SDBH]=005186001001000|LId[Strongs]=5647|Ref=GEN_29.15|Ref[BHSA]=15250|Ref[MACULA]=o010290150072|Translit=ʻavadta
+13	עֲבַדְתַּ֖	עבד	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	2	ccomp	_	Gloss=work, serve|LId[SDBH]=005186001001000|LId[Strongs]=5647|Ref=GEN_29.15|Ref[BHSA]=15250|Ref[MACULA]=o010290150072|Translit=ʻavadta
 14	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	13	obj	_	LId[SDBH]=005186001001000|Ref=GEN_29.15|Ref[MACULA]=o010290150073|Translit=ni
 15	חִנָּ֑ם	חנם	ADV	advb	_	13	advmod	_	Gloss=in vain|LId[SDBH]=002395001001000|LId[Strongs]=2600|Ref=GEN_29.15|Ref[BHSA]=15251|Ref[MACULA]=o010290150081|Translit=ḥinam
-16	הַגִּ֥ידָה	נגד	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	9	parataxis	_	Gloss=report|LId[SDBH]=004626001001000|LId[Strongs]=5046|Ref=GEN_29.15|Ref[BHSA]=15252|Ref[MACULA]=o010290150091|Translit=hagidah
+16	הַגִּ֥ידָה	נגד	VERB	verb	Gender=Masc|HebBinyan=HIFIL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	13	parataxis	_	Gloss=report|LId[SDBH]=004626001001000|LId[Strongs]=5046|Ref=GEN_29.15|Ref[BHSA]=15252|Ref[MACULA]=o010290150091|Translit=hagidah
 17-18	לִּ֖י	_	_	_	_	_	_	_	Translit=li
 17	לִּ֖	ל	ADP	prep	_	18	case	_	Gloss=to|LId[Strongs]=l|Ref=GEN_29.15|Ref[BHSA]=15253|Ref[MACULA]=o010290150101|Translit=li
 18	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	16	obl	_	Ref=GEN_29.15|Ref[MACULA]=o010290150102|Translit=

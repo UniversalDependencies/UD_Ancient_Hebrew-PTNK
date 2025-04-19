@@ -10178,7 +10178,7 @@
 5	הִקְרִ֖יב	קרב	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	3	acl:relcl	_	Gloss=approach|LId[SDBH]=006558001006000|LId[Strongs]=7126|Ref=GEN_12.11|Ref[BHSA]=5697|Ref[MACULA]=o010120110031|Translit=hiḳriv
 6-7	לָבֹ֣וא	_	_	_	_	_	_	_	Translit=lavoʼ
 6	לָ	ל	ADP	prep	_	7	case	_	Gloss=to|LId[Strongs]=l|Ref=GEN_12.11|Ref[BHSA]=5698|Ref[MACULA]=o010120110041|Translit=la
-7	בֹ֣וא	בוא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	5	xcomp	_	Gloss=come|LId[Strongs]=935|Ref=GEN_12.11|Ref[BHSA]=5699|Ref[MACULA]=o010120110042|Translit=boʼ
+7	בֹ֣וא	בוא	VERB	verb	HebBinyan=PAAL|VerbForm=Inf	5	advcl	_	Gloss=come|LId[Strongs]=935|Ref=GEN_12.11|Ref[BHSA]=5699|Ref[MACULA]=o010120110042|Translit=boʼ
 8	מִצְרָ֑יְמָה	מצרים	PROPN	nmpr	Gender=Masc|Number=Sing	7	obl	_	Gloss=Egypt|LId[SDBH]=004314001002000|LId[Strongs]=4714|Ref=GEN_12.11|Ref[BHSA]=5700|Ref[MACULA]=o010120110051|Translit=mitsraymah
 9-10	וַיֹּ֨אמֶר֙	_	_	_	_	_	_	_	Translit=ṿayoʼmer
 9	וַ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_12.11|Ref[BHSA]=5701|Ref[MACULA]=o010120110061|Translit=ṿa
