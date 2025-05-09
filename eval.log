@@ -1,13 +1,13 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Ancient_Hebrew-PTNK:
-commit 51bd14f373b1fe327c509add167fdea0189b11ea
-Merge: dd22938 68fa36c
+commit 7f3a167fb8db29129604fdf82263b6e4a4791c1b
+Merge: bc7f588 86b6686
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 39036 of 39036 words (nodes).
-Size: min(0, log((N/1000)**2)) = 7.32896859455843.
+Size: counted 90770 of 90770 words (nodes).
+Size: min(0, log((N/1000)**2)) = 9.01665766907707.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -15,15 +15,15 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 22618 out of 39036 total words have one or more features.
+Features: 53180 out of 90770 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
-Universal relations: 29 out of 37 found in the corpus.
+Universal relations: 30 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
 Udapi:
-               TOTAL        144
-Udapi: found 144 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 39036 words.
-Genres: found 1 out of 17 known.
+               TOTAL        361
+Udapi: found 361 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 90770 words.
+Genres: found 1 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang hbo --max-err=10 UD_Ancient_Hebrew-PTNK/hbo_ptnk-ud-dev.conllu
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang hbo --max-err=10 UD_Ancient_Hebrew-PTNK/hbo_ptnk-ud-test.conllu
@@ -32,13 +32,13 @@ Genres: found 1 out of 17 known.
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
-(weight=0.0769230769230769) * (score{genres}=0.0588235294117647) = 0.00452488687782805
+(weight=0.0769230769230769) * (score{genres}=0.0555555555555556) = 0.00427350427350427
 (weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
-(weight=0.256410256410256) * (score{size}=0.530488436443159) = 0.136022676011067
+(weight=0.256410256410256) * (score{size}=0.652647445148468) = 0.167345498756017
 (weight=0.0512820512820513) * (score{split}=1) = 0.0512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.705882352941177) = 0.0542986425339367
-(weight=0.307692307692308) * (score{udapi}=0.963110974485091) = 0.296341838303105
-(weight=0.0769230769230769) * (score{udeprels}=0.783783783783784) = 0.0602910602910603
-(TOTAL score=0.725838078375971) * (availability=1) * (validity=1) = 0.725838078375971
-STARS = 3.5
-UD_Ancient_Hebrew-PTNK	0.725838078375971	3.5
+(weight=0.307692307692308) * (score{udapi}=0.960229150600419) = 0.295455123261667
+(weight=0.0769230769230769) * (score{udeprels}=0.810810810810811) = 0.0623700623700624
+(TOTAL score=0.758101805554162) * (availability=1) * (validity=1) = 0.758101805554162
+STARS = 4
+UD_Ancient_Hebrew-PTNK	0.758101805554162	4
