@@ -12,12 +12,14 @@ The corpus can be found at [github.com/etcbc/bhsa](https://github.com/etcbc/bhsa
 
 The following texts are included in this treebank:
 
-| Book    | Chapters | Split | Added |
-|---------|----------|-------|-------|
-| Genesis | 1-18     | Dev   | 2.10  |
-|         | 19-30    | Test  | 2.10  |
-|         | 31-50    | Train | 2.10  |
-| Ruth    | 1-4      | Train | 2.10  |
+| Book      | Chapters | Split | Added |
+|-----------|----------|-------|-------|
+| Genesis   | 1-18     | Dev   | 2.10  |
+|           | 19-30    | Test  | 2.10  |
+|           | 31-50    | Train | 2.10  |
+| Exodus    | 1-40     | Train | 2.16  |
+| Leviticus | 1-27     | Train | 2.16  |
+| Ruth      | 1-4      | Train | 2.10  |
 
 # Acknowledgments
 
@@ -53,6 +55,11 @@ The following texts are included in this treebank:
   * Add MISC `Gloss`
 * v2.14
   * Add MISC `Gloss` more consistently
+* v2.16
+  * Add Exodus and Leviticus
+  * Add FEAT `ExtPos`
+  * Add relation `acl:relcl`
+  * Add MISC `LId[SDBH]`, `LId[Strongs]`, `Ref[BHSA]`, `Ref[MACULA]`, and `Translit`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
