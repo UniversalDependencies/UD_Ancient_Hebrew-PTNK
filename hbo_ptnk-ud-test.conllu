@@ -13051,7 +13051,7 @@
 # translit = maleʼ shevuʻa zoʼt ṿenitnah lekha gam ʼet zoʼt baʻavodah ʼasher taʻavod ʻimadi ʻod shevaʻ shanim ʼaḥerot
 1	מַלֵּ֖א	מלא	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Gloss=be full|LId[SDBH]=004012001007000|LId[Strongs]=4390|Ref=GEN_29.27|Ref[BHSA]=15424|Ref[MACULA]=o010290270011|Translit=maleʼ
 2	שְׁבֻ֣עַ	שׁבוע	NOUN	subs	Gender=Masc|Number=Sing	1	obj	_	Gloss=week|LId[SDBH]=007153001001000|LId[Strongs]=7620|Ref=GEN_29.27|Ref[BHSA]=15425|Ref[MACULA]=o010290270021|Translit=shevuʻa
-3	זֹ֑את	זאת	PRON	prde	Gender=Fem|Number=Sing|PronType=Dem	2	appos	_	Gloss=this|LId[Strongs]=2063|Ref=GEN_29.27|Ref[BHSA]=15426|Ref[MACULA]=o010290270031|Translit=zoʼt
+3	זֹ֑את	זאת	PRON	prde	Gender=Fem|Number=Sing|PronType=Dem	2	compound:smixut	_	Gloss=this|LId[Strongs]=2063|Ref=GEN_29.27|Ref[BHSA]=15426|Ref[MACULA]=o010290270031|Translit=zoʼt
 4-5	וְנִתְּנָ֨ה	_	_	_	_	_	_	_	Translit=ṿenitnah
 4	וְ	ו	CCONJ	conj	_	5	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_29.27|Ref[BHSA]=15427|Ref[MACULA]=o010290270041|Translit=ṿe
 5	נִתְּנָ֨ה	נתן	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	1	conj	_	Gloss=give|LId[Strongs]=5414|Ref=GEN_29.27|Ref[BHSA]=15428|Ref[MACULA]=o010290270042|Translit=nitnah
@@ -13090,7 +13090,7 @@
 5	וַ	ו	CCONJ	conj	_	6	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_29.28|Ref[BHSA]=15446|Ref[MACULA]=o010290280041|Translit=ṿa
 6	יְמַלֵּ֖א	מלא	VERB	verb	Gender=Masc|HebBinyan=PIEL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=be full|LId[SDBH]=004012001007000|LId[Strongs]=4390|Ref=GEN_29.28|Ref[BHSA]=15447|Ref[MACULA]=o010290280042|Translit=yemaleʼ
 7	שְׁבֻ֣עַ	שׁבוע	NOUN	subs	Gender=Masc|Number=Sing	6	obj	_	Gloss=week|LId[SDBH]=007153001001000|LId[Strongs]=7620|Ref=GEN_29.28|Ref[BHSA]=15448|Ref[MACULA]=o010290280051|Translit=shevuʻa
-8	זֹ֑את	זאת	PRON	prde	Gender=Fem|Number=Sing|PronType=Dem	7	appos	_	Gloss=this|LId[Strongs]=2063|Ref=GEN_29.28|Ref[BHSA]=15449|Ref[MACULA]=o010290280061|Translit=zoʼt
+8	זֹ֑את	זאת	PRON	prde	Gender=Fem|Number=Sing|PronType=Dem	7	compound:smixut	_	Gloss=this|LId[Strongs]=2063|Ref=GEN_29.28|Ref[BHSA]=15449|Ref[MACULA]=o010290280061|Translit=zoʼt
 9-10	וַיִּתֶּן	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿayiten
 9	וַ	ו	CCONJ	conj	_	10	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_29.28|Ref[BHSA]=15450|Ref[MACULA]=o010290280071|Translit=ṿa
 10	יִּתֶּן	נתן	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=give|LId[Strongs]=5414|Ref=GEN_29.28|Ref[BHSA]=15451|Ref[MACULA]=o010290280072|Translit=yiten
