@@ -1258,9 +1258,9 @@
 3	אֶת	את	ADP	prep	_	5	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_19.32|Ref[BHSA]=9114|Ref[MACULA]=o010190320031|SpaceAfter=No|Translit=ʼet
 4	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_19.32|SpaceAfter=No
 5-6	אָבִ֛ינוּ	_	_	_	_	_	_	_	Translit=ʼavinu
-5	אָבִ֛י	אב	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Gloss=father|LId[SDBH]=000003001001000|LId[Strongs]=1|Ref=GEN_19.32|Ref[BHSA]=9115|Ref[MACULA]=o010190320041|Translit=ʼavi
+5	אָבִ֛י	אב	NOUN	subs	Gender=Masc|Number=Sing	2	iobj	_	Gloss=father|LId[SDBH]=000003001001000|LId[Strongs]=1|Ref=GEN_19.32|Ref[BHSA]=9115|Ref[MACULA]=o010190320041|Translit=ʼavi
 6	נוּ	אנחנו	PRON	prn	Number=Plur|Person=1|PronType=Prs	5	nmod:poss	_	LId[SDBH]=000003001001000|Ref=GEN_19.32|Ref[MACULA]=o010190320042|Translit=nu
-7	יַ֖יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	2	xcomp	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.32|Ref[BHSA]=9116|Ref[MACULA]=o010190320051|Translit=yayin
+7	יַ֖יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.32|Ref[BHSA]=9116|Ref[MACULA]=o010190320051|Translit=yayin
 8-9	וְנִשְׁכְּבָ֣ה	_	_	_	_	_	_	_	Translit=ṿenishkevah
 8	וְ	ו	CCONJ	conj	_	9	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_19.32|Ref[BHSA]=9117|Ref[MACULA]=o010190320061|Translit=ṿe
 9	נִשְׁכְּבָ֣ה	שׁכב	VERB	verb	Aspect=Imp|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	1	conj	_	Gloss=lie down|LId[SDBH]=007340001004000|LId[Strongs]=7901|Ref=GEN_19.32|Ref[BHSA]=9118|Ref[MACULA]=o010190320062|Translit=nishkevah
@@ -1286,9 +1286,9 @@
 3	אֶת	את	ADP	prep	_	5	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_19.33|Ref[BHSA]=9127|Ref[MACULA]=o010190330021|SpaceAfter=No|Translit=ʼet
 4	־	־	PUNCT	punct	_	3	punct	_	Ref=GEN_19.33|SpaceAfter=No
 5-6	אֲבִיהֶ֛ן	_	_	_	_	_	_	_	Translit=ʼavihen
-5	אֲבִי	אב	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Gloss=father|LId[SDBH]=000003001001000|LId[Strongs]=1|Ref=GEN_19.33|Ref[BHSA]=9128|Ref[MACULA]=o010190330031|Translit=ʼavi
+5	אֲבִי	אב	NOUN	subs	Gender=Masc|Number=Sing	2	iobj	_	Gloss=father|LId[SDBH]=000003001001000|LId[Strongs]=1|Ref=GEN_19.33|Ref[BHSA]=9128|Ref[MACULA]=o010190330031|Translit=ʼavi
 6	הֶ֛ן	הן	PRON	prn	Gender=Fem|Number=Plur|Person=3|PronType=Prs	5	nmod:poss	_	LId[SDBH]=000003001001000|Ref=GEN_19.33|Ref[MACULA]=o010190330032|Translit=hen
-7	יַ֖יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	2	xcomp	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.33|Ref[BHSA]=9129|Ref[MACULA]=o010190330041|Translit=yayin
+7	יַ֖יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.33|Ref[BHSA]=9129|Ref[MACULA]=o010190330041|Translit=yayin
 8-10	בַּלַּ֣יְלָה	_	_	_	_	_	_	_	Translit=balaylah
 8	בַּ	ב	ADP	prep	_	10	case	_	Gloss=in|LId[Strongs]=b|Ref=GEN_19.33|Ref[BHSA]=9130|Ref[MACULA]=o010190330051|Translit=ba
 9	ה	ה	DET	art	PronType=Art	10	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_19.33|Ref[BHSA]=9131|Ref[MACULA]=o010190330051ה|Translit=
@@ -1355,8 +1355,8 @@
 20	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	19	nmod:poss	_	LId[SDBH]=000003001001000|Ref=GEN_19.34|Ref[MACULA]=o010190340112|Translit=
 21-22	נַשְׁקֶ֨נּוּ	_	_	_	_	_	_	_	Translit=nashḳenu
 21	נַשְׁקֶ֨	שׁקה	VERB	verb	Aspect=Imp|HebBinyan=HIFIL|Mood=Ind|Number=Plur|Person=1|VerbForm=Fin	15	conj	_	Gloss=give drink|LId[SDBH]=007606001003000|LId[Strongs]=8248|Ref=GEN_19.34|Ref[BHSA]=9166|Ref[MACULA]=o010190340121|Translit=nashḳe
-22	נּוּ	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	obj	_	LId[SDBH]=007606001003000|Ref=GEN_19.34|Ref[MACULA]=o010190340122|Translit=nu
-23	יַ֜יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	21	xcomp	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.34|Ref[BHSA]=9167|Ref[MACULA]=o010190340131|Translit=yayin
+22	נּוּ	הוא	PRON	prn	Gender=Masc|Number=Sing|Person=3|PronType=Prs	21	iobj	_	LId[SDBH]=007606001003000|Ref=GEN_19.34|Ref[MACULA]=o010190340122|Translit=nu
+23	יַ֜יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	21	obj	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.34|Ref[BHSA]=9167|Ref[MACULA]=o010190340131|Translit=yayin
 24	גַּם	גם	ADV	advb	_	27	advmod	_	Gloss=even|LId[SDBH]=001439001001000|LId[Strongs]=1571|Ref=GEN_19.34|Ref[BHSA]=9168|Ref[MACULA]=o010190340141|SpaceAfter=No|Translit=gam
 25	־	־	PUNCT	punct	_	24	punct	_	Ref=GEN_19.34|SpaceAfter=No
 26-27	הַלַּ֗יְלָה	_	_	_	_	_	_	_	Translit=halaylah
@@ -1396,9 +1396,9 @@
 9	אֶת	את	ADP	prep	_	11	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_19.35|Ref[BHSA]=9188|Ref[MACULA]=o010190350051|SpaceAfter=No|Translit=ʼet
 10	־	־	PUNCT	punct	_	9	punct	_	Ref=GEN_19.35|SpaceAfter=No
 11-12	אֲבִיהֶ֖ן	_	_	_	_	_	_	_	Translit=ʼavihen
-11	אֲבִי	אב	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Gloss=father|LId[SDBH]=000003001001000|LId[Strongs]=1|Ref=GEN_19.35|Ref[BHSA]=9189|Ref[MACULA]=o010190350061|Translit=ʼavi
+11	אֲבִי	אב	NOUN	subs	Gender=Masc|Number=Sing	2	iobj	_	Gloss=father|LId[SDBH]=000003001001000|LId[Strongs]=1|Ref=GEN_19.35|Ref[BHSA]=9189|Ref[MACULA]=o010190350061|Translit=ʼavi
 12	הֶ֖ן	הן	PRON	prn	Gender=Fem|Number=Plur|Person=3|PronType=Prs	11	nmod:poss	_	LId[SDBH]=000003001001000|Ref=GEN_19.35|Ref[MACULA]=o010190350062|Translit=hen
-13	יָ֑יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	2	xcomp	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.35|Ref[BHSA]=9190|Ref[MACULA]=o010190350071|Translit=yayin
+13	יָ֑יִן	יין	NOUN	subs	Gender=Masc|Number=Sing	2	obj	_	Gloss=wine|LId[SDBH]=002924001001000|LId[Strongs]=3196|Ref=GEN_19.35|Ref[BHSA]=9190|Ref[MACULA]=o010190350071|Translit=yayin
 14-15	וַתָּ֤קָם	_	_	_	_	_	_	_	Translit=ṿataḳam
 14	וַ	ו	CCONJ	conj	_	15	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_19.35|Ref[BHSA]=9191|Ref[MACULA]=o010190350081|Translit=ṿa
 15	תָּ֤קָם	קום	VERB	verb	Gender=Fem|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=arise|LId[Strongs]=6965b|Ref=GEN_19.35|Ref[BHSA]=9192|Ref[MACULA]=o010190350082|Translit=taḳam
@@ -4692,7 +4692,7 @@
 15	אִם	אם	SCONJ	conj	_	19	mark	_	Gloss=if|LId[Strongs]=518a|Ref=GEN_23.13|Ref[BHSA]=10958|Ref[MACULA]=o010230130091|SpaceAfter=No|Translit=ʼim
 16	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_23.13|SpaceAfter=No
 17	אַתָּ֥ה	אתה	PRON	prps	Gender=Masc|Number=Sing|Person=2|PronType=Prs	19	dislocated	_	Gloss=you|LId[Strongs]=859a|Ref=GEN_23.13|Ref[BHSA]=10959|Ref[MACULA]=o010230130101|Translit=ʼatah
-18	ל֖וּ	לו	SCONJ	conj	_	19	mark	_	Gloss=if only|LId[Strongs]=3863|Ref=GEN_23.13|Ref[BHSA]=10960|Ref[MACULA]=o010230130111|Translit=lu
+18	ל֖וּ	לו	INTJ	conj	_	19	discourse	_	Gloss=if only|LId[Strongs]=3863|Ref=GEN_23.13|Ref[BHSA]=10960|Ref[MACULA]=o010230130111|Translit=lu
 19-20	שְׁמָעֵ֑נִי	_	_	_	_	_	_	_	Translit=shemaʻeni
 19	שְׁמָעֵ֑	שׁמע	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	21	advcl	_	Gloss=hear|LId[Strongs]=8085|Ref=GEN_23.13|Ref[BHSA]=10961|Ref[MACULA]=o010230130121|Translit=shemaʻe
 20	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	19	obj	_	Ref=GEN_23.13|Ref[MACULA]=o010230130122|Translit=ni
@@ -5629,9 +5629,9 @@
 9	יֹּ֕אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	2	conj	_	Gloss=say|LId[SDBH]=000512001001000|LId[Strongs]=559|Ref=GEN_24.17|Ref[BHSA]=11470|Ref[MACULA]=o010240170042|Translit=yoʼmer
 10-11	הַגְמִיאִ֥ינִי	_	_	_	_	_	_	_	Translit=hagmiʼini
 10	הַגְמִיאִ֥י	גמא	VERB	verb	Gender=Fem|HebBinyan=HIFIL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	9	ccomp	_	Gloss=swallow|LId[SDBH]=001440001002000|LId[Strongs]=1572|Ref=GEN_24.17|Ref[BHSA]=11471|Ref[MACULA]=o010240170051|Translit=hagmiʼi
-11	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	10	obj	_	LId[SDBH]=001440001002000|Ref=GEN_24.17|Ref[MACULA]=o010240170052|Translit=ni
+11	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	10	iobj	_	LId[SDBH]=001440001002000|Ref=GEN_24.17|Ref[MACULA]=o010240170052|Translit=ni
 12	נָ֛א	נא	INTJ	intj	_	10	discourse	_	Gloss=yeah|LId[Strongs]=4994|Ref=GEN_24.17|Ref[BHSA]=11472|Ref[MACULA]=o010240170061|Translit=naʼ
-13	מְעַט	מעט	NOUN	subs	Gender=Masc|Number=Sing	10	xcomp	_	Gloss=little|LId[SDBH]=004204001001000|LId[Strongs]=4592|Ref=GEN_24.17|Ref[BHSA]=11473|Ref[MACULA]=o010240170071|SpaceAfter=No|Translit=meʻaṭ
+13	מְעַט	מעט	NOUN	subs	Gender=Masc|Number=Sing	10	obj	_	Gloss=little|LId[SDBH]=004204001001000|LId[Strongs]=4592|Ref=GEN_24.17|Ref[BHSA]=11473|Ref[MACULA]=o010240170071|SpaceAfter=No|Translit=meʻaṭ
 14	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_24.17|SpaceAfter=No
 15	מַ֖יִם	מים	NOUN	subs	Gender=Masc|Number=Plur	13	compound:smixut	_	Gloss=water|LId[SDBH]=003953001001000|LId[Strongs]=4325|Ref=GEN_24.17|Ref[BHSA]=11474|Ref[MACULA]=o010240170081|Translit=mayim
 16-18	מִכַּדֵּֽךְ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=mikadekh
@@ -6548,10 +6548,10 @@
 20	הָ	היא	PRON	prn	Gender=Fem|Number=Sing|Person=3|PronType=Prs	18	obl	_	Ref=GEN_24.43|Ref[MACULA]=o010240430122|Translit=ha
 21-22	הַשְׁקִֽינִי	_	_	_	_	_	_	_	SpaceAfter=No|Translit=hashḳini
 21	הַשְׁקִֽי	שׁקה	VERB	verb	Gender=Fem|HebBinyan=HIFIL|Mood=Imp|Number=Sing|Person=2|VerbForm=Fin	18	ccomp	_	Gloss=give drink|LId[SDBH]=007606001003000|LId[Strongs]=8248|Ref=GEN_24.43|Ref[BHSA]=11953|Ref[MACULA]=o010240430131|Translit=hashḳi
-22	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	21	obj	_	LId[SDBH]=007606001003000|Ref=GEN_24.43|Ref[MACULA]=o010240430132|Translit=ni
+22	נִי	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	21	iobj	_	LId[SDBH]=007606001003000|Ref=GEN_24.43|Ref[MACULA]=o010240430132|Translit=ni
 23	־	־	PUNCT	punct	_	24	punct	_	Ref=GEN_24.43|SpaceAfter=No
 24	נָ֥א	נא	INTJ	intj	_	21	discourse	_	Gloss=yeah|LId[Strongs]=4994|Ref=GEN_24.43|Ref[BHSA]=11954|Ref[MACULA]=o010240430141|Translit=naʼ
-25	מְעַט	מעט	NOUN	subs	Gender=Masc|Number=Sing	21	xcomp	_	Gloss=little|LId[SDBH]=004204001001000|LId[Strongs]=4592|Ref=GEN_24.43|Ref[BHSA]=11955|Ref[MACULA]=o010240430151|SpaceAfter=No|Translit=meʻaṭ
+25	מְעַט	מעט	NOUN	subs	Gender=Masc|Number=Sing	21	obj	_	Gloss=little|LId[SDBH]=004204001001000|LId[Strongs]=4592|Ref=GEN_24.43|Ref[BHSA]=11955|Ref[MACULA]=o010240430151|SpaceAfter=No|Translit=meʻaṭ
 26	־	־	PUNCT	punct	_	27	punct	_	Ref=GEN_24.43|SpaceAfter=No
 27	מַ֖יִם	מים	NOUN	subs	Gender=Masc|Number=Plur	25	compound:smixut	_	Gloss=water|LId[SDBH]=003953001001000|LId[Strongs]=4325|Ref=GEN_24.43|Ref[BHSA]=11956|Ref[MACULA]=o010240430161|Translit=mayim
 28-30	מִכַּדֵּֽךְ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=mikadekh
@@ -10033,7 +10033,7 @@
 12	מְתַעְתֵּ֑עַ	תעע	NOUN	verb	Gender=Masc|HebBinyan=PIEL|Number=Sing|VerbForm=Part	2	conj	_	Gloss=mock|LId[Strongs]=8591|Ref=GEN_27.12|Ref[BHSA]=13829|Ref[MACULA]=o010270120062|Translit=metaʻteʻa
 13-14	וְהֵבֵאתִ֥י	_	_	_	_	_	_	_	Translit=ṿeheveʼti
 13	וְ	ו	CCONJ	conj	_	14	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_27.12|Ref[BHSA]=13830|Ref[MACULA]=o010270120071|Translit=ṿe
-14	הֵבֵאתִ֥י	בוא	VERB	verb	Aspect=Perf|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	12	conj	_	Gloss=come|LId[Strongs]=935|Ref=GEN_27.12|Ref[BHSA]=13831|Ref[MACULA]=o010270120072|Translit=heveʼti
+14	הֵבֵאתִ֥י	בוא	VERB	verb	Aspect=Perf|HebBinyan=HIFIL|Mood=Ind|Number=Sing|Person=1|VerbForm=Fin	2	conj	_	Gloss=come|LId[Strongs]=935|Ref=GEN_27.12|Ref[BHSA]=13831|Ref[MACULA]=o010270120072|Translit=heveʼti
 15-16	עָלַ֛י	_	_	_	_	_	_	_	Translit=ʻalai
 15	עָלַ֛	על	ADP	prep	_	16	case	_	Gloss=upon|LId[Strongs]=5921a|Ref=GEN_27.12|Ref[BHSA]=13832|Ref[MACULA]=o010270120081|Translit=ʻala
 16	י	אני	PRON	prn	Number=Sing|Person=1|PronType=Prs	14	obl	_	Ref=GEN_27.12|Ref[MACULA]=o010270120082|Translit=
@@ -10041,7 +10041,7 @@
 18-19	וְלֹ֥א	_	_	_	_	_	_	_	Translit=ṿeloʼ
 18	וְ	ו	CCONJ	conj	_	20	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_27.12|Ref[BHSA]=13834|Ref[MACULA]=o010270120101|Translit=ṿe
 19	לֹ֥א	לא	ADV	nega	Polarity=Neg	20	advmod	_	Gloss=not|LId[Strongs]=3808|Ref=GEN_27.12|Ref[BHSA]=13835|Ref[MACULA]=o010270120102|Translit=loʼ
-20	בְרָכָֽה	ברכה	NOUN	subs	Gender=Fem|Number=Sing	12	conj	_	Gloss=blessing|LId[SDBH]=001192001001000|LId[Strongs]=1293|Ref=GEN_27.12|Ref[BHSA]=13836|Ref[MACULA]=o010270120111|SpaceAfter=No|Translit=berakhah
+20	בְרָכָֽה	ברכה	NOUN	subs	Gender=Fem|Number=Sing	2	conj	_	Gloss=blessing|LId[SDBH]=001192001001000|LId[Strongs]=1293|Ref=GEN_27.12|Ref[BHSA]=13836|Ref[MACULA]=o010270120111|SpaceAfter=No|Translit=berakhah
 21	׃	׃	PUNCT	punct	_	2	punct	_	Ref=GEN_27.12
 
 # sent_id = Masoretic-Genesis-27:13-hbo
@@ -14449,7 +14449,7 @@
 2	יֹּ֥אמֶר	אמר	VERB	verb	Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	0	root	_	Gloss=say|LId[SDBH]=000512001001000|LId[Strongs]=559|Ref=GEN_30.34|Ref[BHSA]=16155|Ref[MACULA]=o010300340012|Translit=yoʼmer
 3	לָבָ֖ן	לבן	PROPN	nmpr	Gender=Masc|Number=Sing	2	nsubj	_	Gloss=Laban|LId[SDBH]=003509002001000|LId[Strongs]=3837a|Ref=GEN_30.34|Ref[BHSA]=16156|Ref[MACULA]=o010300340021|Translit=lavan
 4	הֵ֑ן	הן	INTJ	intj	_	8	discourse	_	Gloss=behold|LId[Strongs]=2005|Ref=GEN_30.34|Ref[BHSA]=16157|Ref[MACULA]=o010300340031|Translit=hen
-5	ל֖וּ	לו	SCONJ	conj	_	8	mark	_	Gloss=if only|LId[Strongs]=3863|Ref=GEN_30.34|Ref[BHSA]=16158|Ref[MACULA]=o010300340041|Translit=lu
+5	ל֖וּ	לו	INTJ	conj	_	8	discourse	_	Gloss=if only|LId[Strongs]=3863|Ref=GEN_30.34|Ref[BHSA]=16158|Ref[MACULA]=o010300340041|Translit=lu
 6	יְהִ֥י	היה	AUX	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	8	cop	_	Gloss=be|LId[Strongs]=1961|Ref=GEN_30.34|Ref[BHSA]=16159|Ref[MACULA]=o010300340051|Translit=yehi
 7-9	כִדְבָרֶֽךָ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=kidbarekha
 7	כִ	כ	ADP	prep	_	8	case	_	Gloss=as|LId[Strongs]=k|Ref=GEN_30.34|Ref[BHSA]=16160|Ref[MACULA]=o010300340061|Translit=ki

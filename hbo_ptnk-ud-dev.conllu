@@ -8356,7 +8356,7 @@
 24	וְֽ	ו	CCONJ	conj	_	27	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.12|Ref[BHSA]=4691|Ref[MACULA]=o010100120011|Translit=ṿe
 25	אֶת	את	ADP	prep	_	27	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.12|Ref[BHSA]=4692|Ref[MACULA]=o010100120012|Translit=ʼet
 26	־	־	PUNCT	punct	_	25	punct	_	Ref=GEN_10.12|SpaceAfter=No
-27	רֶ֔סֶן	רסן	PROPN	nmpr	Number=Sing	7	conj	_	Gloss=Resen|LId[SDBH]=006844002001000|LId[Strongs]=7449|Ref=GEN_10.12|Ref[BHSA]=4693|Ref[MACULA]=o010100120021|Translit=resen
+27	רֶ֔סֶן	רסן	PROPN	nmpr	Number=Sing	13	conj	_	Gloss=Resen|LId[SDBH]=006844002001000|LId[Strongs]=7449|Ref=GEN_10.12|Ref[BHSA]=4693|Ref[MACULA]=o010100120021|Translit=resen
 28	בֵּ֥ין	בין	ADP	subs	_	29	case	_	Gloss=interval|LId[Strongs]=996|Ref=GEN_10.12|Ref[BHSA]=4694|Ref[MACULA]=o010100120031|Translit=ben
 29	נִֽינְוֵ֖ה	נינוה	PROPN	nmpr	Number=Sing	27	nmod	_	Gloss=Nineveh|LId[SDBH]=004781001001000|LId[Strongs]=5210|Ref=GEN_10.12|Ref[BHSA]=4695|Ref[MACULA]=o010100120041|Translit=ninṿeh
 30-31	וּבֵ֣ין	_	_	_	_	_	_	_	Translit=uven
@@ -8402,12 +8402,12 @@
 20	וְֽ	ו	CCONJ	conj	_	23	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.14|Ref[BHSA]=4718|Ref[MACULA]=o010100140011|Translit=ṿe
 21	אֶת	את	ADP	prep	_	23	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.14|Ref[BHSA]=4719|Ref[MACULA]=o010100140012|Translit=ʼet
 22	־	־	PUNCT	punct	_	21	punct	_	Ref=GEN_10.14|SpaceAfter=No
-23	פַּתְרֻסִ֞ים	פתרסים	PROPN	nmpr	Gender=Masc|Number=Plur	3	conj	_	Gloss=Pathrusites|LId[SDBH]=006089001001000|LId[Strongs]=6625|Ref=GEN_10.14|Ref[BHSA]=4720|Ref[MACULA]=o010100140021|Translit=patrusim
+23	פַּתְרֻסִ֞ים	פתרסים	PROPN	nmpr	Gender=Masc|Number=Plur	6	conj	_	Gloss=Pathrusites|LId[SDBH]=006089001001000|LId[Strongs]=6625|Ref=GEN_10.14|Ref[BHSA]=4720|Ref[MACULA]=o010100140021|Translit=patrusim
 24-25	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 24	וְ	ו	CCONJ	conj	_	27	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.14|Ref[BHSA]=4721|Ref[MACULA]=o010100140031|Translit=ṿe
 25	אֶת	את	ADP	prep	_	27	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.14|Ref[BHSA]=4722|Ref[MACULA]=o010100140032|Translit=ʼet
 26	־	־	PUNCT	punct	_	25	punct	_	Ref=GEN_10.14|SpaceAfter=No
-27	כַּסְלֻחִ֗ים	כסלחים	PROPN	nmpr	Gender=Masc|Number=Plur	23	conj	_	Gloss=Casluhites|LId[SDBH]=003378001001000|LId[Strongs]=3695|Ref=GEN_10.14|Ref[BHSA]=4723|Ref[MACULA]=o010100140041|Translit=kasluḥim
+27	כַּסְלֻחִ֗ים	כסלחים	PROPN	nmpr	Gender=Masc|Number=Plur	6	conj	_	Gloss=Casluhites|LId[SDBH]=003378001001000|LId[Strongs]=3695|Ref=GEN_10.14|Ref[BHSA]=4723|Ref[MACULA]=o010100140041|Translit=kasluḥim
 28	אֲשֶׁ֨ר	אשׁר	SCONJ	conj	_	29	mark	_	Gloss=<relative>|LId[Strongs]=834a|Ref=GEN_10.14|Ref[BHSA]=4724|Ref[MACULA]=o010100140051|Translit=ʼasher
 29	יָצְא֥וּ	יצא	VERB	verb	Aspect=Perf|HebBinyan=PAAL|Mood=Ind|Number=Plur|Person=3|VerbForm=Fin	27	acl:relcl	_	Gloss=go out|LId[SDBH]=003035001001000|LId[Strongs]=3318|Ref=GEN_10.14|Ref[BHSA]=4725|Ref[MACULA]=o010100140061|Translit=yatsʼu
 30-31	מִשָּׁ֛ם	_	_	_	_	_	_	_	Translit=misham
@@ -8418,7 +8418,7 @@
 33	וְ	ו	CCONJ	conj	_	36	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.14|Ref[BHSA]=4729|Ref[MACULA]=o010100140091|Translit=ṿe
 34	אֶת	את	ADP	prep	_	36	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.14|Ref[BHSA]=4730|Ref[MACULA]=o010100140092|Translit=ʼet
 35	־	־	PUNCT	punct	_	34	punct	_	Ref=GEN_10.14|SpaceAfter=No
-36	כַּפְתֹּרִֽים	כפתרי	NOUN	adjv	Gender=Masc|Number=Plur	23	conj	_	Gloss=Caphtorite|LId[SDBH]=003416001001000|LId[Strongs]=3732|Ref=GEN_10.14|Ref[BHSA]=4731|Ref[MACULA]=o010100140101|SpaceAfter=No|Translit=kaftorim
+36	כַּפְתֹּרִֽים	כפתרי	NOUN	adjv	Gender=Masc|Number=Plur	6	conj	_	Gloss=Caphtorite|LId[SDBH]=003416001001000|LId[Strongs]=3732|Ref=GEN_10.14|Ref[BHSA]=4731|Ref[MACULA]=o010100140101|SpaceAfter=No|Translit=kaftorim
 37	׃	׃	PUNCT	punct	_	3	punct	_	Ref=GEN_10.14
 38	ס	ס	PUNCT	punct	_	3	punct	_	Ref=GEN_10.14
 
@@ -8447,20 +8447,20 @@
 16	־	־	PUNCT	punct	_	15	punct	_	Ref=GEN_10.16|SpaceAfter=No
 17-18	הַיְבוּסִי֙	_	_	_	_	_	_	_	Translit=haybusi
 17	הַ	ה	DET	art	PronType=Art	18	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.16|Ref[BHSA]=4743|Ref[MACULA]=o010100160021|Translit=ha
-18	יְבוּסִי֙	יבוסי	NOUN	adjv	Gender=Masc|Number=Sing	3	conj	_	Gloss=Jebusite|LId[SDBH]=002746001001000|LId[Strongs]=2983|Ref=GEN_10.16|Ref[BHSA]=4744|Ref[MACULA]=o010100160022|Translit=yevusi
+18	יְבוּסִי֙	יבוסי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Jebusite|LId[SDBH]=002746001001000|LId[Strongs]=2983|Ref=GEN_10.16|Ref[BHSA]=4744|Ref[MACULA]=o010100160022|Translit=yevusi
 19-20	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 19	וְ	ו	CCONJ	conj	_	23	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.16|Ref[BHSA]=4745|Ref[MACULA]=o010100160031|Translit=ṿe
 20	אֶת	את	ADP	prep	_	23	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.16|Ref[BHSA]=4746|Ref[MACULA]=o010100160032|Translit=ʼet
 21	־	־	PUNCT	punct	_	20	punct	_	Ref=GEN_10.16|SpaceAfter=No
 22-23	הָ֣אֱמֹרִ֔י	_	_	_	_	_	_	_	Translit=haʼemori
 22	הָ֣	ה	DET	art	PronType=Art	23	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.16|Ref[BHSA]=4747|Ref[MACULA]=o010100160041|Translit=ha
-23	אֱמֹרִ֔י	אמרי	NOUN	adjv	Gender=Masc|Number=Sing	18	conj	_	Gloss=Amorite|LId[SDBH]=000518001001000|LId[Strongs]=567|Ref=GEN_10.16|Ref[BHSA]=4748|Ref[MACULA]=o010100160042|Translit=ʼemori
+23	אֱמֹרִ֔י	אמרי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Amorite|LId[SDBH]=000518001001000|LId[Strongs]=567|Ref=GEN_10.16|Ref[BHSA]=4748|Ref[MACULA]=o010100160042|Translit=ʼemori
 24-25	וְאֵ֖ת	_	_	_	_	_	_	_	Translit=ṿeʼet
 24	וְ	ו	CCONJ	conj	_	27	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.16|Ref[BHSA]=4749|Ref[MACULA]=o010100160051|Translit=ṿe
 25	אֵ֖ת	את	ADP	prep	_	27	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.16|Ref[BHSA]=4750|Ref[MACULA]=o010100160052|Translit=ʼet
 26-27	הַגִּרְגָּשִֽׁי	_	_	_	_	_	_	_	SpaceAfter=No|Translit=hagirgashi
 26	הַ	ה	DET	art	PronType=Art	27	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.16|Ref[BHSA]=4751|Ref[MACULA]=o010100160061|Translit=ha
-27	גִּרְגָּשִֽׁי	גרגשׁי	NOUN	adjv	Gender=Masc|Number=Sing	18	conj	_	Gloss=Girgashite|LId[SDBH]=001487001001000|LId[Strongs]=1622|Ref=GEN_10.16|Ref[BHSA]=4752|Ref[MACULA]=o010100160062|Translit=girgashi
+27	גִּרְגָּשִֽׁי	גרגשׁי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Girgashite|LId[SDBH]=001487001001000|LId[Strongs]=1622|Ref=GEN_10.16|Ref[BHSA]=4752|Ref[MACULA]=o010100160062|Translit=girgashi
 28	׃	׃	PUNCT	punct	_	29	punct	_	Ref=GEN_10.16
 29-30	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 29	וְ	ו	CCONJ	conj	_	33	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.17|Ref[BHSA]=4753|Ref[MACULA]=o010100170011|Translit=ṿe
@@ -8468,21 +8468,21 @@
 31	־	־	PUNCT	punct	_	30	punct	_	Ref=GEN_10.17|SpaceAfter=No
 32-33	הַֽחִוִּ֥י	_	_	_	_	_	_	_	Translit=haḥiu
 32	הַֽ	ה	DET	art	PronType=Art	33	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.17|Ref[BHSA]=4755|Ref[MACULA]=o010100170021|Translit=ha
-33	חִוִּ֥י	חוי	NOUN	adjv	Gender=Masc|Number=Sing	3	conj	_	Gloss=Hivite|LId[SDBH]=002159001001000|LId[Strongs]=2340|Ref=GEN_10.17|Ref[BHSA]=4756|Ref[MACULA]=o010100170022|Translit=ḥiu
+33	חִוִּ֥י	חוי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Hivite|LId[SDBH]=002159001001000|LId[Strongs]=2340|Ref=GEN_10.17|Ref[BHSA]=4756|Ref[MACULA]=o010100170022|Translit=ḥiu
 34-35	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 34	וְ	ו	CCONJ	conj	_	38	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.17|Ref[BHSA]=4757|Ref[MACULA]=o010100170031|Translit=ṿe
 35	אֶת	את	ADP	prep	_	38	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.17|Ref[BHSA]=4758|Ref[MACULA]=o010100170032|Translit=ʼet
 36	־	־	PUNCT	punct	_	35	punct	_	Ref=GEN_10.17|SpaceAfter=No
 37-38	הַֽעַרְקִ֖י	_	_	_	_	_	_	_	Translit=haʻarḳi
 37	הַֽ	ה	DET	art	PronType=Art	38	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.17|Ref[BHSA]=4759|Ref[MACULA]=o010100170041|Translit=ha
-38	עַרְקִ֖י	ערקי	NOUN	adjv	Gender=Masc|Number=Sing	33	conj	_	Gloss=Arkite|LId[SDBH]=005692001001000|LId[Strongs]=6208|Ref=GEN_10.17|Ref[BHSA]=4760|Ref[MACULA]=o010100170042|Translit=ʻarḳi
+38	עַרְקִ֖י	ערקי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Arkite|LId[SDBH]=005692001001000|LId[Strongs]=6208|Ref=GEN_10.17|Ref[BHSA]=4760|Ref[MACULA]=o010100170042|Translit=ʻarḳi
 39-40	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 39	וְ	ו	CCONJ	conj	_	43	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.17|Ref[BHSA]=4761|Ref[MACULA]=o010100170051|Translit=ṿe
 40	אֶת	את	ADP	prep	_	43	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.17|Ref[BHSA]=4762|Ref[MACULA]=o010100170052|Translit=ʼet
 41	־	־	PUNCT	punct	_	40	punct	_	Ref=GEN_10.17|SpaceAfter=No
 42-43	הַסִּינִֽי	_	_	_	_	_	_	_	SpaceAfter=No|Translit=hasini
 42	הַ	ה	DET	art	PronType=Art	43	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.17|Ref[BHSA]=4763|Ref[MACULA]=o010100170061|Translit=ha
-43	סִּינִֽי	סיני	NOUN	adjv	Gender=Masc|Number=Sing	33	conj	_	Gloss=Sinite|LId[SDBH]=005051001001000|LId[Strongs]=5513|Ref=GEN_10.17|Ref[BHSA]=4764|Ref[MACULA]=o010100170062|Translit=sini
+43	סִּינִֽי	סיני	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Sinite|LId[SDBH]=005051001001000|LId[Strongs]=5513|Ref=GEN_10.17|Ref[BHSA]=4764|Ref[MACULA]=o010100170062|Translit=sini
 44	׃	׃	PUNCT	punct	_	45	punct	_	Ref=GEN_10.17
 45-46	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 45	וְ	ו	CCONJ	conj	_	49	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.18|Ref[BHSA]=4765|Ref[MACULA]=o010100180011|Translit=ṿe
@@ -8490,21 +8490,21 @@
 47	־	־	PUNCT	punct	_	46	punct	_	Ref=GEN_10.18|SpaceAfter=No
 48-49	הָֽאַרְוָדִ֥י	_	_	_	_	_	_	_	Translit=haʼarṿadi
 48	הָֽ	ה	DET	art	PronType=Art	49	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.18|Ref[BHSA]=4767|Ref[MACULA]=o010100180021|Translit=ha
-49	אַרְוָדִ֥י	ארודי	NOUN	adjv	Gender=Masc|Number=Sing	3	conj	_	Gloss=Arvadite|LId[SDBH]=000664001001000|LId[Strongs]=721|Ref=GEN_10.18|Ref[BHSA]=4768|Ref[MACULA]=o010100180022|Translit=ʼarṿadi
+49	אַרְוָדִ֥י	ארודי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Arvadite|LId[SDBH]=000664001001000|LId[Strongs]=721|Ref=GEN_10.18|Ref[BHSA]=4768|Ref[MACULA]=o010100180022|Translit=ʼarṿadi
 50-51	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 50	וְ	ו	CCONJ	conj	_	54	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.18|Ref[BHSA]=4769|Ref[MACULA]=o010100180031|Translit=ṿe
 51	אֶת	את	ADP	prep	_	54	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.18|Ref[BHSA]=4770|Ref[MACULA]=o010100180032|Translit=ʼet
 52	־	־	PUNCT	punct	_	51	punct	_	Ref=GEN_10.18|SpaceAfter=No
 53-54	הַצְּמָרִ֖י	_	_	_	_	_	_	_	Translit=hatsmari
 53	הַ	ה	DET	art	PronType=Art	54	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.18|Ref[BHSA]=4771|Ref[MACULA]=o010100180041|Translit=ha
-54	צְּמָרִ֖י	צמרי	NOUN	adjv	Gender=Masc|Number=Sing	49	conj	_	Gloss=Zemarite|LId[SDBH]=006242001001000|LId[Strongs]=6786|Ref=GEN_10.18|Ref[BHSA]=4772|Ref[MACULA]=o010100180042|Translit=tsemari
+54	צְּמָרִ֖י	צמרי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Zemarite|LId[SDBH]=006242001001000|LId[Strongs]=6786|Ref=GEN_10.18|Ref[BHSA]=4772|Ref[MACULA]=o010100180042|Translit=tsemari
 55-56	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 55	וְ	ו	CCONJ	conj	_	59	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.18|Ref[BHSA]=4773|Ref[MACULA]=o010100180051|Translit=ṿe
 56	אֶת	את	ADP	prep	_	59	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.18|Ref[BHSA]=4774|Ref[MACULA]=o010100180052|Translit=ʼet
 57	־	־	PUNCT	punct	_	56	punct	_	Ref=GEN_10.18|SpaceAfter=No
 58-59	הַֽחֲמָתִ֑י	_	_	_	_	_	_	_	Translit=haḥamati
 58	הַֽ	ה	DET	art	PronType=Art	59	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_10.18|Ref[BHSA]=4775|Ref[MACULA]=o010100180061|Translit=ha
-59	חֲמָתִ֑י	חמתי	NOUN	adjv	Gender=Masc|Number=Sing	49	conj	_	Gloss=Hamathite|LId[SDBH]=002376001001000|LId[Strongs]=2577|Ref=GEN_10.18|Ref[BHSA]=4776|Ref[MACULA]=o010100180062|Translit=ḥamati
+59	חֲמָתִ֑י	חמתי	NOUN	adjv	Gender=Masc|Number=Sing	6	conj	_	Gloss=Hamathite|LId[SDBH]=002376001001000|LId[Strongs]=2577|Ref=GEN_10.18|Ref[BHSA]=4776|Ref[MACULA]=o010100180062|Translit=ḥamati
 60-61	וְאַחַ֣ר	_	_	_	_	_	_	_	Translit=ṿeʼaḥar
 60	וְ	ו	CCONJ	conj	_	62	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.18|Ref[BHSA]=4777|Ref[MACULA]=o010100180071|Translit=ṿe
 61	אַחַ֣ר	אחר	ADV	subs	_	62	advmod	_	Gloss=after|LId[SDBH]=000295003002000|LId[Strongs]=310a|Ref=GEN_10.18|Ref[BHSA]=4778|Ref[MACULA]=o010100180072|Translit=ʼaḥar
@@ -8724,49 +8724,49 @@
 20	וְ	ו	CCONJ	conj	_	23	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.27|Ref[BHSA]=4894|Ref[MACULA]=o010100270011|Translit=ṿe
 21	אֶת	את	ADP	prep	_	23	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.27|Ref[BHSA]=4895|Ref[MACULA]=o010100270012|Translit=ʼet
 22	־	־	PUNCT	punct	_	21	punct	_	Ref=GEN_10.27|SpaceAfter=No
-23	הֲדֹורָ֥ם	הדורם	PROPN	nmpr	Gender=Masc|Number=Sing	3	conj	_	Gloss=Hadoram|LId[SDBH]=001763001001000|LId[Strongs]=1913a|Ref=GEN_10.27|Ref[BHSA]=4896|Ref[MACULA]=o010100270021|Translit=hadoram
+23	הֲדֹורָ֥ם	הדורם	PROPN	nmpr	Gender=Masc|Number=Sing	6	conj	_	Gloss=Hadoram|LId[SDBH]=001763001001000|LId[Strongs]=1913a|Ref=GEN_10.27|Ref[BHSA]=4896|Ref[MACULA]=o010100270021|Translit=hadoram
 24-25	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 24	וְ	ו	CCONJ	conj	_	27	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.27|Ref[BHSA]=4897|Ref[MACULA]=o010100270031|Translit=ṿe
 25	אֶת	את	ADP	prep	_	27	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.27|Ref[BHSA]=4898|Ref[MACULA]=o010100270032|Translit=ʼet
 26	־	־	PUNCT	punct	_	25	punct	_	Ref=GEN_10.27|SpaceAfter=No
-27	אוּזָ֖ל	אוזל	PROPN	nmpr	Gender=Masc|Number=Sing	23	conj	_	Gloss=Uzal|LId[SDBH]=000182001001000|LId[Strongs]=187|Ref=GEN_10.27|Ref[BHSA]=4899|Ref[MACULA]=o010100270041|Translit=ʼuzal
+27	אוּזָ֖ל	אוזל	PROPN	nmpr	Gender=Masc|Number=Sing	6	conj	_	Gloss=Uzal|LId[SDBH]=000182001001000|LId[Strongs]=187|Ref=GEN_10.27|Ref[BHSA]=4899|Ref[MACULA]=o010100270041|Translit=ʼuzal
 28-29	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 28	וְ	ו	CCONJ	conj	_	31	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.27|Ref[BHSA]=4900|Ref[MACULA]=o010100270051|Translit=ṿe
 29	אֶת	את	ADP	prep	_	31	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.27|Ref[BHSA]=4901|Ref[MACULA]=o010100270052|Translit=ʼet
 30	־	־	PUNCT	punct	_	29	punct	_	Ref=GEN_10.27|SpaceAfter=No
-31	דִּקְלָֽה	דקלה	PROPN	nmpr	Gender=Masc|Number=Sing	23	conj	_	Gloss=Diklah|LId[SDBH]=001706001001000|LId[Strongs]=1853|Ref=GEN_10.27|Ref[BHSA]=4902|Ref[MACULA]=o010100270061|SpaceAfter=No|Translit=diḳlah
+31	דִּקְלָֽה	דקלה	PROPN	nmpr	Gender=Masc|Number=Sing	6	conj	_	Gloss=Diklah|LId[SDBH]=001706001001000|LId[Strongs]=1853|Ref=GEN_10.27|Ref[BHSA]=4902|Ref[MACULA]=o010100270061|SpaceAfter=No|Translit=diḳlah
 32	׃	׃	PUNCT	punct	_	33	punct	_	Ref=GEN_10.27
 33-34	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 33	וְ	ו	CCONJ	conj	_	36	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.28|Ref[BHSA]=4903|Ref[MACULA]=o010100280011|Translit=ṿe
 34	אֶת	את	ADP	prep	_	36	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.28|Ref[BHSA]=4904|Ref[MACULA]=o010100280012|Translit=ʼet
 35	־	־	PUNCT	punct	_	34	punct	_	Ref=GEN_10.28|SpaceAfter=No
-36	עֹובָ֥ל	עובל	PROPN	nmpr	Gender=Masc|Number=Sing	3	conj	_	Gloss=Obal|LId[SDBH]=005276001001000|LId[Strongs]=5745|Ref=GEN_10.28|Ref[BHSA]=4905|Ref[MACULA]=o010100280021|Translit=ʻoval
+36	עֹובָ֥ל	עובל	PROPN	nmpr	Gender=Masc|Number=Sing	6	conj	_	Gloss=Obal|LId[SDBH]=005276001001000|LId[Strongs]=5745|Ref=GEN_10.28|Ref[BHSA]=4905|Ref[MACULA]=o010100280021|Translit=ʻoval
 37-38	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 37	וְ	ו	CCONJ	conj	_	40	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.28|Ref[BHSA]=4906|Ref[MACULA]=o010100280031|Translit=ṿe
 38	אֶת	את	ADP	prep	_	40	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.28|Ref[BHSA]=4907|Ref[MACULA]=o010100280032|Translit=ʼet
 39	־	־	PUNCT	punct	_	38	punct	_	Ref=GEN_10.28|SpaceAfter=No
-40	אֲבִֽימָאֵ֖ל	אבימאל	PROPN	nmpr	Gender=Masc|Number=Sing	36	conj	_	Gloss=Abimael|LId[SDBH]=000038001001000|LId[Strongs]=39|Ref=GEN_10.28|Ref[BHSA]=4908|Ref[MACULA]=o010100280041|Translit=ʼavimaʼel
+40	אֲבִֽימָאֵ֖ל	אבימאל	PROPN	nmpr	Gender=Masc|Number=Sing	6	conj	_	Gloss=Abimael|LId[SDBH]=000038001001000|LId[Strongs]=39|Ref=GEN_10.28|Ref[BHSA]=4908|Ref[MACULA]=o010100280041|Translit=ʼavimaʼel
 41-42	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 41	וְ	ו	CCONJ	conj	_	44	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.28|Ref[BHSA]=4909|Ref[MACULA]=o010100280051|Translit=ṿe
 42	אֶת	את	ADP	prep	_	44	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.28|Ref[BHSA]=4910|Ref[MACULA]=o010100280052|Translit=ʼet
 43	־	־	PUNCT	punct	_	42	punct	_	Ref=GEN_10.28|SpaceAfter=No
-44	שְׁבָֽא	שׁבא	PROPN	nmpr	Number=Sing	36	conj	_	Gloss=Sheba|LId[SDBH]=007147001001000|LId[Strongs]=7614|Ref=GEN_10.28|Ref[BHSA]=4911|Ref[MACULA]=o010100280061|SpaceAfter=No|Translit=shevaʼ
+44	שְׁבָֽא	שׁבא	PROPN	nmpr	Number=Sing	6	conj	_	Gloss=Sheba|LId[SDBH]=007147001001000|LId[Strongs]=7614|Ref=GEN_10.28|Ref[BHSA]=4911|Ref[MACULA]=o010100280061|SpaceAfter=No|Translit=shevaʼ
 45	׃	׃	PUNCT	punct	_	46	punct	_	Ref=GEN_10.28
 46-47	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 46	וְ	ו	CCONJ	conj	_	49	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.29|Ref[BHSA]=4912|Ref[MACULA]=o010100290011|Translit=ṿe
 47	אֶת	את	ADP	prep	_	49	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.29|Ref[BHSA]=4913|Ref[MACULA]=o010100290012|Translit=ʼet
 48	־	־	PUNCT	punct	_	47	punct	_	Ref=GEN_10.29|SpaceAfter=No
-49	אֹופִ֥ר	אופיר	PROPN	nmpr	Number=Sing	3	conj	_	Gloss=<land of gold>|LId[SDBH]=000201001001000|LId[Strongs]=211|Ref=GEN_10.29|Ref[BHSA]=4914|Ref[MACULA]=o010100290021|Translit=ʼofir
+49	אֹופִ֥ר	אופיר	PROPN	nmpr	Number=Sing	6	conj	_	Gloss=<land of gold>|LId[SDBH]=000201001001000|LId[Strongs]=211|Ref=GEN_10.29|Ref[BHSA]=4914|Ref[MACULA]=o010100290021|Translit=ʼofir
 50-51	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 50	וְ	ו	CCONJ	conj	_	53	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.29|Ref[BHSA]=4915|Ref[MACULA]=o010100290031|Translit=ṿe
 51	אֶת	את	ADP	prep	_	53	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.29|Ref[BHSA]=4916|Ref[MACULA]=o010100290032|Translit=ʼet
 52	־	־	PUNCT	punct	_	51	punct	_	Ref=GEN_10.29|SpaceAfter=No
-53	חֲוִילָ֖ה	חוילה	PROPN	nmpr	Number=Sing	49	conj	_	Gloss=Havilah|LId[SDBH]=002160001002000|LId[Strongs]=2341|Ref=GEN_10.29|Ref[BHSA]=4917|Ref[MACULA]=o010100290041|Translit=ḥaṿilah
+53	חֲוִילָ֖ה	חוילה	PROPN	nmpr	Number=Sing	6	conj	_	Gloss=Havilah|LId[SDBH]=002160001002000|LId[Strongs]=2341|Ref=GEN_10.29|Ref[BHSA]=4917|Ref[MACULA]=o010100290041|Translit=ḥaṿilah
 54-55	וְאֶת	_	_	_	_	_	_	_	SpaceAfter=No|Translit=ṿeʼet
 54	וְ	ו	CCONJ	conj	_	57	cc	_	Gloss=and|LId[Strongs]=c|Ref=GEN_10.29|Ref[BHSA]=4918|Ref[MACULA]=o010100290051|Translit=ṿe
 55	אֶת	את	ADP	prep	_	57	case	_	Gloss=<object marker>|LId[SDBH]=000792003001000|LId[Strongs]=853|Ref=GEN_10.29|Ref[BHSA]=4919|Ref[MACULA]=o010100290052|Translit=ʼet
 56	־	־	PUNCT	punct	_	55	punct	_	Ref=GEN_10.29|SpaceAfter=No
-57	יֹובָ֑ב	יובב	PROPN	nmpr	Number=Sing	49	conj	_	Gloss=Jobab|LId[SDBH]=002849001001000|LId[Strongs]=3103|Ref=GEN_10.29|Ref[BHSA]=4920|Ref[MACULA]=o010100290061|Translit=yovav
+57	יֹובָ֑ב	יובב	PROPN	nmpr	Number=Sing	6	conj	_	Gloss=Jobab|LId[SDBH]=002849001001000|LId[Strongs]=3103|Ref=GEN_10.29|Ref[BHSA]=4920|Ref[MACULA]=o010100290061|Translit=yovav
 58	כָּל	כל	NOUN	subs	Gender=Masc|Number=Sing	61	nsubj	_	Gloss=whole|LId[Strongs]=3605|Ref=GEN_10.29|Ref[BHSA]=4921|Ref[MACULA]=o010100290071|SpaceAfter=No|Translit=kal
 59	־	־	PUNCT	punct	_	60	punct	_	Ref=GEN_10.29|SpaceAfter=No
 60	אֵ֖לֶּה	אלה	PRON	prde	Number=Plur|PronType=Dem	58	compound:smixut	_	Gloss=these|LId[SDBH]=000394001001000|LId[Strongs]=428|Ref=GEN_10.29|Ref[BHSA]=4922|Ref[MACULA]=o010100290081|Translit=ʼeleh
@@ -13744,7 +13744,7 @@
 6-7	הָֽאֱלֹהִ֑ים	_	_	_	_	_	_	_	Translit=haʼelohim
 6	הָֽ	ה	DET	art	PronType=Art	7	det	_	Gloss=the|LId[Strongs]=d|Ref=GEN_17.18|Ref[BHSA]=7626|Ref[MACULA]=o010170180041|Translit=ha
 7	אֱלֹהִ֑ים	אלהים	NOUN	subs	Gender=Masc|Number=Plur	2	obl	_	Gloss=god(s)|LId[SDBH]=000397001003000|LId[Strongs]=430|Ref=GEN_17.18|Ref[BHSA]=7627|Ref[MACULA]=o010170180042|Translit=ʼelohim
-8	ל֥וּ	לו	SCONJ	conj	_	10	mark	_	Gloss=if only|LId[Strongs]=3863|Ref=GEN_17.18|Ref[BHSA]=7628|Ref[MACULA]=o010170180051|Translit=lu
+8	ל֥וּ	לו	INTJ	conj	_	10	discourse	_	Gloss=if only|LId[Strongs]=3863|Ref=GEN_17.18|Ref[BHSA]=7628|Ref[MACULA]=o010170180051|Translit=lu
 9	יִשְׁמָעֵ֖אל	ישׁמעאל	PROPN	nmpr	Gender=Masc|Number=Sing	10	nsubj	_	Gloss=Ishmael|LId[SDBH]=003167001001000|LId[Strongs]=3458|Ref=GEN_17.18|Ref[BHSA]=7629|Ref[MACULA]=o010170180061|Translit=yishmaʻeʼl
 10	יִחְיֶ֥ה	חיה	VERB	verb	Aspect=Imp|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=3|VerbForm=Fin	2	ccomp	_	Gloss=be alive|LId[SDBH]=002232001001000|LId[Strongs]=2421|Ref=GEN_17.18|Ref[BHSA]=7630|Ref[MACULA]=o010170180071|Translit=yiḥyeh
 11-13	לְפָנֶֽיךָ	_	_	_	_	_	_	_	SpaceAfter=No|Translit=lefanekha
