@@ -69,7 +69,7 @@ The following texts are included in this treebank:
 * 2025-11-15 v2.17
   * Add Numbers and Deuteronomy
   * Add relation `iobj`
-  * Add MISC `LexDomain[SDBH]`
+  * Add MISC `Cantillation`, `LexDomain[SDBH]`
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
