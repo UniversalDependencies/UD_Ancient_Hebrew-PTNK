@@ -22,6 +22,9 @@ The following texts are included in this treebank:
 | Exodus    | 1-40     | Train | 2.16  |
 | Leviticus | 1-27     | Train | 2.16  |
 | Numbers   | 1-36     | Train | 2.17  |
+| Deuteronomy | 1-6    | Dev   | 2.17  |
+| Deuteronomy | 7-12   | Test  | 2.17  |
+| Deuteronomy | 13-34  | Train | 2.17  |
 | Ruth      | 1-4      | Train | 2.10  |
 
 # Acknowledgments
@@ -64,7 +67,7 @@ The following texts are included in this treebank:
   * Add relation `acl:relcl`
   * Add MISC `LId[SDBH]`, `LId[Strongs]`, `Ref[BHSA]`, `Ref[MACULA]`, and `Translit`
 * 2025-11-15 v2.17
-  * Add Numbers
+  * Add Numbers and Deuteronomy
   * Add relation `iobj`
   * Add MISC `LexDomain[SDBH]`
 
