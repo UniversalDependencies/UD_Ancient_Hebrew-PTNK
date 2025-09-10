@@ -76,13 +76,13 @@ The following texts are included in this treebank:
 Data available since: UD v2.10
 License: CC BY-NC 4.0
 Includes text: yes
+Parallel: bible
 Genre: bible
 Lemmas: converted from manual
 UPOS: converted from manual
 XPOS: manual native
 Features: converted from manual
 Relations: manual native
-Parallel: Bible (Ref)
 Contributors: Swanson, Daniel
 Contributing: elsewhere
 Contact: awesomeevildudes@gmail.com
