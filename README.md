@@ -68,7 +68,9 @@ The following texts are included in this treebank:
   * Add MISC `LId[SDBH]`, `LId[Strongs]`, `Ref[BHSA]`, `Ref[MACULA]`, and `Translit`
 * 2025-11-15 v2.17
   * Add Numbers and Deuteronomy
+  * Add FEAT `Case`
   * Add relation `iobj`
+  * Add metadata `parallel_id`
   * Add MISC `Cantillation`, `LexDomain[SDBH]`
 
 <pre>
