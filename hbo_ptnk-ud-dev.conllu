@@ -15627,8 +15627,8 @@
 19	בָּֽ	ב	ADP	prep	_	21	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_1.1|Ref[BHSA]=92816|Ref[MACULA]=o050010010121|Translit=ba
 20	ה	ה	DET	art	PronType=Art	21	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_1.1|Ref[BHSA]=92817|Ref[MACULA]=o050010010121ה|Translit=
 21	עֲרָבָה֩	ערבה	NOUN	subs	Gender=Fem|Number=Sing	13	conj	_	Cantillation=TelishaQetana|Gloss=desert|LId[Strongs]=6160|Ref=DEUT_1.1|Ref[BHSA]=92818|Ref[MACULA]=o050010010122|Translit=ʻaravah
-22	מֹ֨ול	מול	NOUN	subs	Gender=Masc|Number=Sing	21	nmod	_	Cantillation=Qadma|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_1.1|Ref[BHSA]=92819|Ref[MACULA]=o050010010131|Translit=mol
-23	ס֜וּף	סוף	PROPN	nmpr	Number=Sing	22	compound:smixut	_	Cantillation=Geresh|Gloss=Suph|LexDomain[SDBH]=003001010|LId[SDBH]=005027002001000|LId[Strongs]=5489|Ref=DEUT_1.1|Ref[BHSA]=92820|Ref[MACULA]=o050010010141|Translit=suf
+22	מֹ֨ול	מול	ADP	subs	_	23	case	_	Cantillation=Qadma|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_1.1|Ref[BHSA]=92819|Ref[MACULA]=o050010010131|Translit=mol
+23	ס֜וּף	סוף	PROPN	nmpr	Number=Sing	13	conj	_	Cantillation=Geresh|Gloss=Suph|LexDomain[SDBH]=003001010|LId[SDBH]=005027002001000|LId[Strongs]=5489|Ref=DEUT_1.1|Ref[BHSA]=92820|Ref[MACULA]=o050010010141|Translit=suf
 24	בֵּֽין	בין	ADP	subs	_	26	case	_	Gloss=interval|LId[Strongs]=996|Ref=DEUT_1.1|Ref[BHSA]=92821|Ref[MACULA]=o050010010151|SpaceAfter=No|Translit=ben
 25	־	־	PUNCT	punct	_	24	punct	_	Ref=DEUT_1.1|SpaceAfter=No
 26	פָּארָ֧ן	פארן	PROPN	nmpr	Number=Sing	13	conj	_	Cantillation=Darga|Gloss=Paran|LexDomain[SDBH]=003001010|LId[SDBH]=005771001001000|LId[Strongs]=6290|Ref=DEUT_1.1|Ref[BHSA]=92822|Ref[MACULA]=o050010010161|Translit=paʼran
@@ -18002,8 +18002,8 @@
 1-2	וְקָרַבְתָּ֗	_	_	_	_	_	_	_	Translit=ṿeḳaravta
 1	וְ	ו	CCONJ	conj	_	2	cc	_	Gloss=and|LId[Strongs]=c|Ref=DEUT_2.19|Ref[BHSA]=94083|Ref[MACULA]=o050020190011|Translit=ṿe
 2	קָרַבְתָּ֗	קרב	VERB	verb	Aspect=Perf|Gender=Masc|HebBinyan=PAAL|Mood=Ind|Number=Sing|Person=2|VerbForm=Fin	0	root	_	Cantillation=Revia|Gloss=approach|LexDomain[SDBH]=002002001011|LId[SDBH]=006558001001000|LId[Strongs]=7126|Ref=DEUT_2.19|Ref[BHSA]=94084|Ref[MACULA]=o050020190012|Translit=ḳaravta
-3	מ֚וּל	מול	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	Cantillation=Yetiv|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_2.19|Ref[BHSA]=94085|Ref[MACULA]=o050020190021|Translit=mul
-4	בְּנֵ֣י	בן	NOUN	subs	Gender=Masc|Number=Plur	3	compound:smixut	_	Cantillation=Munah|Gloss=son|LexDomain[SDBH]=001001002003012|LId[SDBH]=001040001001000|LId[Strongs]=1121a|Ref=DEUT_2.19|Ref[BHSA]=94086|Ref[MACULA]=o050020190031|Translit=bene
+3	מ֚וּל	מול	ADP	subs	_	4	case	_	Cantillation=Yetiv|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_2.19|Ref[BHSA]=94085|Ref[MACULA]=o050020190021|Translit=mul
+4	בְּנֵ֣י	בן	NOUN	subs	Gender=Masc|Number=Plur	2	obl	_	Cantillation=Munah|Gloss=son|LexDomain[SDBH]=001001002003012|LId[SDBH]=001040001001000|LId[Strongs]=1121a|Ref=DEUT_2.19|Ref[BHSA]=94086|Ref[MACULA]=o050020190031|Translit=bene
 5	עַמֹּ֔ון	עמון	PROPN	nmpr	Number=Sing	4	compound:smixut	_	Cantillation=ZaqefQatan|Gloss=Ammon|LexDomain[SDBH]=003001006,003001010|LId[SDBH]=005490001001000|LId[Strongs]=5983|Ref=DEUT_2.19|Ref[BHSA]=94087|Ref[MACULA]=o050020190041|Translit=ʻamon
 6	אַל	אל	ADV	nega	Polarity=Neg	8	advmod	_	Gloss=not|LId[Strongs]=408|Ref=DEUT_2.19|Ref[BHSA]=94088|Ref[MACULA]=o050020190051|SpaceAfter=No|Translit=ʼal
 7	־	־	PUNCT	punct	_	6	punct	_	Ref=DEUT_2.19|SpaceAfter=No
@@ -19938,8 +19938,8 @@
 3	בַּ	ב	ADP	prep	_	5	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_3.29|Ref[BHSA]=95153|Ref[MACULA]=o050030290021|Translit=ba
 4	ה	ה	DET	art	PronType=Art	5	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_3.29|Ref[BHSA]=95154|Ref[MACULA]=o050030290021ה|Translit=
 5	גָּ֔יְא	גיא	NOUN	subs	Number=Sing	2	obl	_	Cantillation=ZaqefQatan|Gloss=valley|LexDomain[SDBH]=001005002002002|LId[SDBH]=001390001001000|LId[Strongs]=1516|Ref=DEUT_3.29|Ref[BHSA]=95155|Ref[MACULA]=o050030290022|Translit=gayʼ
-6	מ֖וּל	מול	NOUN	subs	Gender=Masc|Number=Sing	2	obl	_	Cantillation=Tipeha|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_3.29|Ref[BHSA]=95156|Ref[MACULA]=o050030290031|Translit=mul
-7	בֵּ֥ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	6	compound:smixut	_	Cantillation=Merkha|Gloss=Beth Peor|LexDomain[SDBH]=003001010|LId[SDBH]=000972001001000|LId[Strongs]=1047+|Ref=DEUT_3.29|Ref[BHSA]=95157|Ref[MACULA]=o050030290041|Translit=bet
+6	מ֖וּל	מול	ADP	subs	_	7	case	_	Cantillation=Tipeha|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_3.29|Ref[BHSA]=95156|Ref[MACULA]=o050030290031|Translit=mul
+7	בֵּ֥ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	2	obl	_	Cantillation=Merkha|Gloss=Beth Peor|LexDomain[SDBH]=003001010|LId[SDBH]=000972001001000|LId[Strongs]=1047+|Ref=DEUT_3.29|Ref[BHSA]=95157|Ref[MACULA]=o050030290041|Translit=bet
 8	פְּעֹֽור	פעור	PROPN	nmpr	Number=Sing	7	compound:smixut	_	Gloss=Beth Peor|Ref=DEUT_3.29|Ref[BHSA]=95157|SpaceAfter=No|Translit=peʻor
 9	׃	׃	PUNCT	punct	_	2	punct	_	Ref=DEUT_3.29
 10	פ	פ	PUNCT	punct	_	2	punct	_	Ref=DEUT_3.29
@@ -21889,8 +21889,8 @@
 27	בַּ	ב	ADP	prep	_	29	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_4.46|Ref[BHSA]=96236|Ref[MACULA]=o050040460031|Translit=ba
 28	ה	ה	DET	art	PronType=Art	29	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_4.46|Ref[BHSA]=96237|Ref[MACULA]=o050040460031ה|Translit=
 29	גַּ֗יְא	גיא	NOUN	subs	Number=Sing	11	obl	_	Cantillation=Revia|Gloss=valley|LexDomain[SDBH]=001005002002002|LId[SDBH]=001390001001000|LId[Strongs]=1516|Ref=DEUT_4.46|Ref[BHSA]=96238|Ref[MACULA]=o050040460032|Translit=gayʼ
-30	מ֚וּל	מול	NOUN	subs	Gender=Masc|Number=Sing	29	obl	_	Cantillation=Yetiv|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_4.46|Ref[BHSA]=96239|Ref[MACULA]=o050040460041|Translit=mul
-31	בֵּ֣ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	30	nmod	_	Cantillation=Munah|Gloss=Beth Peor|LexDomain[SDBH]=003001010|LId[SDBH]=000972001001000|LId[Strongs]=1047+|Ref=DEUT_4.46|Ref[BHSA]=96240|Ref[MACULA]=o050040460051|Translit=bet
+30	מ֚וּל	מול	ADP	subs	_	31	case	_	Cantillation=Yetiv|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_4.46|Ref[BHSA]=96239|Ref[MACULA]=o050040460041|Translit=mul
+31	בֵּ֣ית	בית	NOUN	nmpr	Gender=Masc|Number=Sing	29	nmod	_	Cantillation=Munah|Gloss=Beth Peor|LexDomain[SDBH]=003001010|LId[SDBH]=000972001001000|LId[Strongs]=1047+|Ref=DEUT_4.46|Ref[BHSA]=96240|Ref[MACULA]=o050040460051|Translit=bet
 32	פְּעֹ֔ור	פעור	PROPN	nmpr	Number=Sing	31	compound:smixut	_	Cantillation=ZaqefQatan|Gloss=Beth Peor|Ref=DEUT_4.46|Ref[BHSA]=96240|Translit=peʻor
 33-34	בְּאֶ֗רֶץ	_	_	_	_	_	_	_	Translit=beʼerets
 33	בְּ	ב	ADP	prep	_	34	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_4.46|Ref[BHSA]=96241|Ref[MACULA]=o050040460071|Translit=be

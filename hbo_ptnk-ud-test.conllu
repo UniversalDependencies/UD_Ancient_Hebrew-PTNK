@@ -20529,10 +20529,10 @@
 20	בָּ	ב	ADP	prep	_	22	case	_	Gloss=in|LId[Strongs]=b|Ref=DEUT_11.30|Ref[BHSA]=100252|Ref[MACULA]=o050110300121|Translit=ba
 21	ה	ה	DET	art	PronType=Art	22	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_11.30|Ref[BHSA]=100253|Ref[MACULA]=o050110300121ה|Translit=
 22	עֲרָבָ֑ה	ערבה	NOUN	subs	Gender=Fem|Number=Sing	19	obl	_	Cantillation=Etnahta|Gloss=desert|LId[Strongs]=6160|Ref=DEUT_11.30|Ref[BHSA]=100254|Ref[MACULA]=o050110300122|Translit=ʻaravah
-23	מ֚וּל	מול	NOUN	subs	Gender=Masc|Number=Sing	19	obl	_	Cantillation=Yetiv|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_11.30|Ref[BHSA]=100255|Ref[MACULA]=o050110300131|Translit=mul
+23	מ֚וּל	מול	ADP	subs	_	25	case	_	Cantillation=Yetiv|Gloss=front|LexDomain[SDBH]=002002001016|LId[SDBH]=003775001001000|LId[Strongs]=4136|Ref=DEUT_11.30|Ref[BHSA]=100255|Ref[MACULA]=o050110300131|Translit=mul
 24-25	הַגִּלְגָּ֔ל	_	_	_	_	_	_	_	Translit=hagilgal
 24	הַ	ה	DET	art	PronType=Art	25	det	_	Gloss=the|LId[Strongs]=d|Ref=DEUT_11.30|Ref[BHSA]=100256|Ref[MACULA]=o050110300141|Translit=ha
-25	גִּלְגָּ֔ל	גלגל	PROPN	nmpr	Number=Sing	23	compound:smixut	_	Cantillation=ZaqefQatan|Gloss=Gilgal|LexDomain[SDBH]=003001010|LId[SDBH]=001409002004000|LId[Strongs]=1537|Ref=DEUT_11.30|Ref[BHSA]=100257|Ref[MACULA]=o050110300142|Translit=gilgal
+25	גִּלְגָּ֔ל	גלגל	PROPN	nmpr	Number=Sing	19	obl	_	Cantillation=ZaqefQatan|Gloss=Gilgal|LexDomain[SDBH]=003001010|LId[SDBH]=001409002004000|LId[Strongs]=1537|Ref=DEUT_11.30|Ref[BHSA]=100257|Ref[MACULA]=o050110300142|Translit=gilgal
 26	אֵ֖צֶל	אצל	ADP	subs	_	27	case	_	Cantillation=Tipeha|Gloss=side|LexDomain[SDBH]=002002001013|LId[SDBH]=000628001001000|LId[Strongs]=681|Ref=DEUT_11.30|Ref[BHSA]=100258|Ref[MACULA]=o050110300151|Translit=ʼetsel
 27	אֵלֹונֵ֥י	אלון	NOUN	subs	Gender=Masc|Number=Plur	19	obl	_	Cantillation=Merkha|Gloss=big tree|LexDomain[SDBH]=003001014|LId[SDBH]=000402002002000|LId[Strongs]=436|Ref=DEUT_11.30|Ref[BHSA]=100259|Ref[MACULA]=o050110300161|Translit=ʼelone
 28	מֹרֶֽה	מורה	PROPN	nmpr	Number=Sing	27	compound:smixut	_	Gloss=Moreh|LexDomain[SDBH]=003001010|LId[SDBH]=003812003001000|LId[Strongs]=4176|Ref=DEUT_11.30|Ref[BHSA]=100260|Ref[MACULA]=o050110300171|SpaceAfter=No|Translit=moreh
